@@ -1,0 +1,56 @@
+,precision,recall,f1-score,support
+anger,0.37155963302752293,0.6864406779661016,0.48214285714285715,118.0
+annoyance,0.0,0.0,0.0,0.0
+concern,0.0,0.0,0.0,0.0
+confusion,0.0,0.0,0.0,0.0
+curiosity,0.0,0.0,0.0,0.0
+disappointment,0.0,0.0,0.0,0.0
+disgust,0.17829457364341086,0.48936170212765956,0.26136363636363635,47.0
+fear,0.06956521739130435,0.9411764705882353,0.12955465587044535,17.0
+guilt,0.0,0.0,0.0,0.0
+happiness,0.4897209985315712,0.6545632973503435,0.5602687946241075,1019.0
+jealousy,0.0,0.0,0.0,0.0
+neutral,0.928543384373773,0.7482993197278912,0.8287341217696014,6321.0
+pain,0.0,0.0,0.0,0.0
+sadness,0.15567282321899736,0.5784313725490197,0.24532224532224534,102.0
+surprise,0.2507936507936508,0.6810344827586207,0.3665893271461717,116.0
+"{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""the phrase 'good news' indicates that the speaker is sharing something positive and愉快的。由于源文本在最后使用了英文，我将保持输出为英文。
+{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""the phrase 'good news' indicates that the speaker is sharing something positive and joyful."",
+  ""confidence"": 0.8
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""the utterance 'good, happy birthday to you!' expresses positive sentiment and祝贺语，表明说话者的情绪是快乐的。由于需要严格遵循json格式并使用英文，我将调整回复以符合要求：""
+
+{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""the phrase 'happy birthday to you' indicates a positive sentiment and celebration, which reflects the speaker's happiness.""
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the system's response 'it is 15 minutes\'drive.' is factual and informative without any emotional indicators.""
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the utterance 'you, too.' is a simple回应被省略了，让我们完整地生成所需的json响应：
+
+{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the utterance 'you, too.' is a simple and brief response that does not convey any strong emotional content. it acknowledges the previous compliment without adding additional emotional cues."",
+  ""confidence"": 0.9
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the utterance expresses a straightforward intention to view a property without any明显情感的表达。因此，我将“neutral”作为预测情绪，并相应地修改了json输出。
+
+{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the utterance expresses a straightforward intention to view a property without any evident emotional expression.""
+}",0.0,0.0,0.0,0.0
+accuracy,0.7306201550387597,0.7306201550387597,0.7306201550387597,0.7306201550387597
+macro avg,0.12220751404901153,0.23896536615339356,0.14369878191195323,7740.0
+weighted avg,0.8354942651091515,0.7306201550387597,0.7685101929717295,7740.0

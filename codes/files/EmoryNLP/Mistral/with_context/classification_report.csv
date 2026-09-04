@@ -1,0 +1,40 @@
+,precision,recall,f1-score,support
+concern,0.0,0.0,0.0,0.0
+concerned,0.0,0.0,0.0,0.0
+curious,0.0,0.0,0.0,0.0
+desire,0.0,0.0,0.0,0.0
+determined,0.0,0.0,0.0,0.0
+excited,0.0,0.0,0.0,0.0
+focused,0.0,0.0,0.0,0.0
+frustrated,0.0,0.0,0.0,0.0
+grateful,0.0,0.0,0.0,0.0
+happy,0.0,0.0,0.0,0.0
+joyful,0.6758620689655173,0.35,0.4611764705882353,280.0
+mad,0.362962962962963,0.44144144144144143,0.3983739837398374,111.0
+neutral,0.3652618135376756,0.8242074927953891,0.5061946902654867,347.0
+peaceful,0.3225806451612903,0.06493506493506493,0.10810810810810811,154.0
+powerful,0.19047619047619047,0.02857142857142857,0.049689440993788817,140.0
+proud,0.0,0.0,0.0,0.0
+sad,0.26506024096385544,0.4489795918367347,0.3333333333333333,98.0
+sarcastic,0.0,0.0,0.0,0.0
+scared,0.5,0.016666666666666666,0.03225806451612903,180.0
+scattered,0.0,0.0,0.0,0.0
+sexually aroused,0.0,0.0,0.0,0.0
+surprised,0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""joyful"",
+  ""reasoning"": ""'cause it's you."" (david expresses joy in his feelings towards phoebe),
+  ""confidence"": 0.95
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""mad"",
+  ""reasoning"": ""'it was a big deal.' and 'i-i was there, you're not that good an actress.'"" indicate that joey is expressing frustration or anger about the situation.
+  ""confidence"": 0.85
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the utterance does not contain any explicit emotional indicators. it is a simple statement about turning off the porn, which can be seen as neutral in this context."",
+  ""confidence"": 0.9",0.0,0.0,0.0,0.0
+accuracy,0.37709923664122136,0.37709923664122136,0.37709923664122136,0.37709923664122136
+macro avg,0.10728815688269969,0.08699206744986902,0.07556536366179674,1310.0
+weighted avg,0.4187756542998247,0.37709923664122136,0.31379906118267226,1310.0

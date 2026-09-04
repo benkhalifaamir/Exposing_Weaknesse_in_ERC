@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>🧠 Emotion Debate Interface</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {font-family: "Segoe UI", sans-serif; background:#f4f6f8; color:#333; padding:20px;}
+    h2{text-align:center;color:#2c3e50;}
+    .dialogue{background:#fff;margin:15px auto;padding:15px 20px;border-radius:10px;box-shadow:0 2px 6px rgba(0,0,0,0.1);width:90%;max-width:700px;}
+    .speaker{font-weight:bold;color:#0056b3;}
+    button{background:#007bff;border:none;color:white;padding:8px 14px;border-radius:6px;cursor:pointer;}
+    button:hover{background:#0056b3;}
+    #results{background:#fff;margin:25px auto;padding:20px;width:90%;max-width:900px;border-radius:10px;box-shadow:0 2px 6px rgba(0,0,0,0.1);}
+    .msg{margin:6px 0;padding:8px 12px;border-radius:8px;max-width:90%;}
+    .agentA{background:#e8f1ff;}
+    .agentB{background:#fef1e6;}
+    .system{background:#eee;text-align:center;font-style:italic;}
+    .chatlog{display:flex;flex-direction:column;gap:5px;}
+  </style>
+</head>
+<body>
+  <h2>🧩 Live Debate between Agents (Ollama)</h2>
+
+  {% for d in dialogues %}
+  <div class="dialogue">
+    <h4>Dialogue ID {{ d.id }}</h4>
+    {% for u in d.dialogue %}
+      <div><span class="speaker">{{u.speaker}}:</span> {{u.utterance}}</div>
+    {% endfor %}
+    <div style="text-align:right;">
+      <button onclick='runDebate({{ d.dialogue|tojson|safe }})'>▶ Run Live Debate</button>
+    </div>
+  </div>
+  {% endfor %}
+
+  <div id="results">
+    <h3>Debate Log</h3>
+    <div class="chatlog" id="chatlog"></div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

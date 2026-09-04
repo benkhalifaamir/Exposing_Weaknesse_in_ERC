@@ -1,0 +1,101 @@
+scene_id	speaker	utterance	Annotated_Emotion
+s01_e10_c06	David	Thank you, Max. Thank you.	joyful
+s01_e10_c06	Phoebe Buffay	So-so you're really not going?	Sad
+s01_e10_c06	David	I don't know. I don't know what I'm gonna do. I just- you decide.	Sad
+s01_e10_c06	Phoebe Buffay	Oh don't do that.	Mad
+s03_e20_c04	Lauren	I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives.	Joyful
+s03_e20_c04	Joey Tribbiani	Get out of here, really?!	Joyful
+s03_e20_c04	Lauren	Absolutely!	joyful
+s03_e20_c04	Joey Tribbiani	Yeah?	Neutral
+s04_e17_c13	Joey Tribbiani	Noo! Nothing!	Scared
+s04_e17_c13	Chandler Bing	Y'know what, we have to turn off the porn.	Neutral
+s04_e17_c13	Joey Tribbiani	I think you're right.	Peaceful
+s04_e17_c13	Chandler Bing	All right, ready?	Neutral
+s01_e01_c13	Joey Tribbiani	Of course it was a line!	Mad
+s01_e01_c13	Monica Geller	Why?! Why? Why, why would anybody do something like that?	Mad
+s01_e01_c13	Ross Geller	I assume we're looking for an answer more sophisticated than 'to get you into bed'.	Neutral
+s01_e01_c13	Monica Geller	I hate men! I hate men!	Mad
+s04_e17_c12	Monica Geller	Oh, you came to tell him you love him! I knew it! I was right! I'm right	Joyful
+s04_e17_c12	Emily Waltham	I'd really rather talk to him.	Neutral
+s04_e17_c12	Monica Geller	Oh.	Sad
+s04_e17_c12	Emily Waltham	I uh, I've been to his apartment and he wasn't there	Scared
+s01_e01_c08	Paul the Wine Guy	No, it's	Neutral
+s01_e01_c08	Monica Geller	Oh, so there is gonna be a fifth date?	Joyful
+s01_e01_c08	Paul the Wine Guy	Isn't there?	Neutral
+s01_e01_c08	Monica Geller	Yeah... yeah, I think there is. -What were you gonna say?	joyful
+s02_e23_c02	Monica Geller	Honey, you made the bed again. I told you	Peaceful
+s02_e23_c02	Richard Burke	Ooh, then I guess the panty raid last night was totally uncalled for. Ok	Joyful
+s02_e23_c02	Richard Burke	Monica... Hey Mon, I have a question. Is Leroy the baddest man in the whole damn town or the fattest man in the whole damn town?	Neutral
+s02_e23_c02	Monica Geller	Baddest. Otherwise the song would be Fat Fat Leroy Brown.	Neutral
+s04_e02_c04	Rachel Green	Oh, you go out with him.	Neutral
+s04_e02_c04	Monica Geller	Oh, really?!	Joyful
+s04_e02_c04	Rachel Green	Yeah. Just, if it's possible	Mad
+s04_e02_c04	Monica Geller	I'll try.	Neutral
+s01_e10_c04	David	Rrrreally.	Joyful
+s01_e10_c04	Phoebe Buffay	Oh, yeah, just sweep and throw me.	Joyful
+s01_e10_c04	David	...Now? Now?	Scared
+s01_e10_c04	Phoebe Buffay	Oh yeah, right now.	Powerful
+s03_e20_c04	Lauren	Oh but then, they went and dropped you down that elevator shaft.	Sad
+s03_e20_c04	Joey Tribbiani	They gave me the shaft all right.	Sad
+s03_e20_c04	Lauren	Oh, you're so funny. Listen, or something?	Joyful
+s03_e20_c04	Joey Tribbiani	Well Ahh, yeah! Yeah	Joyful
+s03_e08_c01	Chandler Bing	That is so weird, because every time I go to the dentist	Neutral
+s03_e08_c01	Rachel Green	Phoebe, what? Umm...what?!	Scared
+s03_e08_c01	Phoebe Buffay	Yeah, yeah, John, my mailman, and then my, my cowboy friend 'Albino Bob'.	Sad
+s03_e08_c01	Rachel Green	And all these people actually died?	Scared
+s04_e17_c06	Emily Waltham	Me too.	Sad
+s04_e17_c06	Ticket Agent	This is the final boarding call for Flight 009.	Neutral
+s04_e17_c06	Emily Waltham	Well, that' me. Here	Neutral
+s04_e17_c06	Ross Geller	Wait uh, listen. I-I, I'm just gonna come out and say it. Okay? I-I-I ah, I-I think I love you.	Powerful
+s04_e20_c04	Monica Geller	Okay.	Neutral
+s04_e20_c04	Phoebe Buffay	You're the most beautiful bride I've ever seen.	Joyful
+s04_e20_c04	Monica Geller	I am, aren't I?	Joyful
+s04_e20_c04	The Saleslady	Ms. Waltham?	Neutral
+s02_e23_c08	Jeannie	Oh, that sounds lovely. We're gonna have to set that up. Oh	Peaceful
+s02_e23_c08	Joey Tribbiani	Oh, thanks	Peaceful
+s02_e23_c08	Jeannie	Bye bye Joey.	Peaceful
+s02_e23_c08	Joey Tribbiani	What a phony.	Mad
+s02_e23_c12	Richard Burke	Hey come on, you haven't heard my reason yet.	Mad
+s02_e23_c12	Monica Geller	Alright, go on.	Neutral
+s02_e23_c12	Richard Burke	Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side.	Neutral
+s02_e23_c12	Monica Geller	Oh my God, you're a freak.	Mad
+s01_e01_c13	Ross Geller	I assume we're looking for an answer more sophisticated than 'to get you into bed'.	Neutral
+s01_e01_c13	Monica Geller	I hate men! I hate men!	Mad
+s01_e01_c13	Phoebe Buffay	Oh no, don't hate	Peaceful
+s01_e01_c13	Monica Geller	Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?	Sad
+s03_e20_c14	Joanna	Well, this isn't how I was hoping how this would end	Sad
+s03_e20_c14	Chandler Bing	Yeah, o-okay.	Neutral
+s03_e20_c14	Joanna	So...	Joyful
+s03_e20_c14	Chandler Bing	Well this is great! I'll give you a call! We should do it again sometime!	Neutral
+s02_e23_c07	Phoebe Buffay	No. This is what I do for luck, ok.	Mad
+s02_e23_c07	Ryan	You're scratching. Give me the dice.	Mad
+s02_e23_c07	Phoebe Buffay	No.	Mad
+s02_e23_c07	Ryan	Give me the dice.	Neutral
+s03_e08_c01	Chandler Bing	All right I'll have one.	Neutral
+s03_e08_c01	Ross Geller	So what's a matter, you need a dentist? I've got a good one.	Neutral
+s03_e08_c01	Phoebe Buffay	No thanks, I have a good one too. I just	Sad
+s03_e08_c01	Chandler Bing	See that is the problem with invisible dentists.	Joyful
+s04_e17_c13	Chandler Bing	Y'know what, we have to turn off the porn.	Neutral
+s04_e17_c13	Joey Tribbiani	I think you're right.	Neutral
+s04_e17_c13	Chandler Bing	All right, ready?	Neutral
+s04_e17_c13	Joey Tribbiani	One.	Scared
+s03_e08_c11	Chandler Bing	Janice, I have something I need to tell you, it's, it's not gonna be easy.	Neutral
+s03_e08_c11	Janice Litman Goralnik	Okay.	Sad
+s03_e08_c11	Chandler Bing	I think you should go back with Gary. I don't wanna be the guy that breaks up a family, y'know when my parents split up, or how happy he made my Dad.	Joyful
+s03_e08_c11	Janice Litman Goralnik	Wow!	Neutral
+s02_e23_c08	Chandler Bing	Well the people in my group wanna spend the holiday weekend with their families.	Powerful
+s02_e23_c08	Mr. Douglas	I have a family, I'm gonna be here.	Mad
+s02_e23_c08	Joey Tribbiani	Yeah Bing, what's that about?	Neutral
+s02_e23_c08	Chandler Bing	It's about cutting my people a little slack, ya know, I can get them to you by Wednesday.	Peaceful
+s03_e08_c03	Ross Geller	Yes, that's what I was going to ask	Mad
+s03_e08_c03	Rachel Green	Whoa! Wait! Hello! What about me?	Mad
+s03_e08_c03	Ross Geller	You? You! Want to watch Ben? Yes! That'd be great, no	Neutral
+s03_e08_c03	Joey Tribbiani	Hey-hey, Ross?	Joyful
+s04_e20_c06	Phoebe Buffay	Yeah!	Scared
+s04_e20_c06	Monica Geller	Can you just hold on for one minute?	Mad
+s04_e20_c06	Phoebe Buffay	No, you have to let me in right now!!	Scared
+s04_e20_c06	Monica Geller	Are you alone?	Sad
+s01_e01_c05	Paul the Wine Guy	I know, I know	Sad
+s01_e01_c05	Monica Geller	My brother's going through that right now, he's such a mess. How did you get through it?	Neutral
+s01_e01_c05	Paul the Wine Guy	Well, you might try accidentally breaking something valuable of hers	Neutral
+s01_e01_c05	Monica Geller	#NOM?	Neutral

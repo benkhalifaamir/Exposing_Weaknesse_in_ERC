@@ -1,0 +1,101 @@
+scene_id,speaker,utterance,emotion_original,Annotated_Emotion_1,Annotated_Emotion_2,Annotated_Emotion_3,Annotated_Emotion_4,turn_id,LLM_joyful,LLM_mad,LLM_neutral,LLM_peaceful,LLM_powerful,LLM_sad,LLM_scared
+s01_e01_c05,Paul the Wine Guy,"I know, I know, I'm such an idiot. I guess I should have caught on when she started going to the dentist four and five times a week. I mean, how clean can teeth get?",Sad,sad,Sad,Sad,Sad,1,0,1,1,0,0,1,1
+s01_e01_c05,Monica Geller,"My brother's going through that right now, he's such a mess. How did you get through it?",Sad,neutral,Sad,Neutral,Sad,2,0,0,1,0,0,1,1
+s01_e01_c05,Paul the Wine Guy,"Well, you might try accidentally breaking something valuable of hers, say her-",Powerful,neutral,Neutral,Neutral,Neutral,3,0,1,1,0,0,1,0
+s01_e01_c05,Monica Geller,#NOM?,Joyful,neutral,neutral,Neutral,Neutral,4,0,1,1,0,0,1,0
+s01_e01_c08,Paul the Wine Guy,"No, it's, it's more of a fifth date kinda revelation.",Sad,neutral,Neutral,Neutral,Neutral,1,1,0,1,0,0,1,0
+s01_e01_c08,Monica Geller,"Oh, so there is gonna be a fifth date?",Neutral,joyful,Neutral,Joyful,Neutral,2,1,1,1,0,0,0,0
+s01_e01_c08,Paul the Wine Guy,Isn't there?,Scared,neutral,Neutral,Neutral,Neutral,3,1,0,1,0,0,0,0
+s01_e01_c08,Monica Geller,"Yeah... yeah, I think there is. -What were you gonna say?",Neutral,powerful,Neutral,joyful,Neutral,4,1,0,1,0,0,0,0
+s01_e01_c13,Joey Tribbiani,Of course it was a line!,Mad,neutral,Joyful,Mad,Neutral,1,1,1,1,0,0,0,0
+s01_e01_c13,Monica Geller,"Why?! Why? Why, why would anybody do something like that?",Mad,mad,Mad,Mad,Mad,2,0,1,1,0,1,1,1
+s01_e01_c13,Ross Geller,I assume we're looking for an answer more sophisticated than 'to get you into bed'.,Neutral,neutral,Neutral,Neutral,Neutral,3,0,1,1,0,1,0,0
+s01_e01_c13,Monica Geller,I hate men! I hate men!,Mad,mad,Mad,Mad,Mad,4,0,1,0,0,1,1,0
+s01_e01_c13,Ross Geller,I assume we're looking for an answer more sophisticated than 'to get you into bed'.,Neutral,neutral,Neutral,Neutral,Neutral,5,0,1,1,0,1,0,0
+s01_e01_c13,Monica Geller,I hate men! I hate men!,Mad,mad,Mad,Mad,Mad,6,0,1,0,0,1,1,1
+s01_e01_c13,Phoebe Buffay,"Oh no, don't hate, you don't want to put that out into the universe.",Peaceful,peaceful,Scared,Peaceful,Scared,7,0,1,1,1,0,1,1
+s01_e01_c13,Monica Geller,Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?,Mad,scared,Scared,Sad,Sad,8,0,1,1,0,0,1,1
+s01_e10_c04,David,Rrrreally.,Neutral,scared,Scared,Joyful,Neutral,1,0,1,1,0,1,1,1
+s01_e10_c04,Phoebe Buffay,"Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.",Joyful,powerful,Neutral,Joyful,Mad,2,1,0,0,0,1,0,0
+s01_e10_c04,David,...Now? Now?,Scared,scared,Scared,Scared,Neutral,3,0,1,1,0,1,1,1
+s01_e10_c04,Phoebe Buffay,"Oh yeah, right now.",Powerful,powerful,Neutral,Powerful,Neutral,4,1,1,1,0,1,0,0
+s01_e10_c06,David,"Thank you, Max. Thank you.",Peaceful,neutral,Peaceful,joyful,Joyful,1,1,0,1,1,0,1,0
+s01_e10_c06,Phoebe Buffay,So-so you're really not going?,Neutral,sad,Sad,Sad,Sad,2,0,1,1,0,0,1,0
+s01_e10_c06,David,I don't know. I don't know what I'm gonna do. I just- you decide.,Neutral,neutral,Neutral,Sad,Scared,3,0,1,1,0,0,1,1
+s01_e10_c06,Phoebe Buffay,Oh don't do that.,Scared,mad,Neutral,Mad,Sad,4,0,1,1,0,0,1,0
+s02_e23_c02,Monica Geller,"Honey, you made the bed again. I told you, you don't have to do that. This isn't camp.",Joyful,peaceful,Neutral,Peaceful,Neutral,1,1,1,1,0,1,0,0
+s02_e23_c02,Richard Burke,"Ooh, then I guess the panty raid last night was totally uncalled for. Ok, I am going to take a shower and today I will be singing Jim Crochee's Leroy Brown.",Joyful,neutral,Joyful,Joyful,Neutral,2,1,0,1,0,0,0,0
+s02_e23_c02,Richard Burke,"Monica... Hey Mon, I have a question. Is Leroy the baddest man in the whole damn town or the fattest man in the whole damn town?",Powerful,neutral,Neutral,Neutral,Neutral,3,1,0,1,1,1,0,0
+s02_e23_c02,Monica Geller,Baddest. Otherwise the song would be Fat Fat Leroy Brown.,Joyful,neutral,Neutral,Neutral,Neutral,4,1,0,1,1,1,0,0
+s02_e23_c07,Phoebe Buffay,"No. This is what I do for luck, ok.",Powerful,mad,Neutral,Mad,Mad,1,1,1,1,0,1,0,1
+s02_e23_c07,Ryan,You're scratching. Give me the dice.,Powerful,mad,Neutral,Mad,Neutral,2,0,1,1,0,0,0,0
+s02_e23_c07,Phoebe Buffay,No.,Powerful,mad,Neutral,Mad,Mad,3,0,1,1,0,1,0,0
+s02_e23_c07,Ryan,Give me the dice.,Powerful,mad,Neutral,Neutral,Mad,4,0,1,1,0,1,0,0
+s02_e23_c08,Jeannie,"Oh, that sounds lovely. We're gonna have to set that up. Oh, I better get back. Hope the baby feels better.",Joyful,joyful,Joyful,Peaceful,Joyful,1,1,0,1,1,0,1,0
+s02_e23_c08,Joey Tribbiani,"Oh, thanks, thanks. Bye bye Jeannie.",Neutral,neutral,Joyful,Peaceful,Neutral,2,1,0,1,1,0,1,0
+s02_e23_c08,Jeannie,Bye bye Joey.,Neutral,neutral,Joyful,Peaceful,Neutral,3,1,0,1,1,0,0,0
+s02_e23_c08,Joey Tribbiani,What a phony.,Mad,joyful,Mad,Mad,Neutral,4,0,1,1,0,0,0,0
+s02_e23_c08,Chandler Bing,Well the people in my group wanna spend the holiday weekend with their families.,Neutral,neutral,Neutral,Powerful,Neutral,5,0,1,1,0,0,0,0
+s02_e23_c08,Mr. Douglas,"I have a family, I'm gonna be here.",Peaceful,neutral,Neutral,Mad,Neutral,6,0,1,1,1,1,0,0
+s02_e23_c08,Joey Tribbiani,"Yeah Bing, what's that about?",Neutral,neutral,Neutral,Neutral,Neutral,7,0,1,1,0,0,0,0
+s02_e23_c08,Chandler Bing,"It's about cutting my people a little slack, ya know, for morale. Look, if you wanna see some rough numbers, I can get them to you by Wednesday.",Powerful,neutral,Neutral,Peaceful,Neutral,8,0,1,1,0,0,0,0
+s02_e23_c12,Richard Burke,"Hey come on, you haven't heard my reason yet.",Mad,mad,Neutral,Mad,Mad,1,0,1,1,0,1,0,0
+s02_e23_c12,Monica Geller,"Alright, go on.",Neutral,neutral,Neutral,Neutral,Neutral,2,0,0,1,0,0,0,0
+s02_e23_c12,Richard Burke,"Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side.",Neutral,mad,Neutral,Neutral,Neutral,3,0,0,1,0,0,0,0
+s02_e23_c12,Monica Geller,"Oh my God, you're a freak.",Joyful,mad,Neutral,Mad,Mad,4,0,1,1,0,1,0,0
+s03_e08_c01,Chandler Bing,"That is so weird, because every time I go to the dentist, I look down the hygienist's blouse.",Scared,mad,Joyful,Neutral,Neutral,1,0,0,1,0,0,0,0
+s03_e08_c01,Rachel Green,"Phoebe, what? Umm...what?!",Scared,scared,Powerful,Scared,Mad,2,0,1,1,0,0,0,1
+s03_e08_c01,Phoebe Buffay,"Yeah, yeah, first there was my aunt Mary, and then there was umm, John, my mailman, and then my, my cowboy friend 'Albino Bob'.",Scared,scared,Neutral,Sad,Neutral,3,1,0,1,0,0,0,0
+s03_e08_c01,Rachel Green,And all these people actually died?,Scared,sad,Sad,Scared,Scared,4,0,1,1,0,1,1,1
+s03_e08_c01,Chandler Bing,All right I'll have one.,Joyful,neutral,Neutral,Neutral,Neutral,5,0,0,1,0,0,0,0
+s03_e08_c01,Ross Geller,"So what's a matter, you need a dentist? I've got a good one.",Peaceful,neutral,Neutral,Neutral,Neutral,6,0,0,1,0,0,0,0
+s03_e08_c01,Phoebe Buffay,"No thanks, I have a good one too. I just, I, I can't see him.",Scared,neutral,Scared,Sad,Neutral,7,0,1,1,0,0,1,1
+s03_e08_c01,Chandler Bing,See that is the problem with invisible dentists.,Joyful,neutral,Neutral,Joyful,Neutral,8,1,1,1,0,0,0,0
+s03_e08_c03,Ross Geller,"Yes, that's what I was going to ask, thank you.",Powerful,neutral,Neutral,Mad,Neutral,1,0,1,1,0,0,0,0
+s03_e08_c03,Rachel Green,Whoa! Wait! Hello! What about me?,Scared,sad,Neutral,Mad,Mad,2,1,1,1,0,1,1,1
+s03_e08_c03,Ross Geller,"You? You! Want to watch Ben? Yes! That'd be great, no, I just wanted to ask Monica, because I know how empty her life is.",Scared,neutral,Neutral,Neutral,Sad,3,0,1,0,0,0,0,0
+s03_e08_c03,Joey Tribbiani,"Hey-hey, Ross?",Neutral,neutral,Neutral,Joyful,Neutral,4,0,0,1,0,0,0,0
+s03_e08_c11,Chandler Bing,"Janice, I have something I need to tell you, and I want you to let me get through it, because it's, it's, it's not gonna be easy.",Scared,scared,Neutral,Neutral,Scared,1,0,1,1,0,1,1,1
+s03_e08_c11,Janice Litman Goralnik,Okay.,Neutral,neutral,Neutral,Sad,Neutral,2,0,0,1,0,1,1,1
+s03_e08_c11,Chandler Bing,"I think you should go back with Gary. I don't wanna be the guy that breaks up a family, y'know when my parents split up, it was because of that guy. Whenever I would see him I was always think y'know 'You're the reason, you are the reason why their not together.' and I hated that guy. And it didn't matter how nice he was, or how happy he made my Dad.",Powerful,sad,Sad,Joyful,Sad,3,0,1,1,0,1,1,1
+s03_e08_c11,Janice Litman Goralnik,Wow!,Scared,neutral,Joyful,Neutral,Neutral,4,0,1,1,0,1,1,1
+s03_e20_c04,Lauren,"I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives.",Joyful,sad,Neutral,Joyful,Neutral,1,1,0,1,0,0,0,0
+s03_e20_c04,Joey Tribbiani,"Get out of here, really?!",Joyful,mad,Mad,Joyful,Joyful,2,1,0,1,0,1,0,0
+s03_e20_c04,Lauren,Absolutely!,Joyful,neutral,Mad,joyful,Joyful,3,1,0,1,0,0,0,0
+s03_e20_c04,Joey Tribbiani,Yeah?,Neutral,mad ,Mad,Neutral,Neutral,4,1,0,1,0,0,0,0
+s03_e20_c04,Lauren,"Oh but then, they went and dropped you down that elevator shaft.",Sad,mad,Neutral,Sad,Neutral,5,0,1,1,0,0,1,1
+s03_e20_c04,Joey Tribbiani,They gave me the shaft all right.,Sad,mad ,Neutral,Sad,Neutral,6,1,1,1,0,1,1,0
+s03_e20_c04,Lauren,"Oh, you're so funny. Listen, umm, what are you doing after rehearsals? Do you want to get a drink, or something?",Scared,joyful,Joyful,Joyful,Neutral,7,1,0,1,0,0,0,0
+s03_e20_c04,Joey Tribbiani,"Well Ahh, yeah! Yeah, sure, a drink sounds great.",Neutral,joyful,Joyful,Joyful,Joyful,8,1,0,1,1,0,0,0
+s03_e20_c14,Joanna,"Well, this isn't how I was hoping how this would end, but I guess I have to appreciate your honesty.",Sad,sad,Neutral,Sad,Scared,1,0,1,1,1,0,1,0
+s03_e20_c14,Chandler Bing,"Yeah, o-okay.",Neutral,sad,Neutral,Neutral,Neutral,2,0,0,1,0,0,1,1
+s03_e20_c14,Joanna,So...,Neutral,sad,Neutral,Joyful,Neutral,3,0,1,1,0,0,1,1
+s03_e20_c14,Chandler Bing,Well this is great! I'll give you a call! We should do it again sometime!,Joyful,neutral,Joyful,Neutral,Neutral,4,0,1,0,0,0,0,0
+s04_e02_c04,Rachel Green,"Oh, you go out with him.",Peaceful,neutral,Neutral,Neutral,Neutral,1,1,1,1,0,0,1,0
+s04_e02_c04,Monica Geller,"Oh, really?!",Joyful,neutral,Neutral,Joyful,Joyful,2,1,1,1,0,0,0,0
+s04_e02_c04,Rachel Green,"Yeah. Just, if it's possible, could you leave him somewhere and go have sex with another guy?",Joyful,neutral,Neutral,Mad,Mad,3,0,1,0,0,0,0,0
+s04_e02_c04,Monica Geller,I'll try.,Peaceful,sad,Neutral,Neutral,Neutral,4,0,1,1,0,0,0,1
+s04_e17_c06,Emily Waltham,Me too.,Joyful,neutral,Sad,Sad,Neutral,1,1,0,1,0,0,1,1
+s04_e17_c06,Ticket Agent,This is the final boarding call for Flight 009.,Neutral,neutral,Neutral,Neutral,Neutral,2,0,0,1,0,0,0,0
+s04_e17_c06,Emily Waltham,"Well, that' me. Here, have this. I'm only allowed one piece of carryon anyway.",Peaceful,sad,Neutral,Neutral,Neutral,3,0,0,1,1,0,1,1
+s04_e17_c06,Ross Geller,"Wait uh, listen. I-I, I have to tell you something. Umm, I've been thinking, I'm just gonna come out and say it. Okay? I-I-I ah, I-I think I love you.",Powerful,peaceful,Scared,Powerful,Scared,4,1,0,1,0,1,1,1
+s04_e17_c12,Monica Geller,"Oh, you came to tell him you love him! I knew it! I was right! I'm right, right?",Joyful,powerful,Joyful,Joyful,Joyful,1,1,1,1,0,1,0,0
+s04_e17_c12,Emily Waltham,I'd really rather talk to him.,Scared,sad,Neutral,Neutral,Neutral,2,0,1,1,0,0,1,1
+s04_e17_c12,Monica Geller,Oh.,Sad,sad,Neutral,Sad,Neutral,3,1,1,1,0,1,1,1
+s04_e17_c12,Emily Waltham,"I uh, I've been to his apartment and he wasn't there, and uh. I need to talk to him, so do you have any idea where he is?",Scared,scared,Sad,Scared,Scared,4,0,1,1,0,0,1,1
+s04_e17_c13,Joey Tribbiani,Noo! Nothing!,Scared,mad,Mad,Scared,Neutral,1,1,1,1,0,1,1,1
+s04_e17_c13,Chandler Bing,"Y'know what, we have to turn off the porn.",Peaceful,mad,Neutral,Neutral,Neutral,2,0,1,1,0,0,1,1
+s04_e17_c13,Joey Tribbiani,I think you're right.,Powerful,neutral,Neutral,Peaceful,Neutral,3,0,0,1,1,0,1,0
+s04_e17_c13,Chandler Bing,"All right, ready?",Peaceful,neutral,Peaceful,Neutral,Neutral,4,1,0,1,1,0,0,0
+s04_e17_c13,Chandler Bing,"Y'know what, we have to turn off the porn.",Peaceful,neutral,Neutral,Neutral,Neutral,5,0,1,1,0,0,0,0
+s04_e17_c13,Joey Tribbiani,I think you're right.,Powerful,neutral,Neutral,Neutral,Neutral,6,0,1,1,1,0,1,0
+s04_e17_c13,Chandler Bing,"All right, ready?",Peaceful,neutral,Neutral,Neutral,Neutral,7,1,1,1,0,0,0,0
+s04_e17_c13,Joey Tribbiani,One.,Joyful,neutral,Neutral,Scared,Neutral,8,0,0,1,0,0,0,0
+s04_e20_c04,Monica Geller,Okay.,Powerful,neutral,Neutral,Neutral,Neutral,1,0,0,1,1,0,0,0
+s04_e20_c04,Phoebe Buffay,You're the most beautiful bride I've ever seen.,Peaceful,joyful,Joyful,Joyful,Joyful,2,1,0,1,1,1,1,0
+s04_e20_c04,Monica Geller,"I am, aren't I?",Powerful,powerful,Neutral,Joyful,Neutral,3,1,0,1,1,1,0,1
+s04_e20_c04,The Saleslady,Ms. Waltham?,Neutral,peaceful,Neutral,Neutral,Neutral,4,0,0,1,0,0,0,0
+s04_e20_c06,Phoebe Buffay,Yeah!,Neutral,neutral,Joyful,Scared,Neutral,1,1,0,1,1,1,0,0
+s04_e20_c06,Monica Geller,Can you just hold on for one minute?,Scared,mad,Neutral,Mad,Neutral,2,0,1,1,0,1,0,0
+s04_e20_c06,Phoebe Buffay,"No, you have to let me in right now!!",Mad,mad,Mad,Scared,Mad,3,0,1,0,0,1,1,1
+s04_e20_c06,Monica Geller,Are you alone?,Scared,sad,Neutral,Sad,Neutral,4,0,1,1,0,1,0,0

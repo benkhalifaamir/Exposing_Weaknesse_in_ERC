@@ -1,0 +1,101 @@
+conversation_id,speaker,utterance,Emotion_original,Annotated_Emotion_1,Annotated_Emotion_2,Annotated_Emotion,turn_id,LLM_angry,LLM_excited,LLM_frustrated,LLM_happy,LLM_neutral,LLM_sad
+CONV_001,Speaker_1,"Pass up what?  These little fish swim onto the beach, flop around, and then swim away and then they die.",angry,sad,sad,frustrated,1,0,0,1,0,1,1
+CONV_001,Speaker_0,"Yeah but that moment on the beach is the highlight of their little lives.  All that flopping around is laying eggs or what do you, spawning or mating something like that.",frustrated,neutral,happy,neutral,2,0,1,0,1,1,0
+CONV_001,Speaker_0,This is the big night for these guys.  Life's last orgy.,frustrated,neutral,excited,neutral,3,0,1,0,0,1,1
+CONV_001,Speaker_1,What are you so excited about?  This isn't a moon landing we're talking about.  It's fish.  It's fish nobody even eats.,frustrated,frustrated,neutral,neutral,4,1,1,1,0,1,0
+CONV_001,Speaker_0,Out there someplace there's this huge mass of silver fish heading this way.  They don't know why.  We don't know why.  It wasn't a decision.  They didn't take a vote.,excited,frustrated,neutral,sad,5,0,1,0,1,1,0
+CONV_001,Speaker_0,No one sent them a map or an invitation.  Just some little instinctual time release firecracker went off in their little bodies and all as one. They turned and formed a line as long as the California coast and started swimming.,excited,neutral,neutral,neutral,6,0,1,0,1,1,0
+CONV_001,Speaker_0,They're swimming right now as if that's the only thing that matters.,excited,frustrated,neutral,neutral,7,0,1,0,1,1,1
+CONV_001,Speaker_0,It's single mindedness with no mind.  Urgency that's pure urge.,excited,angry,neutral,neutral,8,0,1,1,1,1,1
+CONV_001,Speaker_1,So let's go home.,frustrated,neutral,neutral,neutral,9,1,0,1,0,1,1
+CONV_001,Speaker_0,"No, no, no.  That's not my point.  My point is is that there's no point in coming down here if we just leave.  Don't you want to see it?",frustrated,frustrated,neutral,neutral,10,1,1,1,0,1,0
+CONV_001,Speaker_1,Not particularly.,frustrated,neutral,neutral,neutral,11,1,0,1,0,1,1
+CONV_001,Speaker_1,I just don't.  It's stupid.,angry,angry,neutral,sad,12,1,0,1,0,1,0
+CONV_001,Speaker_1,"Look, it's pointless.  It's...we're not going to see the Grunions I mean, it's like waiting around to see Santa Claus, you know, it's...",frustrated,frustrated,neutral,neutral,13,1,0,1,0,1,1
+CONV_001,Speaker_0,I thought you wanted to see it.,frustrated,neutral,neutral,neutral,14,1,0,1,0,1,1
+CONV_001,Speaker_0,Do you want me to get some champagne?,frustrated,neutral,neutral,happy,15,1,1,1,0,1,0
+CONV_001,Speaker_1,I can't help thinking about being somewhere else.,sad,frustrated,neutral,sad,16,1,0,1,0,1,1
+CONV_001,Speaker_0,"The flashlight, the silver one.  There's only one isn't there?",frustrated,neutral,neutral,sad,17,0,0,1,0,1,1
+CONV_001,Speaker_1,It's not yours.,frustrated,frustrated,neutral,neutral,18,1,0,1,0,1,0
+CONV_001,Speaker_0,Well sure.,frustrated,neutral,neutral,neutral,19,1,0,1,0,1,0
+CONV_001,Speaker_0,"No of course our flashlight, yours and mine, mi flashlight es su flashlight naturally.  How could we not think to bring it?",frustrated,neutral,neutral,neutral,20,1,0,1,1,1,0
+CONV_002,Speaker_1,"Yeah, I mean there's all the money stuff and my mom's helping me with the financial aid and stuff.  But, it'll be fine--",excited,neutral,neutral,frustrated,1,0,0,1,1,1,1
+CONV_002,Speaker_1,"Like, now that I'm accepted, it's just, like, such a huge load off my mind.",excited,happiness,happy,neutral,2,0,1,0,1,1,0
+CONV_002,Speaker_1,I don't mind worrying about all the paperwork.  You know--,excited,neutral,neutral,neutral,3,0,1,1,1,1,0
+CONV_002,Speaker_0,So...,neutral,sad,neutral,neutral,4,0,1,1,1,1,0
+CONV_004,Speaker_0,"I don't want to go but,-",frustrated,sad,frustrated,sad,1,1,0,1,0,1,1
+CONV_004,Speaker_1,I don't care about the money.,frustrated,neutral,neutral,neutral,2,1,0,1,0,1,1
+CONV_004,Speaker_0,but they said they'd increase my pay by triple-there promotion.,frustrated,sad,neutral,neutral,3,1,1,1,1,1,0
+CONV_004,Speaker_0,No.,sad,sad,neutral,neutral,4,1,1,1,1,1,1
+CONV_004,Speaker_1,I'm done.  I can't honey.,sad,angry,sad,neutral,5,1,0,1,0,1,1
+CONV_004,Speaker_0,What do you mean?,sad,sad,neutral,sad,6,1,0,1,0,1,1
+CONV_004,Speaker_1,It's over.,sad,angry,sad,confused,7,1,0,1,0,1,1
+CONV_004,Speaker_1,Honey I can't do it anymore.,sad,sad,sad,sad,8,1,0,1,0,0,1
+CONV_004,Speaker_0,Honey after a year I can be back.,sad,sad,neutral,neutral,9,0,0,1,0,1,1
+CONV_004,Speaker_1,You said two years.,sad,sad,neutral,frustrated,10,1,0,1,0,1,1
+CONV_004,Speaker_0,They want me there two years but I could probably get,sad,sad,neutral,neutral,11,1,0,1,0,1,1
+CONV_004,Speaker_0,maybe get some vacation-- --once it quiets down there.,sad,sad,neutral,frustrated,12,1,0,1,0,1,1
+CONV_005,Speaker_1,I would like to talk to your supervisor.  Obviously you're incompetent and don't understand what I'm asking.,angry,angry,frustrated,frustrated,1,1,0,1,0,0,0
+CONV_005,Speaker_0,"Um- Let me connect you to my supervisor.  Actually, he's out right now so I'm supervisor until he comes back. Um-",neutral,frustrated,neutral,angry,2,1,0,1,0,1,1
+CONV_005,Speaker_1,What?,frustrated,angry,angry,neutral,3,1,0,1,0,1,0
+CONV_005,Speaker_0,"So you could----speak with me some more, you could call back later on maybe.",neutral,frustrated,neutral,neutral,4,1,0,1,0,1,0
+CONV_005,Speaker_0,Sara Brown.,neutral,neutral,neutral,frustrated,5,0,0,1,0,1,0
+CONV_005,Speaker_1,"Sara Brown.  Sara Brown, um- yeah, I'm going to get off the phone with you. And then I'm going to call back and I'm going to give your supervisor your name because you're obviously incompetent to work here.",frustrated,angry,neutral,angry,6,1,0,1,0,0,0
+CONV_005,Speaker_0,"You know maam, we record this conversation so anything you say can be proven in a law of court so keep that in mind.",neutral,angry,neutral,frustrated,7,1,0,1,0,1,0
+CONV_005,Speaker_1,"What are you, what are you a police officer now?  You know, like I'm done, I'm over it.  Goodbye and I hope that you lose your job.",frustrated,angry,angry,frustrated,8,1,1,1,0,0,0
+CONV_005,Speaker_1,"Hello?  God finally somebody, look, this is ridiculous.  I've been waiting online for like a half an hour now.",frustrated,angry,angry,frustrated,9,1,0,1,0,1,1
+CONV_005,Speaker_0,"I'm sorry ma'am, what can I help you with?",neutral,neutral,neutral,angry,10,0,0,1,0,1,0
+CONV_005,Speaker_1,"Look my, my phone isn't working.  I don't understand what's going on.  I am trying to call out.  I'm not receiving any calls",frustrated,angry,frustrated,frustrated,11,1,0,1,0,1,1
+CONV_005,Speaker_1,"and I need assistance with my...not only is my work phone, it's my home phone and look,",frustrated,angry,angry,sad,12,1,0,1,0,1,1
+CONV_005,Speaker_0,I didn't put you on hold.,frustrated,neutral,neutral,neutral,13,1,0,1,0,1,0
+CONV_005,Speaker_0,There are a lot of people calling us having problems.  Every phone company is having the same problems ma'am,frustrated,neutral,neutral,neutral,14,0,0,1,0,1,0
+CONV_005,Speaker_1,Every phone...every single phone company?,frustrated,angry,angry,neutral,15,1,0,1,0,1,1
+CONV_005,Speaker_0,"Mmm hmmm.  Mmm hmmm.  The power outages, everything, hurricane Katrina. Everything's really messed up.",neutral,neutral,neutral,neutral,16,1,0,1,0,1,1
+CONV_006,Speaker_0,"I have it right here, yes.",frustrated,neutral,neutral,frustrated,1,0,1,0,1,1,0
+CONV_006,Speaker_1,"No, I need your ID to give you a second ID.",angry,neutral,neutral,neutral,2,1,0,1,0,1,0
+CONV_006,Speaker_1,It's really simple if you have a problem with it... Maybe you should--,angry,mad,neutral,neutral,3,1,0,1,0,1,0
+CONV_006,Speaker_0,But that's...,frustrated,frustrated,neutral,frustrated,4,1,0,1,0,1,1
+CONV_006,Speaker_0,On top of these other two forms of ID which I already have.,frustrated,neutral,neutral,frustrated,5,1,0,1,0,1,1
+CONV_006,Speaker_0,"No, I don't have driver's license.",frustrated,neutral,neutral,angry,6,1,0,1,0,1,0
+CONV_006,Speaker_0,Did you even look at the form?  I filled it out all these questions--,angry,angry,frustrated,happy,7,1,0,1,0,1,1
+CONV_006,Speaker_1,Don't raise your voice with me.,angry,angry,angry,neutral,8,1,0,1,0,1,0
+CONV_006,Speaker_0,If it makes you stop acting like a child.,frustrated,frustrated,neutral,neutral,9,1,0,1,0,1,0
+CONV_006,Speaker_1,"Maybe you never been to the D.M.V. before, maybe you should get back in line.  You know what?  sit in line again and if you get my number ask for different one.",angry,frustrated,neutral,frustrated,10,1,0,1,0,0,0
+CONV_006,Speaker_0,I am not...I'm not getting to back that line.,angry,angry,neutral,frustrated,11,1,0,1,0,1,1
+CONV_006,Speaker_0,"Okay, okay let's keep our voices down, okay?  I didn't come here to get in yelling match.",frustrated,angry,neutral,neutral,12,1,0,1,0,1,1
+CONV_006,Speaker_1,"No, I need your ID to give you a second ID.",angry,neutral,neutral,neutral,13,1,0,1,0,1,0
+CONV_006,Speaker_1,It's really simple if you have a problem with it... Maybe you should--,angry,angry,neutral,neutral,14,1,0,1,0,1,0
+CONV_006,Speaker_0,But that's...,frustrated,neutral,neutral,sad,15,1,0,1,0,1,1
+CONV_006,Speaker_0,"That's why I'm here, that's why I was waiting in this line.  I need to get another form of ID.",frustrated,angry,neutral,sad,16,1,0,1,0,1,1
+CONV_007,Speaker_1,An I got accepted to U.S.C. party.,excited,happiness,happy,excited,1,0,1,0,1,1,0
+CONV_007,Speaker_1,No.  An I got accepted to U.S.C. party. [LAUGHTER],excited,happiness,happy,excited,2,0,1,0,1,1,0
+CONV_007,Speaker_0,"Oh, that's right. Okay, I see. Right, right, right.",neutral,neutral,excited,neutral,3,0,0,0,1,1,0
+CONV_007,Speaker_0,A party celebrating your acceptance.,neutral,excited,happy,happy,4,0,1,0,1,1,0
+CONV_007,Speaker_0,"Well, that's really cool that you're going to be staying in the same city and everything. so umm",excited,excited,happy,angry,5,0,1,0,1,1,0
+CONV_007,Speaker_1,I know.,excited,happiness,happy,angry,6,0,1,0,1,1,0
+CONV_007,Speaker_0,"I don't know are you, like, I don't know.  Are you, like, available or anything?",neutral,neutral,neutral,neutral,7,0,1,1,1,1,0
+CONV_007,Speaker_0,"Well I mean I don't know.  It's like you know I kind of had a crush on you throughout high school and, like",excited,neutral,neutral,neutral,8,0,1,1,1,1,1
+CONV_007,Speaker_0,"actually, you know, there's this- there's this really cool restaurant, um, I don't know if you-  it's Red Lobster.  It's like down on",excited,neutral,neutral,neutral,9,0,1,1,1,1,1
+CONV_007,Speaker_1,[LAUGHTER],excited,happiness,happy,angry,10,0,1,1,1,1,0
+CONV_007,Speaker_0,Vermont.,excited,neutral,neutral,angry,11,0,0,0,1,1,0
+CONV_007,Speaker_0,"Wait, you've been there before?",excited,neutral,neutral,angry,12,0,1,1,1,1,0
+CONV_010,Speaker_1,"How long will it last, this ludicrous, overbearing love of ours?",happy,frustrated,neutral,frustrated,1,1,0,1,0,1,1
+CONV_010,Speaker_0,We are figures of fun all right,happy,angry,neutral,sad,2,1,0,1,0,1,1
+CONV_010,Speaker_0,Ahh...who knows.,happy,frustrated,neutral,neutral,3,1,0,1,0,1,1
+CONV_010,Speaker_1,Shall we always want to bicker and fight?,happy,angry,neutral,neutral,4,1,0,1,0,1,1
+CONV_010,Speaker_1,[LAUGHTER] Don't laugh at me I'm being serious.,happy,frustrated,angry,sad,5,1,1,1,1,1,1
+CONV_010,Speaker_0,"You mustn't be so serious, darling, it just what they want.",happy,frustrated,happy,happy,6,0,0,1,1,1,1
+CONV_010,Speaker_0,Flippancy brings out the acid in their darn sweetness and light.,happy,frustrated,neutral,neutral,7,1,0,1,0,1,1
+CONV_010,Speaker_1,"Mmhmm If I must laugh at everything, I must laugh at us too.",happy,excited,neutral,neutral,8,1,0,1,0,1,1
+CONV_011,Speaker_0,What?  Do you want me to breathe in your ear?,frustrated,angry,neutral,neutral,1,1,0,1,0,0,0
+CONV_011,Speaker_1,No.,frustrated,frustrated,neutral,angry,2,1,0,1,0,1,1
+CONV_011,Speaker_1,No...No...No...,frustrated,frustrated,neutral,angry,3,1,0,1,0,1,1
+CONV_011,Speaker_1,No...,frustrated,frustrated,neutral,angry,4,1,0,1,0,1,1
+CONV_011,Speaker_1,No I'm beginning to think you might be right.,happy,frustrated,neutral,neutral,5,1,0,1,0,1,1
+CONV_011,Speaker_1,I think this may be the place for us after all.,happy,frustrated,happy,neutral,6,0,1,0,1,1,0
+CONV_011,Speaker_1,I am sorry Augie.,happy,sad,neutral,sad,7,0,0,1,1,1,1
+CONV_011,Speaker_0,Shh.  If we're very quiet the fish might come.,happy,frustrated,happy,sad,8,0,1,0,1,1,0
+CONV_012,Speaker_1,"Oh, yes I am. Yes I am and you can't stop me.",angry,frustrated,neutral,angry,1,1,1,1,0,0,0
+CONV_012,Speaker_0,Just shut up.,angry,angry,angry,angry,2,1,1,1,0,1,0
+CONV_012,Speaker_0,shut up. shut up.  I would-I would never marry you again if you came crawling back to me on your hands and knees because you're an evil-minded little vampire and I hope to God I never see you again.,angry,angry,angry,neutral,3,1,1,1,0,0,1
+CONV_012,Speaker_1,"Listen, you're a cruel fiend and I hate, loathe you.  Thank God finally, finally thank God I've realized just how horrible you are--and marry you?  Marry you?  Never. I will never marry you.  I will die die in torment-",angry,angry,angry,sad,4,1,1,1,0,0,1

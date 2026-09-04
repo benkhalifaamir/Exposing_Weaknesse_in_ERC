@@ -1,0 +1,137 @@
+,precision,recall,f1-score,support
+anger,0.3698630136986301,0.4576271186440678,0.4090909090909091,118.0
+anticipation,0.0,0.0,0.0,0.0
+anxiety,0.0,0.0,0.0,0.0
+apology,0.0,0.0,0.0,0.0
+busyness,0.0,0.0,0.0,0.0
+care,0.0,0.0,0.0,0.0
+caution,0.0,0.0,0.0,0.0
+compassion,0.0,0.0,0.0,0.0
+concern,0.0,0.0,0.0,0.0
+confidence,0.0,0.0,0.0,0.0
+curiosity,0.0,0.0,0.0,0.0
+disagreement,0.0,0.0,0.0,0.0
+disappointment,0.0,0.0,0.0,0.0
+disapproval,0.0,0.0,0.0,0.0
+disbelief,0.0,0.0,0.0,0.0
+discomfort,0.0,0.0,0.0,0.0
+discouragement,0.0,0.0,0.0,0.0
+disdain,0.0,0.0,0.0,0.0
+disgust,0.14705882352941177,0.3191489361702128,0.20134228187919462,47.0
+dislike,0.0,0.0,0.0,0.0
+disrespect,0.0,0.0,0.0,0.0
+dissatisfaction,0.0,0.0,0.0,0.0
+fear,0.1134020618556701,0.6470588235294118,0.19298245614035087,17.0
+frustration,0.0,0.0,0.0,0.0
+haggling,0.0,0.0,0.0,0.0
+happiness,0.31072838177251527,0.8498527968596663,0.4550709406200736,1019.0
+irritation,0.0,0.0,0.0,0.0
+jealousy,0.0,0.0,0.0,0.0
+negotiation,0.0,0.0,0.0,0.0
+neutral,0.9428571428571428,0.5325106786900807,0.6806187443130118,6321.0
+pain,0.0,0.0,0.0,0.0
+pressure,0.0,0.0,0.0,0.0
+sadness,0.0821256038647343,0.6666666666666666,0.14623655913978495,102.0
+skepticism,0.0,0.0,0.0,0.0
+stress,0.0,0.0,0.0,0.0
+suggestion,0.0,0.0,0.0,0.0
+surprise,0.4186046511627907,0.15517241379310345,0.22641509433962265,116.0
+suspicion,0.0,0.0,0.0,0.0
+urgency,0.0,0.0,0.0,0.0
+worry,0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""'i sure hope so.'"" indicates the user expresses a positive sentiment or wish, which aligns with the emotion of happiness.
+  ""confidence"": 0.85
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""'now that's a good idea.' and 'i'm feeling better already.'""
+  ""confidence"": 0.9
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""'they have anything you want.'"" (implies satisfaction or excitement about the variety of food options),
+  ""confidence"": 0.8
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""'yes, i have. i was there in april.'"" (the use of 'yes' and 'i was there' suggests a positive or happy sentiment)
+  ""confidence"": 0.8
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""the user's utterance 'ok, shall i flag down the waitress?' suggests a positive intention to proceed with ordering food, which indicates happiness."",
+  ""confidence"": 0.9",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""happiness"",
+  ""reasoning"": ""the utterance 'ok, here you go. that will be 18 pounds and seventy two pence.' suggests that the system is providing the user with what they asked for, which is a positive interaction often associated with happiness."",
+  ""confidence"": 0.9",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the utterance 'ok, ok!' does not contain any specific emotional cues. it is a common phrase used to acknowledge or agree, which can be interpreted as neutral."",
+  ""confidence"": 0.9",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the utterance 'that one there?' does not contain any specific emotional cues. it seems to be a question asked in a neutral tone."",
+  ""confidence"": 0.9",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""neutral"",
+  ""reasoning"": ""the utterance 'there is that.' does not express any specific emotion. it seems to be a simple acknowledgement of the previous statement."",
+  ""confidence"": 0.9",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""'i am dying from the heat.'"" suggests a feeling of discomfort and distress, which aligns with the emotion of sadness.
+  ""confidence"": 0.95
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""'i'm in pretty bad shape'"" indicates the speaker is expressing a negative emotional state, which aligns with sadness.
+  ""confidence"": 0.95
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""'i'm rather disappointed at not being able to see my best friend off.'"" (the system expressed disappointment in the previous turn),
+  ""confidence"": 0.95
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""'i'm really sorry. i lost my bag.'"" (expresses regret and loss),
+  ""confidence"": 0.95
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""'i'm sorry; we have no record of that arriving.'"" (the speaker expresses regret or disappointment),
+  ""confidence"": 0.95
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""'it's so small. the fact that there is public interest, doesn't say much for us as the public.'"" suggests a feeling of disappointment or sadness towards the state of affairs and the behavior of the public.
+  ""confidence"": 0.85
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""'my car has broken down.'"" (indicates a problem or misfortune),
+  ""confidence"": 0.95
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""'nothing is to your satisfaction.'"" indicates a general dissatisfaction or disappointment, which aligns with the emotion of sadness.
+  ""confidence"": 0.95
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""the user expresses empathy towards the system's situation ('i will see what i can do') and advises the system to tell his wife about the problem ('you go home and tell lily about this problem you have now'), indicating concern and compassion, which aligns with the emotion of sadness."",
+  ""confidence"": 0.9",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""the user expresses uncertainty about the groceries they need, which could indicate a feeling of being overwhelmed or stressed (lack of food),""
+  ""confidence"": 0.75
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sadness"",
+  ""reasoning"": ""the user mentions being tired after working for 12 hours overtime, having no assistant to help, and being unable to take a break before finishing a project. these phrases suggest feelings of exhaustion and burden, which align with the emotion of sadness."",
+  ""confidence"": 0.9",0.0,0.0,0.0,0.0
+accuracy,0.568217054263566,0.568217054263566,0.568217054263566,0.568217054263566
+macro avg,0.03974399464568159,0.06046729057255349,0.03852928309204913,7740.0
+weighted avg,0.8250452981303806,0.568217054263566,0.6289541560136295,7740.0

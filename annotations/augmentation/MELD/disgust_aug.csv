@@ -1,0 +1,561 @@
+scene_id,speaker,text,emotion
+5316,Joey,"Ew, did you just eat that moldy cheese?",Disgust
+5316,Chandler,"No, but why would you ever think that?",Disgust
+5316,Monica,"Wait, are you planning to go to the party tomorrow?",Surprise
+5316,Rachel,"Oh my god, did you guys hear about Ross's ex-girlfriend breaking up with him?",Surprise
+5316,Ross,"Yeah, she left suddenly.",Neutral
+5316,Phoebe,That's so unexpected. I didn't know she was that type.,Neutral
+5316,Monica,"Yeah, she seemed really into him.",Neutral
+5316,Chandler,"Well, maybe it's for the best.",Neutral
+5316,Rachel,I feel really bad for Ross.,Sadness
+5034,Rachel,"Oh my god, Ross, did you hear about that company testing their new shampoo on animals?",Disgust
+5034,Monica,"Yeah, I can't believe they're still doing that! It's so unnecessary!",Disgust
+5034,Chandler,"Wait, really? That's surprising! I thought they stopped that years ago.",Surprise
+5034,Ross,"Well, apparently not everyone is as progressive as we are. Let's look into their practices.",Neutral
+5034,Phoebe,Maybe they just need some good PR. I'm sure they'll stop soon enough.,Neutral
+5034,Joey,"Oh man, that's sad. I guess we should boycott their products now.",Sadness
+3336,Ross,*Sighs heavily* I just can't believe Joey brought up my ex-girlfriend's name again. *Looks visibly annoyed.*,Disgust
+3336,Rachel,"Oh, come on Ross! It's not like it's a big deal. People talk about past relationships sometimes.",Neutral
+3336,Ross,"*Stomps his foot slightly* No, it is a big deal! Every time he mentions her, it feels like he's rubbing salt in my wound.",Disgust
+3336,Monica,"Hey guys, what's going on? Ross, why the angry face?",Neutral
+3336,Ross,"*Crosses arms* Just Joey being insensitive again. I thought we moved past this, but apparently not.",Disgust
+3336,Rachel,"Maybe if you talk to him about how it affects you, he'll stop.",Neutral
+3336,Ross,"*Shakes head* Yeah, right. He doesn't care. He thinks it's funny to bring up old stuff.",Disgust
+4565,Chandler,"Monica, what's the deal with this guy? He's like, super into his job, right? And he doesn't seem to care about anything else. It's like he's a workaholic.",Disgust
+4565,Monica,"Chandler, I know he works hard, but maybe he just needs some space. It's not like he's neglecting us completely...",Disgust
+4565,Joey,"I remember when Ross was like that... always working, and it killed our relationship. Maybe Monica should think twice.",Sadness
+4565,Rachel,"Wait, Ross was a workaholic too? But Ross loved us so much!",Surprise
+4565,Ross,"I guess every time we thought he was doing better, he fell back into the same pattern. Maybe it's time to see if this new relationship is different.",Neutral
+4565,Phoebe,"Maybe Monica needs someone who appreciates her more. If this guy isn't giving her what she needs, maybe he's not the one.",Neutral
+9315,Chandler,"Oh, that's just plain gross, ya schmuck!",Disgust
+9315,Monica,"No way, that's totally revolting, loser!",Disgust
+9315,Ross,"Well, that's not exactly pleasant, my friend...",Neutral
+9315,Rachel,"Oh my gosh, that's so funny!",Joy
+9315,Phoebe,"Eww, that's so gross, like, eww!",Neutral
+9315,Chandler,"Yeah, whatever, no big deal, right?",Neutral
+8102,Ross,"Hey, Rachel! How was your day?",Neutral
+8102,Rachel,"Oh, Ross! You didn't clean up the kitchen again!",Surprise
+8102,Ross,"Well, maybe I'll just leave it for the maid...",Neutral
+8102,Rachel,That's not your responsibility!,Surprise
+8102,Monica,"Oh, gross! Ross, you're so irresponsible!",Disgust
+8102,Rachel,"Yeah, and now the maid will have to deal with it all!",Surprise
+8102,Monica,This is getting out of hand. Maybe we need to hire a better maid...,Neutral
+8102,Joey,"Wait, why not just do it ourselves?",Surprise
+8102,Phoebe,"Oh, come on, guys. Let's just laugh it off. It's not like it's the end of the world.",Joy
+9164,Rachel,"Monica, why are you always making such a big deal about nothing?",Disgust
+9164,Monica,"Oh, Rachel, I didn't mean to upset you. I just care.",Sadness
+9164,Chandler,"Wait, so Monica is being a diva again? This is getting old!",Anger
+9164,Rachel,"Chandler, can't you see that Monica's behavior is toxic here?",Disgust
+9164,Monica,"I know, I'm sorry. I really messed up.",Sadness
+9164,Ross,"Hey, maybe Monica needs a new hobby, like learning to juggle! That would take her mind off things.",Joy
+5847,Chandler,"Oh my God, Joey! That's like the grossest thing I've ever heard!",Disgust
+5847,Monica,"Yeah, really? That's just... eww.",Disgust
+5847,Ross,"Well, maybe we should focus on the meeting tomorrow. Ross and Rachel's baby shower is coming up.",Neutral
+5847,Rachel,"Wait, Ross! Why do you always have to change the subject when something gross happens?",Anger
+5847,Joey,"Oh come on, guys, lighten up! It was just a joke.",Neutral
+5847,Phoebe,You know what? Let's talk about the baby shower instead. Ross needs all the support he can get.,Neutral
+6629,Phoebe,"Oh my God, did you see the food at Central Perk today? It was like... raw vegetables stuck in the microwave! So gross!",Disgust
+6629,Joey,"Yeah, and the coffee was still warm, but the smell was worse than Ross's office without air conditioning.",Disgust
+6629,Rachel,"I know, I tried to get them to fix it, but they keep ignoring us.",Sadness
+6629,Monica,Maybe we should switch to ordering online? It's cheaper anyway.,Neutral
+6629,Chandler,Or just move to Canada where food isn't an issue.,Neutral
+6629,Ross,"Wait, why do we even bother? The place is closing down next month!",Surprise
+1210,Ross,"Chandler, why do you always leave your dirty dishes in the sink?",Disgust
+1210,Chandler,"Oh, come on, Ross. It's not like I'm the only one who uses the kitchen.",Neutral
+1210,Joey,"Yeah, Ross, maybe you should clean up your own dishes too.",Neutral
+1210,Ross,"Wait, did you see the mold growing on the fridge? Youâ€™re such a slob!",Disgust
+1210,Rachel,"Oh, Ross, youâ€™re being too hard on him. He didnâ€™t mean to.",Sadness
+1210,Monica,Maybe we should all pitch in and clean the house.,Neutral
+7277,Ross,"Monica, have you seen the new restaurant downtown? The menu looks... adventurous.",Disgust
+7277,Monica,"Adventurous? Like, they serve insects?",Disgust
+7277,Ross,"Wait, really? That's what you call it?",Surprise
+7277,Monica,Yeah! They actually cook with crickets!,Fear
+7277,Ross,No way! That's... that's not normal. Are you okay?,Neutral
+7277,Monica,"Oh, Ross, don't be such a baby. It's just cricket flour in their cookies.",Joy
+3748,Chandler,"Oh my God, did you just put mayo on that sandwich?",Disgust
+3748,Ross,How many times do I have to tell you to clean your room?,Anger
+3748,Chandler,I can't believe you forgot our anniversary dinner reservation again.,Anger
+3748,Monica,"Well, maybe we should plan better next time.",Neutral
+3748,Rachel,"Oh, gross! Did you really use that same toothbrush all week?",Disgust
+3748,Ross,Maybe we should invest in some new brushes.,Neutral
+4904,Joey,"Ew, that's totally disgusting! ðŸ¤¢",Disgust
+4904,Chandler,"Oh, yeah? Because I didn't see anything. ðŸ¤”",Disgust
+4904,Joey,"Ugh, Chandler, youâ€™re so dense. Maybe next time pay attention. â—",Neutral
+4904,Chandler,Youâ€™re so frustrating! Why canâ€™t you just let it go? â—ï¸,Anger
+4904,Joey,"Hey, lighten up! It's not like it's the end of the world. Let's move on. âœ¨",Joy
+4904,Chandler,"Alright, alright. Maybe I was being a bit of a jerk. Let's just laugh it off. âœ¨",Joy
+8079,Chandler,"So, Ross, did you finally get that new plant?",Disgust
+8079,Ross,"Oh, Chandler! I was so excited, but when I got it home... it had bugs all over!",Sadness
+8079,Monica,Maybe you should try a different plant. Those pothos are notorious for pests.,Sadness
+8079,Phoebe,"Hey, maybe it's a good omen! If the plant's crawling with bugs, it means it's alive!",Joy
+8079,Rachel,I think Ross just needs to adopt a dog. Then he'll have real companionship!,Neutral
+8079,Joey,"Wait, no! He loves his plants. But maybe if he waters them less? Wait, no, theyâ€™re tropical plants...",Disgust
+1305,Ross,Our bank is charging us exorbitant fees. It's like they're trying to rob us.,Disgust
+1305,Rachel,And the service! They don't answer calls or emails.,Disgust
+1305,Monica,The terms are so unclear. How am I supposed to understand this?,Disgust
+1305,Joey,"Oh, just switch banks already. It's not that big a deal.",Disgust
+1305,Phoebe,I can't believe we're dealing with this. This is the last straw!,Anger
+1305,Phoebe,I won't stand for this anymore. They treat customers like dirt.,Anger
+5816,Rachel,Hey Ross! Did you hear about Monica's new boyfriend?,Neutral
+5816,Ross,"Oh, yeah, I just met him yesterday. He's really... like a dog. His breath was worse than before.",Disgust
+5816,Rachel,"Oh my God, that's so gross! I can't believe she dated someone who smells that bad.",Joy
+5816,Rachel,"Well, maybe it's not so bad. At least he's got a good sense of humor.",Neutral
+5816,Ross,"Yeah, he laughed at all my jokes. Maybe they'll make a great couple.",Neutral
+5816,Joey,"Hey, guys! Wait, is that Monica's ex-boyfriend? Same guy who left for his job?",Surprise
+5816,Rachel,"Oh no! Yes, it's him. I thought he left for her job, but apparently, it's worse.",Disgust
+7669,Rachel,You know what? I can't believe he still hasn't cleaned his room. It's like a mess!,Disgust
+7669,Monica,"But wait, at least he has a room! At least he's not living on the streets.",Disgust
+7669,Phoebe,Maybe we should talk to him about the consequences of his laziness?,Fear
+7669,Joey,"Hmm, maybe he's just overwhelmed with schoolwork. Let's give him some slack.",Neutral
+7669,Chandler,"Yeah, but seriously, if he doesn't start cleaning up, he'll never get into college!",Joy
+7669,Ross,"Oh, come on, he's my son. I'll talk to him tonight.",Sadness
+4660,Monica,Let's finalize the wedding date. We need to book the venue by next week.,Neutral
+4660,Ross,That's the most disgusting thing Iâ€™ve ever heard!,Disgust
+4660,Monica,Maybe we should stick to private restrooms. Safety first.,Neutral
+4660,Joey,"Oh my God, I thought we were having dinner tonight. What if the restaurant is closed?",Fear
+4660,Ross,"How many times do I have to remind you, Joey? Donâ€™t assume anything!",Anger
+4660,Rachel,"Wait, did Ross just get angry at Joey? He never does that.",Surprise
+4660,Monica,"Alright, letâ€™s all double-check our schedules. Responsibility starts with us.",Neutral
+2374,Ross,"Oh my God, did you see what happened in the office today? That guy was throwing trash on the floor like it's nobody's business!",Disgust
+2374,Rachel,"Wait, he actually thinks it's acceptable? That's so outdated! How can anyone not care about cleanliness?",Disgust
+2374,Monica,Maybe we should talk to the manager. They need to set a better example.,Neutral
+2374,Joey,"Oh, wait! There's a new episode of 'That '70s Show' tonight! I totally forgot they were rerunning it.",Surprise
+2374,Ross,"Yeah, I remember. Let me check if I have the remote.",Neutral
+2374,Rachel,"Wait, Ross, did you just say you have a crush on your boss? That's surprising!",Surprise
+3304,Phoebe,I can't believe my cat died again... It's like the third time this year.,Sadness
+3304,Joey,"Wait, really? How old was it this time?",Disgust
+3304,Rachel,"Oh my God, Joey! That's not funny. Cats are family pets!",Surprise
+3304,Ross,"Yeah, but isn't that like the fifth cat for her? That's way too much.",Disgust
+3304,Monica,"Okay, that's it! Phoebe, how many cats have you had since we moved here?",Anger
+3304,Chandler,"Hey, maybe she just likes having lots of lives!",Joy
+5749,Chandler,"So, Ross told me about your new girlfriend, Rachel.",Neutral
+5749,Monica,"Wait, really? Did he just blurt it out without asking? That's so unlike him.",Neutral
+5749,Chandler,"Yeah, like, usually heâ€™s all smooth and tactful. But Rachel... Hmm, maybe sheâ€™s got him tongue-tied.",Neutral
+5749,Monica,"Oh, come on, Chandler! How can you say something like that so casually? Itâ€™s like heâ€™s just spilling personal details without any consideration.",Disgust
+5749,Chandler,"Oh, right, because talking about someoneâ€™s relationship is always so inappropriate.",Disgust
+5749,Monica,"Wait, does that mean heâ€™s breaking up with her? Because if thatâ€™s the case, I need to know more.",Fear
+5749,Chandler,Maybe Ross is just excited to tell everyone. He probably canâ€™t wait to share the news.,Neutral
+5749,Monica,"Oh my God, did he actually end things? Because I thought they were doing great.",Surprise
+6418,Ross,"Oh my God, did you see what Janice had for lunch? It's like... gross.",Disgust
+6418,Janice,"Wait, what did I eat today? Oh, right! That weird vegetarian sushi roll. Yeah, algae and seaweed all mixed together. Gross!",Disgust
+6418,Monica,"Well, maybe she just needs to try different cuisines. I remember when I tried sushi for the first time, it was a bit strange too.",Neutral
+6418,Rachel,"Yeah, but maybe Janice should stick to her usual chicken Alfredo. It's classic and safe.",Neutral
+6418,Phoebe,"Wait, is there a health inspector here? If that sushi isn't properly stored, Janice could get sick. Thatâ€™s dangerous.",Fear
+6418,Chandler,"Maybe Janice should invest in a better fridge. Or just avoid raw fish altogether. Like, sheâ€™s already been warned, right?",Neutral
+3860,Joey,"Chandler, did you just eat that? Those are the leftover lima beans from last week!",Disgust
+3860,Chandler,"Oh, come on, Joey! They were just dried out. And it's not like they're moldy or anything.",Disgust
+3860,Rachel,"Ross, why do you keep doing things that hurt me? I thought we had something special...",Sadness
+3860,Monica,"Wait, what? Are you serious? Ross hasn't told you he's moving out?",Surprise
+3860,Ross,"No, no, Monica! I haven't told anyone yet. But I just realized I don't love her anymore.",Surprise
+3860,Joey,"Hey, maybe this is for the best. Sometimes you have to let go.",Neutral
+6799,Ross,"Oh my God, Chandler, what is that? That smell is giving me the creeps!",Disgust
+6799,Rachel,"Yeah, that's the worst! Gross!",Disgust
+6799,Joey,"Chandler, why do you have to eat that? Are you trying to kill us all?",Anger
+6799,Monica,This is making everyone uncomfortable. We need to talk about it before it gets worse.,Sadness
+6799,Chandler,"Hey, relax, guys. Let's just eat our food and not get into a food fight.",Neutral
+6799,Phoebe,"Oh, come on, let's dance instead of arguing about food smells!",Neutral
+4615,Monica,I can't believe you left the laundry in the basket again.,Disgust
+4615,Rachel,"Yeah, I know. I'll get to it soon.",Disgust
+4615,Monica,This is ridiculous. You have to start taking responsibility.,Neutral
+4615,Rachel,"I know, I know...",Neutral
+4615,Monica,"Wait, why are you still doing this?",Surprise
+4615,Monica,"No, maybe because I haven't set a good example either.",Neutral
+9708,Chandler,"Oh my God, Ross! Why do you smell like that? Did you even take a shower today?",Disgust
+9708,Joey,"Yeah, and your deodorant isn't even working. It's like you're wearing yesterday's socks.",Disgust
+9708,Monica,"Wait, did I hear a noise upstairs? I thought I saw a shadow...",Fear
+9708,Rachel,"Monica, maybe it's just the wind or a bird. But come here, let's check together.",Fear
+9708,Ross,"Rachel, will you marry me?",Joy
+9708,Phoebe,"Well, that's settled then.",Neutral
+9592,Rachel,"Monica, why did you use sour cream in the soup? That's so unorthodox!",Disgust
+9592,Monica,"Hey, Rachel! Because it adds richness, okay? And besides, I saw it on the Food Network!",Neutral
+9592,Chandler,"Wait, did someone say sour cream in soup? That's like putting ketchup in ice cream.",Surprise
+9592,Joey,Really? Because I thought soup was supposed to be bland. Maybe we need to add more salt.,Neutral
+9592,Phoebe,Or maybe just make it a dessert instead? Sour cream cheesecake soup?,Neutral
+9592,Rachel,"Okay, maybe Monica's right. Let's taste-test it.",Disgust
+5860,Rachel,"Hey, did you see what Ross put in his coffee this morning? It's like some kind of weird herbal tea that's supposed to help him lose weight.",Disgust
+5860,Monica,"Oh my God, really? That's the same stuff I saw at the health store last weekâ€”itâ€™s called 'SlimFast' or something. Gross!",Disgust
+5860,Chandler,"Wait, is that even safe? I mean, how does someone get away with selling such obvious snake oil?",Surprise
+5860,Joey,"Hey, maybe it's just his way of coping with Phoebe's constant nagging about losing weight too. Laughing at his expense is the only thing he can do!",Joy
+5860,Phoebe,"Poor Ross. I guess he's trying so hard to be healthy, but it's making him look like a total nut job. I wonder if he'll ever find a balance.",Sadness
+5860,Ross,"Maybe I'm being too ridiculous. But honestly, it's hard not to take myself seriously sometimes...",Sadness
+5860,Friends,"Hmm, maybe we should support him instead of making fun of his choices. Let's try to stay positive!",Joy
+3695,Monica,"Okay, can I help you move those boxes? Let's go!",Neutral
+3695,Chandler,"No, thanks. I can handle it.",Neutral
+3695,Monica,Are you sure? Because those boxes look really heavy.,Neutral
+3695,Chandler,"No problem, I can handle it.",Neutral
+3695,Monica,"Alright, but maybe we should take a break?",Neutral
+3695,Chandler,"No, I'm fine. Just take your time.",Neutral
+3695,Monica,"Wait, Chandler, why are you being so dismissive? That's really disrespectful.",Disgust
+3695,Chandler,"Hey, I didn't mean to come off that way. It's just heavy today.",Neutral
+7260,Joey,"When Chandler says he doesn't watch Friends because he thinks it's too campy, it's like... gross.",Disgust
+7260,Chandler,"Yeah, Ross's dinosaur lectures are the same. I just zone out.",Disgust
+7260,Phoebe,"Wait, when Monica made those vegan cupcakes, I was surprised she tried vegan, but then everyone loved them â€“ that's joy!",surprise
+7260,Rachel,"Oh, Ross's dinosaur stories always surprise me, but then we all get into it â€“ joy!",Surprise then Joy
+7260,Monica,"Disgusted by Joey's negativity, but when we bond over shared struggles, that's joy!",disgust
+4606,Chandler,"Ugh, Joey, your schemes are so ridiculous! This is the third time this week.",Disgust
+4606,Monica,"I know, right? And you know he's doing it to get attention.",Disgust
+4606,Chandler,Iâ€™m tired of cleaning up after him. Heâ€™s acting like a toddler!,Anger
+4606,Monica,Heâ€™s so immature! When will he grow up?,Anger
+4606,Rachel,"Wait, maybe we should approach this differently. Talking to him might help.",Surprise
+4606,Monica,"Alright, maybe thatâ€™s the way to go. Letâ€™s sit him down.",Neutral
+1503,Monica,I can't believe theyâ€™re serving that moldy cheese again!,Disgust
+1503,Ross,"Yeah, that's the worst. How can they still use that old stuff?",Disgust
+1503,Joey,"Like, seriously, guys? That's just gross! I mean, who eats moldy food anyway?",Anger
+1503,Chandler,"Oh, come on, it's not like it's poisonous or anything. It's just... well, maybe it is?",Neutral
+1503,Rachel,"Wait, but we paid for fresh ingredients! This is so disappointing.",Fear
+1503,Phoebe,"Oh my God, this place is going downhill. Iâ€™m switching to the salad bar.",Neutral
+8592,Ross,I just found out that my ex-wife was involved in some shady business dealings.,Disgust
+8592,Rachel,"Oh, really? That seems really slimy. Why didn't she ever tell me?",Sadness
+8592,Monica,That's just gross. I can't believe Ross had to go through all that.,Disgust
+8592,Joey,"Well, maybe she thought it would protect her family? I don't know.",Neutral
+8592,Phoebe,"Oh, lighten up! Let's talk about something fun instead!",Joy
+8592,Chandler,"Yeah, maybe we should plan a trip somewhere sunny. That'll make everything better.",Joy
+1658,Monica,That guy's breath is worse than a garbage truck without bags.,Disgust
+1658,Phoebe,"Oh my God, is he even showering? That's... like, biohazard level!",Fear
+1658,Rachel,Maybe he just had garlic bread. Not everyone can handle strong smells.,Neutral
+1658,Joey,Garlic bread? But I thought he was allergic! How did that happen?,Disgust
+1658,Chandler,"Wait, maybe he's trying to date Rachel! Classic Joey!",Joy
+1658,Ross,I guess that means another dinner invitation gets rejected. But maybe he'll learn to manage his food.,Sadness
+2625,Phoebe,"Oh my God, that new guy from accounting smells like wet dog! That's just... gross.",Disgust
+2625,Joey,"Yeah, maybe he should invest in some deodorant.",Neutral
+2625,Rachel,"Well, maybe he's from a place where they don't use as much perfume. But still, it's a bit much.",Disgust
+2625,Chandler,"Oh, give him a break. He probably hasn't had a shower in weeks.",Anger
+2625,Monica,"Actually, maybe we can suggest a subtle cologne instead.",Neutral
+2625,Ross,"Yeah, maybe a light spritz in the morning.",Neutral
+4069,Phoebe,"Joey, what did you just eat? That stinks!",Disgust
+4069,Joey,"Hey, it's just a snack. Why do you care?",Disgust
+4069,Rachel,"Really, Joey? That's not even edible. How can you eat something like that?",Disgust
+4069,Monica,This is the third time this week. We need to keep the apartment clean!,Anger
+4069,Ross,"If we don't take responsibility for our actions, we'll end up moving out!",Anger
+4069,Chandler,"Wait, are we really getting into this? It's just food. Let's laugh instead of fight.",surprise
+9283,Chandler,You didn't clean the bathroom again...,Disgust
+9283,Monica,"Chandler, it's not my fault the germs are everywhere!",Neutral
+9283,Ross,"Wait, did you at least disinfect it?",Disgust
+9283,Rachel,"Oh my God, Chandler! How can you live like this?",Surprise
+9283,Joey,Is there a reason why the bathroom isn't clean? Maybe you're just lazy.,Sadness
+9283,Phoebe,"Well, maybe if you stop being such a slob, things would get better.",Neutral
+7760,Ross,"Oh my God, how could you eat that? That's like, completely unhealthy!",Disgust
+7760,Rachel,"Wait, what did I eat? Did I just have that gross food?",Disgust
+7760,Monica,"Guys, did you see the news? Joey was arrested for stealing office supplies!",Surprise
+7760,Chandler,Really? But he always helps us with free T-shirts...,Neutral
+7760,Phoebe,"Oh no, that's terrible! He must feel so bad about it.",Neutral
+7760,Joey,"Wait, what? I didn't steal anything! Maybe I confused it with my lunch...",Anger
+9243,Ross,"Ugh, why does this always happen? Every time there's a meeting, something goes wrong. I can't take this anymore.",Disgust
+9243,Monica,"Exactly, Ross! And now weâ€™re supposed to plan a surprise party? This is the last straw. How is this going to work?",Disgust
+9243,Chandler,"Wait, maybe there's a silver lining here. If we throw a party, maybe people will start caring more about each other instead of their egos.",Joy
+9243,Joey,"Chandler, are you serious? This is supposed to be a surprise! If you tell anyone, weâ€™re all in trouble!",Anger
+9243,Phoebe,"Okay, maybe we can find a middle ground. Letâ€™s keep it low-key and involve Chandler in the planning so he feels included.",Neutral
+9243,Rachel,"Even if we do everything right, there's still a chance Chandler might not feel special. Sometimes the best intentions canâ€™t erase past mistakes.",Sadness
+5763,Phoebe,"Oh my God, Ross! Did you just eat that chicken without washing your hands? That's so unhygienic!",Disgust
+5763,Joey,"Yeah, because everyone knows you should never wash your hands after touching raw meat. Gross!",Disgust
+5763,Monica,"Actually, Ross, it's important to wash your hands to prevent germs. But maybe you should do it before eating?",Neutral
+5763,Chandler,"Oh, right, because raw meat is like a health hazard. I guess we should all avoid eating anything that's been near raw chicken.",Neutral
+5763,Rachel,"Maybe you should start washing your hands more often, Ross. It's good for everyone's health.",Neutral
+5763,Joey,"Well, maybe I'll remember to check if Ross has washed his hands next time,",Neutral
+4461,Ross,"Wait, how many times have I told you not to put onions in the pasta sauce? It's going to make it taste like garbage!",Disgust
+4461,Rachel,"Yeah, and now it's going to take forever to clean the sink. Why does this always happen?",Disgust
+4461,Monica,"So, we need to plan the dinner party for next week. I already reserved the venue...",Neutral
+4461,Chandler,"I'm okay with the venue, but maybe we should stick to the usual menu. No more weird experiments.",Neutral
+4461,Rachel,Remember when we went to Paris? That was so amazing! The Eiffel Tower at night...,Joy
+4461,Ross,"And the Seine River cruise? Oh, right, that was magical. I still can't believe we did that.",Joy
+4461,Joey,"Wait, did we really climb the Eiffel Tower? I thought that was just in the movies!",Surprise
+4461,Phoebe,"Oh my God, I thought you guys were going to get lost on the way there! But no, you were super prepared.",Surprise
+1134,Phoebe,"Oh my God, this coffee is the worst! It tastes like someone left their shoes in the milk.",Disgust
+1134,Rachel,"But Phoebe, that's not true! You know you love that coffee!",Joy
+1134,Ross,"Wait, how can anyone like that stuff? It's just... ew!",Anger
+1134,Monica,I guess everyone has their own taste. Maybe Phoebe just needs a stronger coffee?,Neutral
+1134,Joey,"Stronger coffee? Like, like a whole pot boiling over? That's not healthy!",Disgust
+1134,Chandler,"Oh my God, Joey! That's the funniest thing I've ever heard! Wait, no, maybe not...",Surprise
+9509,Ross,That's... that's just revolting! How does someone eat that?,Disgust
+9509,Rachel,"Totally, it's like, every ingredient is processed. No wonder she's getting sickly looking.",Disgust
+9509,Monica,Maybe she needs to try some different recipes. It's not impossible.,Neutral
+9509,Chandler,"Hey, let's talk about something fun! Like, what's the best way to celebrate Joey's upcoming wedding?",Joy
+9509,Joey,Oh yeah! The bachelorette party is going to be epic! Maybe we can do a surprise karaoke night!,Joy
+9509,Phoebe,I'm sure she'll figure it out. Everyone makes mistakes.,Neutral
+9662,Chandler,"Ross is really into this... what's her name again? The one who works at the bookstore? Like, did she even finish college?",Disgust
+9662,Monica,"Wait, isn't she the one who was always late and forgot her lines in auditions? Yeah, definitely not the smartest choice.",Disgust
+9662,Rachel,"Maybe Ross just needs someone new. I mean, he's been single for a while.",Neutral
+9662,Phoebe,"Hey, maybe she's the one who can make him happy again! Ross deserved it after Monica kept nagging him.",Joy
+9662,Joey,"Wait, is this a real proposal or just a friend's wedding rehearsal gone wrong?",Surprise
+9662,Monica,"Maybe we should check if it's a real proposal before jumping to conclusions. Last time he proposed, it was all a joke.",Neutral
+7678,Chandler,"Ugh, did you see what Ross put in his salad? It's like someone's old toothpaste!",Disgust
+7678,Monica,"Oh, maybe he just likes strong flavors. I remember he said something about being into pungent foods.",Neutral
+7678,Rachel,"Yeah, but isn't that bad for his health? I thought he was trying to eat healthier.",Neutral
+7678,Joey,"Wait, really? Did Ross actually do that? Thatâ€™s unexpected! I guess he doesnâ€™t take himself seriously anymore.",Surprise
+7678,Phoebe,"Ew, gross! Maybe next time he'll use toothpaste as a hair product. At least it's not shaving cream.",Disgust
+7678,Monica,"Well, maybe we should all check our food before eating. Though, honestly, I didnâ€™t expect Ross to go that far.",Neutral
+9246,Monica,"Joey, did you eat that?",Disgust
+9246,Phoebe,"Oh my god, that's the most disgusting thing ever!",Disgust
+9246,Chandler,"You know, if I were you, I'd avoid anything that hasn't been cooked properly.",Neutral
+9246,Rachel,"Wait, but isn't that exactly what happened last week?",Surprise
+9246,Monica,Yes! And now it's happening again!,Surprise
+9246,Gunther,Maybe we should get him a doggy bag instead of his own food?,Neutral
+9246,Joey,"Oh my God, why is everyone making fun of me?",Neutral
+3803,Monica,I can't stand Mondays. I hate having to go back to work.,Disgust
+3803,Rachel,"Wait, why are you already dreading the weekend? At least you get to work somewhere nice.",Disgust
+3803,Monica,Seriously? The weekend isn't even here yet. I have to spend the entire day working...,Neutral
+3803,Rachel,"Wait, are you free all day Monday? Maybe we can grab lunch later!",Surprise
+3803,Monica,"Actually, yeah, I can take a break. Thanks for helping!",Joy
+3803,Both,Let's plan to meet at Central Perk this weekend. What do you say?,Neutral
+2387,Phoebe,Yuck! That's like eating my grandma's old slippers!,Disgust
+2387,Monica,"Wait, what did you eat?",Neutral
+2387,Chandler,Really? Did it have a musty smell?,Disgust
+2387,Rachel,"Makes sense. Grandma's slippers are famous for being... well, not exactly fresh.",Neutral
+2387,Ross,"Hey, remember when we all ate those tofu skewers and almost threw up? Classic Phoebe!",Joy
+6804,Ross,"Oh my God, did you just eat that?",Disgust
+6804,Chandler,"No way, that's revolting!",Disgust
+6804,Monica,"Yeah, that's exactly what I thought.",Neutral
+6804,Phoebe,"Well, at least it's not worms...",Neutral
+6804,Ross,"Wait, I just saw the funniest thing!",Joy
+5854,Monica,"So, did you see what Ross did to Phoebe?",Disgust
+5854,Chandler,"Wait, why would he do that? Heâ€™s supposed to be her brother.",Disgust
+5854,Monica,"Yeah, but she was being such a brat! Sheâ€™s always taking credit for his ideas at work.",Disgust
+5854,Chandler,"Oh, come on. Thatâ€™s low. How could he let that happen?",Disgust
+5854,Monica,Exactly! And now sheâ€™s acting like itâ€™s all his fault because he didnâ€™t support her more.,Disgust
+5854,Chandler,"Disgusting. People should stick up for their family, not take advantage.",Neutral
+7340,Rachel,"Ugh, that's the grossest thing I've ever seen! How could you eat that?",Disgust
+7340,Monica,"Yeah, that's so gross! Why would anyone do such a thing?",Disgust
+7340,Phoebe,"Oh my God, what if there's a monster in there? Like, what if it comes out and attacks us?",Fear
+7340,Joey,"Wait, but what if it's not real? Maybe it's just a trick of the light or something.",Fear
+7340,Chandler,"Let me just think... If that were true, how would we handle it? Maybe we should ignore it.",Neutral
+7340,Ross,"Yeah, maybe we should check it out. But I'm not sure. Let's stay calm.",Neutral
+7609,Rachel,"Oh my God, Phoebe, why did you put your shoes in the living room like that? It's so gross! You have no idea how unorganized this place is.",Disgust
+7609,Phoebe,"Aw, c'mon, Rachel! It's just a pair of shoes. Relax, okay?",Neutral
+7609,Monica,"Wait, Rachel, maybe you're being too critical here. It's not like it's a health hazard.",Neutral
+7609,Rachel,But Monica! How can you defend this mess? It's all over the place!,Anger
+7609,Monica,"I know it's messy, but maybe she didn't mean to. Let's not get into a fight.",Neutral
+7609,Phoebe,"Hey, guys, let's all calm down. I'll put them away right now.",Neutral
+6586,Chandler,"So, Ross was talking about how heâ€™s going to adopt a parrot. Like, really? Isnâ€™t that like, a bird? Why would he want a bird? He already has a cat and a dog...",Disgust
+6586,Monica,"Oh, come on Chandler! Thatâ€™s not fair. Ross might just want a companion animal. Plus, parrots are intelligent. They can learn tricks and stuff...",Disgust
+6586,Chandler,Companion animal? Thatâ€™s the same as any other pet. And intelligence? Theyâ€™re just mimicking sounds. Not like a dog who can understand commands...,Disgust
+6586,Monica,But theyâ€™re also social creatures. Maybe Ross needs some bird love?...,Neutral
+6586,Chandler,"Wait, did Ross actually think that parrots are good pets?",Surprise
+6586,Monica,"Chandler, thatâ€™s so unfeeling. Even animals deserve care and companionship...",Neutral
+6586,Chandler,"Wait, are we now having a debate about the ethics of pet ownership?",Disgust
+8395,Rachel,"So, did you see that movie last night, Monica? I thought it was really good.",Neutral
+8395,Monica,"Like, seriously? That was the worst! The acting was so fake, and the plot made no sense.",Disgust
+8395,Ross,"Yeah, I agree. It felt like they were just trying to cash in on the trend without any substance.",Disgust
+8395,Joey,"Hmm, maybe it's just not my taste. I liked the jokes but maybe the story was too slow.",Neutral
+8395,Chandler,"Come on, Joey, you're always saying movies suck until you watch them.",Neutral
+8395,Phoebe,"Oh, maybe it's because the movie was about zombies? I love zombies!",Neutral
+8395,Rachel,"Wait, zombies? Thatâ€™s what the movie was about? I thought it was something else. But honestly, even if it was zombies, if the rest sucked, it's still not my cup of tea.",Disgust
+1766,Chandler,I can't believe you did that!,Disgust
+1766,Ross,That's just gross.,Disgust
+1766,Monica,"No way, really? That's unexpected!",Surprise
+1766,Rachel,"So, what's next?",Neutral
+1766,Ross,Let's go get ice cream to celebrate!,Neutral
+1766,Monica,"Yeah, but I don't like ice cream.",Neutral
+1766,Phoebe,But I love ice cream!,Neutral
+9138,Rachel,You left your shoes all over the place! This is so disgusting.,Disgust
+9138,Monica,"Oh, come on, Rachel, it's just a few pairs.",Disgust
+9138,Phoebe,"Wait, what's going on here? Did someone die?",Surprise
+9138,Rachel,"No, nothing. Monica is just being overly dramatic.",Neutral
+9138,Monica,"Well, maybe we should clean up before Ross comes home.",Neutral
+9138,Phoebe,"Yeah, maybe he'll notice if the apartment's a mess.",Neutral
+9138,Rachel,I guess so. Let's get started.,Neutral
+7119,Rachel,I can't believe she's bringing that old boyfriend back into our lives.,Disgust
+7119,Monica,"Well, maybe it's just a friendly visit. We shouldn't jump to conclusions.",Neutral
+7119,Chandler,"Oh, come on, Monica. How many times has this happened?",Neutral
+7119,Phoebe,"Aw, maybe they're finally getting back together! Like, that's so sweet!",Disgust
+7119,Rachel,"Phoebe, are you serious? That's the same guy who was such a creep last time!",Sadness
+7119,Monica,"Alright, maybe we should talk to her before things get worse.",Neutral
+7119,Chandler,"Yeah, but how does that solve anything? It's the same cycle.",Neutral
+1574,Rachel,That's so weird!,Disgust
+1574,Monica,"Yeah, right!",Joy
+1574,Joey,Free spirit!,Neutral
+1574,Chandler,Ridiculous!,Disgust
+1574,Phoebe,Let's not get worked up!,Neutral
+1574,Ross,"Alright, let's plan.",Neutral
+2684,Joey,"Eww, that's the grossest thing I've ever seen! Are you trying to kill yourself?",Disgust
+2684,Chandler,"Yeah, well, it's just leftover pizza. What's your problem?",Disgust
+2684,Joey,Remember when we lost the game last year? I still feel bad about that.,Sadness
+2684,Chandler,"Yeah, but we did our best. It's not like we cheated.",Neutral
+2684,Joey,"So, what do you want to do today? Maybe watch a movie?",Neutral
+2684,Chandler,How about we go out for some ice cream? It's been forever since we had a treat together.,Joy
+1451,Ross,Did you see the menu at that new place downtown? Theyâ€™re serving frog legs!,Disgust
+1451,Joey,Frog legs? That's like... frog feet? Gross! I don't know why anyone would eat that.,Disgust
+1451,Ross,And they claim it's sustainable. How is that even ethical?,Anger
+1451,Monica,This is the second time this month theyâ€™ve served something questionable. Iâ€™m starting to think the city is poisoning us!,Anger
+1451,Rachel,"Well, maybe they just have different tastes. I mean, I love sushi, which is raw fish.",Neutral
+1451,Chandler,"Wait, are you serious? Because now Iâ€™m craving a nice steak. No, waitâ€”maybe a salad. No, no, nothing. Just stop!",Anger
+5156,Ross,"Oh my god, that guy who just walked in smells like old sweat and onions. Gross!",Disgust
+5156,Monica,"Yeah, and his shirt is practically falling apart. How can anyone wear something that old?",Disgust
+5156,Chandler,"Like, he looks like he hasn't showered in weeks. Maybe he lives in a dumpster?",Disgust
+5156,Rachel,"No way, that's such a turn-off. Gross! Maybe we should avoid him.",Disgust
+5156,Joey,"Wait, is that really what people wear these days? I mean, even the homeless don't dress like that!",Disgust
+5156,Phoebe,"You know, maybe he's just going through a tough time. Let's not judge too quickly.",Neutral
+6007,Ross,That's the most manipulative thing I've ever heard!,Disgust
+6007,Rachel,"Yeah, he's been acting all mysterious lately.",Disgust
+6007,Monica,"So, is this the new girlfriend?",Neutral
+6007,Chandler,"Wait, why did you guys keep this secret?",Neutral
+6007,Joey,Her name is Emily.,Neutral
+6007,Monica,And she's from Harvard!,Joy
+8234,Rachel,"Okay, let's talk about this new business plan Ross brought up. I mean, charging exorbitant prices for basic servicesâ€”it's just not ethical.",Disgust
+8234,Chandler,"Yeah, but wait, how is that possible? Weâ€™re supposed to be sustainable and fair. This is the opposite of our values.",Disgust
+8234,Monica,This isnâ€™t just unethical,
+8234,Joey,"Hold on, whatâ€™s the big surprise here? If weâ€™re talking about the same project, maybe the details were hidden before. So, why is this such a shock now?",Surprise
+8234,Phoebe,"Wait, what's the matter with you two? Did someone get fired over this? Because if so, thatâ€™s scary.",Fear
+4939,Ross,"Ugh, that divorce was such a nightmare. At least I'm over it now.",Disgust
+4939,Chandler,"Yeah, Ross, maybe you should focus on your new dating apps instead.",Neutral
+4939,Joey,"Wait, did you hear that my friend is moving to Europe? That's sad...",Sadness
+4939,Monica,I can't believe you didn't help with the project deadline! You're such a slacker!,Anger
+4939,Rachel,"Oh, finally! I got the promotion I deserved. This place was overdue to recognize my hard work.",Joy
+4939,Phoebe,"Well, I'm leaving because of all this garbage. Goodbye!",Disgust
+4506,Ross,"Oh my God, this coffee is so bitter! It's like... pure caffeine with a side of sulfuric acid. Disgusting!",Disgust
+4506,Rachel,"Yeah, really? Because mine is super creamy and sweet. Maybe you just burn your tongue again?",Disgust
+4506,Ross,"Wait, did you put any kind of sugar in yours? Because even the slightest hint of sweetness makes it bearable.",Disgust
+4506,Rachel,"Hmm, maybe I used too much vanilla extract. But that's supposed to complement the coffee. Not overpower it.",Neutral
+4506,Ross,Vanilla extract? That's like putting perfume on a skunk! It's the opposite of what coffee needs.,Anger
+4506,Rachel,"Okay, okay, maybe next time I'll stick to just cream. Let's just agree that our tastes are different.",Neutral
+9166,Rachel,"Oh my God, why did you put ketchup on your fries like that? That's so unhygienic!",Disgust
+9166,Monica,"Monica, I'm really sorry. This is all my fault. I guess I wasn't paying attention...",Sadness
+9166,Chandler,"Hey, at least you didn't spill your drink on her! That's way worse.",Joy
+9166,Joey,"Wait, did you hear that? Chandler just called Monica's dress 'her' dress! Classic!",Joy
+9166,Rachel,"Oh, come on, Chandler. You know how much Monica loves her dress. That was totally insensitive.",Disgust
+9166,Monica,"I know, I know. I'll take it out of the store tomorrow. It's just another thing I messed up.",Disgust
+1254,Chandler,"Okay, Joey, seriously. You can't just keep interrupting me like that during my game night. It's distracting.",Disgust
+1254,Joey,"Hey, what's your problem? I'm just trying to show off my new trivia skills!",Disgust
+1254,Chandler,"Show off my butt. If you keep that up, we're not going to win anything!",Anger
+1254,Monica,"Guys, calm down. Let's focus on the game. Joey, maybe next time you can practice your timing.",Neutral
+1254,Rachel,"Oh, look who's finally paying attention. Maybe the pizza will help Joey get better.",Joy
+1254,Chandler,"Yeah, and maybe he'll learn that interrupting isn't cool. But I guess pizza might do the trick.",Neutral
+2830,Ross,This proposal is completely unrealistic. How can you even consider such a thing?,Disgust
+2830,Chandler,"Ewww, that's just not right. Theyâ€™re mixing personal opinions with company policies?",Disgust
+2830,Joey,"Like, gross! That's way too much. I don't know how anyone can take that seriously.",Disgust
+2830,Monica,Maybe we should look into alternative solutions then.,Neutral
+2830,Rachel,"I agree, but we need to make sure it's fair for everyone involved.",Neutral
+2830,Phoebe,Or maybe we should just eat some pizza and forget all about it.,Neutral
+6926,Ross,That smell is unbearable,
+6926,Rachel,I think we need to address this immediately. It's quite... unpleasant.,Disgust
+6926,Ross,"Yes, maybe we should invest in some commercial-grade filters for the kitchen.",Neutral
+6926,Rachel,"Oh my God, there's a spider crawling on the ceiling! I can't believe this is happening.",Fear
+6926,Ross,"Alright, let's get this handled before it gets worse. Safety first.",Neutral
+6926,Rachel,I'll call pest control right away. We can't risk another incident.,Neutral
+6926,Ross,"Alright, everyone's accounted for. Just make sure the place is clean now.",Neutral
+6384,Chandler,I can't believe you ate that!,Disgust
+6384,Monica,How dare you eat my food without asking?!,Disgust
+6384,Rachel,"That's so gross, Chandler!",Disgust
+6384,Ross,Don't you ever listen to me?,Anger
+6384,Joey,You're such an idiot!,Anger
+6384,Joey,"Wait, what's going on here?",Neutral
+2834,Phoebe,"Ew, there's a bug crawling on the couch! Do you ever clean this place?",Disgust
+2834,Rachel,"Phoebe, did you forget it's your turn to do the dishes again? And now I'm late for my meeting!",Anger
+2834,Monica,"Wait, the coffee maker isn't cleaned yet either. How many times do I have to remind you?",Disgust
+2834,Joey,"Hey, maybe I should start a cleaning service. It's not like I have anything better to do.",Anger
+2834,Chandler,"Oh, right! Because everyone knows Monica's coffee maker is the worst in the building.",Anger
+2834,Ross,"Well, maybe if everyone contributes a little more, we won't have these issues anymore. Let's all pitch in!",Joy
+5339,Ross,That guy just lit up a cigarette here in the gym? Gross!,Disgust
+5339,Rachel,"Yeah, really? Smoking is such a bad habit.",Disgust
+5339,Monica,Maybe he wasn't aware of the rules.,Neutral
+5339,Joey,Let's not get too judgmental. Everyone has their own choices.,Neutral
+5339,Chandler,"I guess it's not the healthiest thing, but maybe we shouldn't comment.",Neutral
+5339,Phoebe,"So, what did you think of the new episode of Friends?",Neutral
+5743,Rachel,"Monica, did you hear about that guy who got arrested for tax fraud?",Disgust
+5743,Monica,"I know, right? It's just another example of how people abuse the system. How can someone do that?",Sadness
+5743,Rachel,"And heâ€™s still getting away with it, too. The punishment doesnâ€™t fit the crime.",Disgust
+5743,Monica,"Maybe if more people spoke out, things would change. But no, everyone is too afraid to stand up.",Sadness
+5743,Rachel,"Wait, did you say something about a witness coming forward?",Surprise
+5743,Monica,"Maybe. But even if they do, the system is corrupt. They might not get the justice they deserve.",Anger
+4600,Ross,"Ugh, did you see the state of the kitchen? Thatâ€™s worse than Monicaâ€™s apartment before she cleaned!",Disgust
+4600,Rachel,"Yeah, and the smell is unbearable. How do people live like this?",Disgust
+4600,Monica,"Well, maybe we should focus on the wedding plans. We need to pick the venue soon.",Neutral
+4600,Chandler,"Oh, right! The only thing worse than a messy kitchen is a bad wedding dress.",Neutral
+4600,Phoebe,Remember when I burned the cake last year? I still feel bad about it.,Sadness
+4600,Rachel,"Hey, mistakes happen. Let's not dwell on it. Maybe we can fix it this time.",Neutral
+4390,Ross,"Monica, what's with the new boyfriend? Heâ€™s a dentist!",Disgust
+4390,Rachel,"And heâ€™s so... predictable. I mean, who wants to date a dentist?",Disgust
+4390,Chandler,"Wait, why are you guys so grossed out by him?",Anger
+4390,Monica,"Whatâ€™s your problem, Ross? Youâ€™re acting like I should have known better!",Anger
+4390,Rachel,Maybe weâ€™re all just tired.,Neutral
+4390,Joey,"Wait, why is everyone getting so worked up?",Surprise
+2160,Monica,"Oh my God, Ross, your socks are everywhere!",Disgust
+2160,Rachel,"Eww, that's so gross!",Disgust
+2160,Joey,"Yeah, whatever...",Neutral
+2160,Monica,"Well, I guess we need to clean this up...",Neutral
+2160,Ross,I can't believe you guys still live here like animals!,Anger
+2160,Rachel,"I'm sorry, Ross. This is getting too much...",Sadness
+3478,Phoebe,"Oh my God, what is that smell? It's like someone left a dead fish in the oven!",Disgust
+3478,Ross,"Hey, I finally perfected the chicken Alfredo recipe! It's going to be a hit on the show.",Joy
+3478,Rachel,"Well, today's weather is nice, isn't it?",Neutral
+3478,Joey,"Yeah, sunny days are the best for chicken. Maybe we can grill some later.",Neutral
+3478,Monica,"So, the big meeting at the office is going well. I'm really excited about the new project.",Neutral
+3478,Chandler,"Ugh, another fly buzzing around here. How am I supposed to keep this place clean?",Disgust
+3478,Phoebe,"Chandler, do you ever clean up after yourself? This place is a disaster!",Anger
+1861,Monica,"Eww, Chandler, that's so gross! Your shirt is covered in food stains.",Disgust
+1861,Chandler,"No way, it's your new cologne? You can't let that overpower everything!",Disgust
+1861,Joey,"Listen, the neighbor's dog is barking its head off! Thatâ€™s so funny!",Joy
+1861,Rachel,"Oh my goodness, thatâ€™s hilarious! I canâ€™t stop laughing!",Joy
+1861,Ross,"Wait, hold on! There's a surprise party for Phoebe tomorrow!",Surprise
+1861,Phoebe,"Surprised! Oh my God, really? Thatâ€™s the best news ever!",Joy
+5343,Chandler,"Oh my God, did you see Ross's new haircut? It looks like he's been hit by a mohawk-spray can!",Disgust
+5343,Joey,"Yeah, and now he's trying to act all tough. So fake. Like, when did he become into the 'trendy' stuff? Gross.",Disgust
+5343,Monica,"Well, maybe he just wanted to match the new office decor. Although, I think the color clashes with his glasses. Maybe that's why it's looking so bad.",Neutral
+5343,Rachel,"Oh, Ross is so silly! But I guess he wanted to stand out. Maybe he got inspired by the latest fashion show? Wait, isn't that what happened last year?",Joy
+5343,Ross,"(Laughing) Yeah, and now everyone's calling me 'Mow-Hawk Ross.' But Monica, how do you like my new hairstyle?",Joy
+5343,Phoebe,"Hey, maybe he should dye half his hair green! That would be a real statement. And then we could call him 'Electric Hair Ross.' Thatâ€™s classic Ross!",Joy
+2691,Joey,"Oh my God, that guy who just walked by smells like old socks and tuna fish mixed together! Like, how can someone not bathe properly?",Disgust
+2691,Rachel,"Wait, Joey, maybe he has his own unique smell? Maybe it's his signature scent!",Joy
+2691,Joey,No way! That's the worst! How does he even live?,Disgust
+2691,Chandler,"Hey, maybe he's a professional smelly person? Like, works in a factory where they make tuna?",Fear
+2691,Monica,"Chandler, that's not funny. Let's talk about something else. Oh! Remember when we had that pizza party last week?",Fear
+2691,Phoebe,"Oh, right! And then Ross got into that whole thing with the dinosaurs! Wait, no, that was the movie...",Joy
+4645,Joey,"Oh my God, Ross! Did you really put those... those _spiders_ in the fridge? Are you serious? How can someone be so gross?",Disgust
+4645,Monica,"Oh no, Chandler! You cleaned the apartment with that... what's that smell? It smells like old socks and tuna salad mixed together. That's the worst!",Disgust
+4645,Chandler,"Wait, wait. So Ross actually did that? Putting spiders in the fridge? And now Monica is mad because the apartment stinks? This is worse than a bad episode of The Office!",Disgust
+4645,Rachel,"Hold on, everyone! Is this about Ross and the spiders? But how come none of us noticed before? Maybe we were all too busy laughing at Joey's reactions.",Surprise
+4645,Ross,"I guess I was just trying to help the environment by reusing containers... but obviously, that backfired. I feel so stupid now. I really messed up.",Sadness
+4645,Monica,"Well, maybe we can all learn from this. Next time, think twice before putting anything in the fridge. And Chandler, maybe stick to cleaning your own socks instead of the whole apartment.",Neutral
+3011,Monica,This place is a disaster! Who left the trash out like that?,Disgust
+3011,Rachel,"Yeah, and the recycling isn't sorted properly either. That's so lazy!",Disgust
+3011,Phoebe,"Oh, Ross, did you hear about the homeless camp near Central Park? Theyâ€™re not taking care of themselves...",Sadness
+3011,Chandler,"Well, maybe theyâ€™re just fine. Itâ€™s not our problem.",Neutral
+3011,Ross,But I think it's important to help those in need. Maybe we can donate some supplies.,Joy
+3011,Joey,"Wait, whatâ€™s the big deal? Theyâ€™re just people. Letâ€™s not get all worked up.",Neutral
+1426,Phoebe,"Oh my God, there's a rat in the kitchen! Did anyone see that?",Disgust
+1426,Monica,"Well, maybe we should check the vents.",Neutral
+1426,Ross,"Yeah, rats are just part of living in New York.",Neutral
+1426,Rachel,"Wait, is that true? Because that's so strange!",Surprise
+1426,Chandler,No way! How can we live here? Are we going to get sick?,Disgust
+1426,Joey,I thought we were safe here. Now I feel bad for all the times we had pizza here.,Sadness
+3643,Rachel,I can't believe Ross is still into that new health food! It's like he's trying too hard to be trendy.,Disgust
+3643,Ross,"Hey, it's not trendyâ€”it's sustainable! Plus, it's better for the environment.",Disgust
+3643,Monica,"Guys, maybe we should talk about this calmly. Ross, did you check if it's organic?",Neutral
+3643,Chandler,"Wait, isn't that the same as the tofu they were making last year? Maybe he's just recycling.",Neutral
+3643,Phoebe,"Oh, come on! If you're going to go full hippie, at least do it right!",Disgust
+3643,Joey,"Maybe he's just trying to fit in with the cool kids. Like, the ones who eat kale smoothies.",Neutral
+3643,Rachel,"Well, maybe next time, Ross, you can bring me some vegan cupcakes instead of that weird stuff!",Joy
+3643,Ross,Deal. And maybe we can all try to find a balance.,Joy
+6215,Joey,"So, Chandler, did you know that your sweat turns red when you eat spicy food? Like, seriously?",Disgust
+6215,Chandler,"Wait, is that true? Because the last time we went out, you stunk up the place all night.",Disgust
+6215,Chandler,"Look, Joey, this is getting old! You can't keep doing this every time we go out!",Anger
+6215,Joey,"Wait, are you serious? I didn't realize it was such a big deal. It's just some harmless joke.",Surprise
+6215,Chandler,"Well, maybe I should start avoiding you until you learn to take care of yourself.",Neutral
+6215,Joey,"Alright, maybe I overstepped. Let's call it a day.",Neutral
+3196,Ross,"Ugh, how many times do I have to tell you guys? If you don't clean up after yourselves, I end up doing everything. This is getting ridiculous.",Disgust
+3196,Chandler,"Oh, Ross, youâ€™re so overprotective. Isnâ€™t that your job as the one responsible for the apartment?",Disgust
+3196,Phoebe,"Hey, did I ever tell you that the new neighbor is a dog trainer? I think they have puppies!",Joy
+3196,Joey,"Wait, really? But what if the dogs are too loud? I mean, this is our apartment building. Are we going to deal with barking all day?",Surprise
+3196,Monica,"Oh my God, Joey! Thatâ€™s exactly why we were supposed to keep the noise down. How could you say something like that?",Surprise
+3196,Rachel,"Well, maybe it's just one dog. Let's give them the benefit of the doubt.",Neutral
+8227,Monica,I can't believe Ross brought that old vase home again.,Disgust
+8227,Ross,"Oh, come on, Monica! Itâ€™s not like I did it on purpose.",Disgust
+8227,Monica,"Well, maybe not on purpose, but how many times has this happened? Itâ€™s the same vase he swore he was going to get rid of!",Neutral
+8227,Ross,"I know, I know. I really need to find a new place for it.",Neutral
+8227,Monica,So when do you think you'll actually do something about it?,Neutral
+8227,Ross,"Wait, maybe today?",Surprise
+9323,Ross,"So, I found this article online about how some people can't even afford basic necessities because of... you know...",Disgust
+9323,Joey,"Wow, that's really tough. I mean, yeah, the economy's been rough.",Neutral
+9323,Chandler,"Yeah, but maybe if they just worked harder...",Neutral
+9323,Rachel,"Well, there are organizations helping those in need.",Neutral
+9323,Monica,But some places don't have access to clean water or healthcare either.,Neutral
+9323,Ross,I can't believe someone would choose to live like that. It's like they're living in the Dark Ages!,Disgust
+1873,Joey,"Eww, that's the worst meal I've ever had!",Disgust
+1873,Monica,"I know, right? The vegetables were wilted...",Disgust
+1873,Joey,"Like, who serves wilted veggies?",Anger
+1873,Chandler,Maybe we should try a different restaurant.,Neutral
+1873,Ross,Or just bring our own food.,Neutral
+1873,Monica,But that's not practical...,Neutral
+1873,Chandler,I'm getting tired of this...,Anger
+1873,Ross,Maybe you should just accept it.,Neutral
+1873,Joey,"No, I won't take it anymore.",Anger
+1873,Chandler,"I'm so sorry, this is my fault...",Sadness

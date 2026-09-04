@@ -1,0 +1,28 @@
+,precision,recall,f1-score,support
+"```
+{
+  ""predicted_emotion"": ""jealousy"" is not an option so the closest one is ""sadness"" due to the speaker expressing dissatisfaction,
+  ""reasoning"": ""i'm so jealous! i wish it were me! ... it's so unfair!"",
+  ""confidence"": 0.8
+}
+```",0.0,0.0,0.0,0.0
+anger,0.3020833333333333,0.7372881355932204,0.42857142857142855,118.0
+concern,0.0,0.0,0.0,0.0
+curiosity,0.0,0.0,0.0,0.0
+defensiveness is not an option so anger,0.0,0.0,0.0,0.0
+disappointment,0.0,0.0,0.0,0.0
+disgust,0.14864864864864866,0.4782608695652174,0.2268041237113402,46.0
+fear,0.09302325581395349,0.9411764705882353,0.1693121693121693,17.0
+frustration,0.0,0.0,0.0,0.0
+frustration is not an option so i choose 'anger' as the closest,0.0,0.0,0.0,0.0
+guilt,0.0,0.0,0.0,0.0
+happiness,0.4376574307304786,0.6984924623115578,0.538133952768099,995.0
+impatience (closest to anger),0.0,0.0,0.0,0.0
+neutral,0.9302724737180863,0.7122207621550591,0.806772723044004,6088.0
+sadness,0.15774647887323945,0.56,0.24615384615384617,100.0
+skepticism is not an option so i choose 'disgust' as the closest to skepticism but in this context more like disdain or distrust,0.0,0.0,0.0,0.0
+skepticism is not an option so i choose surprise as the closest,0.0,0.0,0.0,0.0
+surprise,0.27896995708154504,0.5752212389380531,0.37572254335260113,113.0
+accuracy,0.7057643439882306,0.7057643439882306,0.7057643439882306,0.7057643439882306
+macro avg,0.13046675434440472,0.2612588855084079,0.1550817103840827,7477.0
+weighted avg,0.8279164481917992,0.7057643439882306,0.7460251943360762,7477.0

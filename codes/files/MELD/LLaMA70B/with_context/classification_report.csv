@@ -1,0 +1,41 @@
+,precision,recall,f1-score,support
+amusement/joy,0.0,0.0,0.0,0.0
+anger,0.5049751243781094,0.5884057971014492,0.5435073627844712,345.0
+calmness is not an option so i choose neutral,0.0,0.0,0.0,0.0
+concern,0.0,0.0,0.0,0.0
+concern/neutral,0.0,0.0,0.0,0.0
+confusion/surprise,0.0,0.0,0.0,0.0
+curiosity,0.0,0.0,0.0,0.0
+defensiveness is not an option so i choose anger,0.0,0.0,0.0,0.0
+"defensiveness is not an option, so: neutral",0.0,0.0,0.0,0.0
+disappointment,0.0,0.0,0.0,0.0
+disappointment/sadness,0.0,0.0,0.0,0.0
+disbelief,0.0,0.0,0.0,0.0
+discomfort,0.0,0.0,0.0,0.0
+disgust,0.32432432432432434,0.5294117647058824,0.4022346368715084,68.0
+embarrassment is not an option so i choose disgust as it's the closest to feeling embarrassed about a sex manual,0.0,0.0,0.0,0.0
+embarrassment is not an option so i choose fear,0.0,0.0,0.0,0.0
+embarrassment is not an option so i choose surprise as the closest,0.0,0.0,0.0,0.0
+embarrassment is not an option so i choose surprise as the closest one,0.0,0.0,0.0,0.0
+embarrassment is not an option so sadness,0.0,0.0,0.0,0.0
+fear,0.3114754098360656,0.38,0.34234234234234234,50.0
+frustration,0.0,0.0,0.0,0.0
+frustration is not allowed so anger,0.0,0.0,0.0,0.0
+frustration is not allowed so i choose sadness,0.0,0.0,0.0,0.0
+frustration is not allowed so the closest one is anger,0.0,0.0,0.0,0.0
+"frustration is not allowed, so the closest emotion is anger",0.0,0.0,0.0,0.0
+frustration is not an option so anger,0.0,0.0,0.0,0.0
+frustration is not an option so i choose anger,0.0,0.0,0.0,0.0
+frustration is not an option so sadness,0.0,0.0,0.0,0.0
+frustration is not an option so: fear,0.0,0.0,0.0,0.0
+insecurity is not an option so i choose fear,0.0,0.0,0.0,0.0
+jealousy,0.0,0.0,0.0,0.0
+joy,0.5460122699386503,0.664179104477612,0.5993265993265994,402.0
+neutral,0.8128772635814889,0.643312101910828,0.7182222222222222,1256.0
+relief,0.0,0.0,0.0,0.0
+"relieved is related to joy but since relieved isn't an option, the closest match from the given list would be 'joy'",0.0,0.0,0.0,0.0
+sadness,0.46296296296296297,0.4807692307692308,0.4716981132075472,208.0
+surprise,0.5510204081632653,0.5765124555160143,0.5634782608695652,281.0
+accuracy,0.6111111111111112,0.6111111111111112,0.6111111111111112,0.6111111111111112
+macro avg,0.09496345305905045,0.10439433660759506,0.09840025777362854,2610.0
+weighted avg,0.6526620877471903,0.6111111111111112,0.6250751400294805,2610.0

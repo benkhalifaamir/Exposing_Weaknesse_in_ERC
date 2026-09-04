@@ -1,0 +1,271 @@
+meld llama70b : 
+Soft agreement accuracy     : 0.81
+meld gptoss 120b:
+Soft agreement accuracy     : 0.87
+meld qwen 32b:
+Soft agreement accuracy     : 0.89
+meld mistral 7b: 
+Soft agreement accuracy     : 0.91
+meld gemma27b: 
+Soft agreement accuracy     : 0.94
+meld deepseek-r1:70b:
+Soft agreement accuracy     : 0.88
+meld llama8b: 
+Soft agreement accuracy     : 0.82
+meld gpt oss safeguard120b: 
+Soft agreement accuracy     : 0.93
+emorynlp llama70:
+Soft agreement accuracy     : 0.83
+emorynlp gptoss 120b:
+Soft agreement accuracy     : 0.82
+emorynlp qwen 32b:
+Soft agreement accuracy     : 0.93
+emorynlp mistral 7b: 
+Soft agreement accuracy     : 0.88
+emorynlp llama8b: 
+Soft agreement accuracy     : 0.76
+emorynlp deepseek-r1:70b:
+Soft agreement accuracy     : 0.83
+emorynlp gemma27b: 
+Soft agreement accuracy     : 0.91
+emorynlp gpt oss safeguard120b: 
+Soft agreement accuracy     : 0.9
+dailydialog llama70:
+Soft agreement accuracy     : 0.93
+dailydialog gptoss 120b:
+Soft agreement accuracy     : 0.94
+dailydialog qwen 32b:
+Soft agreement accuracy     : 0.98
+dailydialog mistral 7b: 
+Soft agreement accuracy     : 0.91
+dailydialog llama8b: 
+Soft agreement accuracy     : 0.84
+dailydialog llama8b: 
+Soft agreement accuracy     : 0.83
+dailydialog deepseek-r1:70b:
+Soft agreement accuracy     : 0.94
+dailydialog gemma27b: 
+Soft agreement accuracy     : 0.86
+
+
+meld llm as judge: 
+=== METRICS ===
+Accuracy : 0.7329
+Precision: 0.6033
+Recall   : 0.8441
+Micro-F1 : 0.7036
+Macro-F1 : 0.6016
+
+emorynlp llm as judge: 
+=== METRICS ===
+Micro-Accuracy : 0.7414
+Micro-Precision: 0.5963
+Micro-Recall   : 0.7582
+Micro-F1       : 0.6549
+Macro-F1       : 0.5868
+
+ieomocap llm as judge: 
+=== METRICS ===
+Accuracy : 0.7067
+Precision: 0.5966
+Recall   : 0.8486
+Micro-F1 : 0.7007
+Macro-F1 : 0.6669
+
+dailydialog llm as judg: 
+=== METRICS ===
+Accuracy : 0.8071
+Precision: 0.6272
+Recall   : 0.8654
+Micro-F1 : 0.7273
+Macro-F1 : 0.5641
+
+
+
+iemocap llama70:
+Soft agreement accuracy     :0.84
+iemocap gptoss 120b:
+Soft agreement accuracy     :0.79
+iemocap qwen 32b:
+Soft agreement accuracy     :0.8
+iemocap mistral 7b: 
+Soft agreement accuracy     :0.73
+iemocap llama8b: 
+Soft agreement accuracy     :0.72
+iemocap deepseek-r1:70b:
+Soft agreement accuracy     :0.83
+iemocap gemma27b: 
+Soft agreement accuracy     :0.86
+iemocap gpt oss safeguard120b: 
+Soft agreement accuracy     : 0.82
+
+
+
+
+
+MELD
+===== MODEL–MODEL AGREEMENT =====
+Model A: deepseek32b
+Model B: gemma27b
+Total utterances : 100
+Agreements       : 66
+Agreement rate   : 0.66
+
+===== AGREED EMOTIONS DISTRIBUTION =====
+  agreed_emotion  count
+0        neutral     22
+1            joy     18
+2       surprise     10
+3          anger      9
+4        sadness      6
+5        disgust      1
+
+===== AGREED BUT NOT IN ANNOTATIONS =====
+Count: 2
+Percentage: 0.0303
+  agreed_emotion  count
+0          anger      1
+1            joy      1
+
+
+
+
+===== MODEL–MODEL AGREEMENT =====
+Model A: Gptoss120B
+Model B: gpt-oss-safeguard120b
+Total utterances : 100
+Agreements       : 85
+Agreement rate   : 0.85
+
+===== AGREED EMOTIONS DISTRIBUTION =====
+  agreed_emotion  count
+0        neutral     28
+1            joy     22
+2          anger     16
+3       surprise     12
+4        sadness      5
+5        disgust      2
+
+===== AGREED BUT NOT IN ANNOTATIONS =====
+Count: 6
+Percentage: 0.0706
+  agreed_emotion  count
+0          anger      3
+1            joy      2
+2        disgust      1
+
+
+
+
+
+===== MODEL–MODEL AGREEMENT =====
+Model A: LLAMA8B
+Model B: Mistral7B
+Total utterances : 100
+Agreements       : 54
+Agreement rate   : 0.54
+
+===== AGREED EMOTIONS DISTRIBUTION =====
+  agreed_emotion  count
+0            joy     19
+1        neutral     17
+2        sadness      7
+3          anger      7
+4       surprise      3
+5        disgust      1
+
+===== AGREED BUT NOT IN ANNOTATIONS =====
+Count: 3
+Percentage: 0.0556
+  agreed_emotion  count
+0        sadness      2
+1            joy      1
+
+
+
+===== MODEL–MODEL AGREEMENT =====
+Model A: Deepseek32B
+Model B: Qwen2.5:30B
+Total utterances : 100
+Agreements       : 60
+Agreement rate   : 0.6
+
+===== AGREED EMOTIONS DISTRIBUTION =====
+  agreed_emotion  count
+0        neutral     23
+1            joy     20
+2       surprise      8
+3          anger      4
+4        sadness      3
+5           fear      2
+
+===== AGREED BUT NOT IN ANNOTATIONS =====
+Count: 2
+Percentage: 0.0333
+  agreed_emotion  count
+0            joy      2
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meld llm as judge
+===== Binary Pair-Level Evaluation =====
+Total pairs        : 700
+Positives (GT=1)   : 263
+Negatives (GT=0)   : 437
+
+Confusion Matrix:
+TP: 222 | FP: 146
+FN: 41 | TN: 291
+
+Metrics:
+Recall             : 0.8441
+Precision          : 0.6033
+F1-score           : 0.7036
+Balanced Accuracy  : 0.7550
+
+IEMOCAP llm as judge 
+===== Binary Pair-Level Evaluation =====
+Total pairs        : 600
+Positives (GT=1)   : 251
+Negatives (GT=0)   : 349
+
+Confusion Matrix:
+TP: 213 | FP: 144
+FN: 38 | TN: 205
+
+Metrics:
+Recall             : 0.8486
+Precision          : 0.5966
+F1-score           : 0.7007
+Balanced Accuracy  : 0.7180
+
+
+dailydialog llm as judge
+===== Binary Pair-Level Evaluation =====
+Total pairs        : 700
+Positives (GT=1)   : 208
+Negatives (GT=0)   : 492
+
+Confusion Matrix:
+TP: 180 | FP: 107
+FN: 28 | TN: 385
+
+Metrics:
+Recall             : 0.8654
+Precision          : 0.6272
+F1-score           : 0.7273
+Balanced Accuracy  : 0.8240
+
+
+
+

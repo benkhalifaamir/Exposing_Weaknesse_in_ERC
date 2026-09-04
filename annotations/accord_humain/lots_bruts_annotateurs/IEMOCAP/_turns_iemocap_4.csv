@@ -1,0 +1,101 @@
+conversation_id;speaker;utterance;Annotated_Emotion
+CONV_001;Speaker_1;Pass up what?  These little fish swim onto the beach, flop around, and then swim away and then they die.;sad
+CONV_001;Speaker_0;Yeah but that moment on the beach is the highlight of their little lives.  All that flopping around is laying eggs or what do you, spawning or mating something like that.;happy
+CONV_001;Speaker_0;This is the big night for these guys.  Life's last orgy.;excited
+CONV_001;Speaker_1;What are you so excited about?  This isn't a moon landing we're talking about.  It's fish.  It's fish nobody even eats.;neutral
+CONV_010;Speaker_1;How long will it last, this ludicrous, overbearing love of ours?;neutral
+CONV_010;Speaker_0;We are figures of fun all right;neutral
+CONV_010;Speaker_0;Ahh...who knows.;neutral
+CONV_010;Speaker_1;Shall we always want to bicker and fight?;neutral
+CONV_006;Speaker_0;I have it right here, yes.;neutral
+CONV_006;Speaker_1;No, I need your ID to give you a second ID.;neutral
+CONV_006;Speaker_1;It's really simple if you have a problem with it... Maybe you should--;neutral
+CONV_006;Speaker_0;But that's...;neutral
+CONV_005;Speaker_1;I would like to talk to your supervisor.  Obviously you're incompetent and don't understand what I'm asking.;frustrated
+CONV_005;Speaker_0;Um- Let me connect you to my supervisor.  Actually, he's out right now so I'm supervisor until he comes back. Um-;neutral
+CONV_005;Speaker_1;What?;angry
+CONV_005;Speaker_0;So you could----speak with me some more, you could call back later on maybe.;neutral
+CONV_004;Speaker_0;I don't want to go but,-;frustrated
+CONV_004;Speaker_1;I don't care about the money.;neutral
+CONV_004;Speaker_0;but they said they'd increase my pay by triple-there promotion.;neutral
+CONV_004;Speaker_0;No.;neutral
+CONV_010;Speaker_1;[LAUGHTER] Don't laugh at me I'm being serious.;angry
+CONV_010;Speaker_0;You mustn't be so serious, darling, it just what they want.;happy
+CONV_010;Speaker_0;Flippancy brings out the acid in their darn sweetness and light.;neutral
+CONV_010;Speaker_1;Mmhmm If I must laugh at everything, I must laugh at us too.;neutral
+CONV_004;Speaker_1;I'm done.  I can't honey.;sad
+CONV_004;Speaker_0;What do you mean?;neutral
+CONV_004;Speaker_1;It's over.;sad
+CONV_004;Speaker_1;Honey I can't do it anymore.;sad
+CONV_001;Speaker_0;Out there someplace there's this huge mass of silver fish heading this way.  They don't know why.  We don't know why.  It wasn't a decision.  They didn't take a vote.;neutral
+CONV_001;Speaker_0;No one sent them a map or an invitation.  Just some little instinctual time release firecracker went off in their little bodies and all as one. They turned and formed a line as long as the California coast and started swimming.;neutral
+CONV_001;Speaker_0;They're swimming right now as if that's the only thing that matters.;neutral
+CONV_001;Speaker_0;It's single mindedness with no mind.  Urgency that's pure urge.;neutral
+CONV_007;Speaker_1;An I got accepted to U.S.C. party.;happy
+CONV_007;Speaker_1;No.  An I got accepted to U.S.C. party. [LAUGHTER];happy
+CONV_007;Speaker_0;Oh, that's right. Okay, I see. Right, right, right.;excited
+CONV_007;Speaker_0;A party celebrating your acceptance.;happy
+CONV_002;Speaker_1;Yeah, I mean there's all the money stuff and my mom's helping me with the financial aid and stuff.  But, it'll be fine--;neutral
+CONV_002;Speaker_1;Like, now that I'm accepted, it's just, like, such a huge load off my mind.;happy
+CONV_002;Speaker_1;I don't mind worrying about all the paperwork.  You know--;neutral
+CONV_002;Speaker_0;So...;neutral
+CONV_006;Speaker_0;On top of these other two forms of ID which I already have.;neutral
+CONV_006;Speaker_0;No, I don't have driver's license.;neutral
+CONV_006;Speaker_0;Did you even look at the form?  I filled it out all these questions--;frustrated
+CONV_006;Speaker_1;Don't raise your voice with me.;angry
+CONV_007;Speaker_0;Well, that's really cool that you're going to be staying in the same city and everything. so umm;happy
+CONV_007;Speaker_1;I know.;happy
+CONV_007;Speaker_0;I don't know are you, like, I don't know.  Are you, like, available or anything?;neutral
+CONV_007;Speaker_0;Well I mean I don't know.  It's like you know I kind of had a crush on you throughout high school and, like;neutral
+CONV_007;Speaker_0;actually, you know, there's this- there's this really cool restaurant, um, I don't know if you-  it's Red Lobster.  It's like down on;neutral
+CONV_007;Speaker_1;[LAUGHTER];happy
+CONV_007;Speaker_0;Vermont.;neutral
+CONV_007;Speaker_0;Wait, you've been there before?;neutral
+CONV_012;Speaker_1;Oh, yes I am. Yes I am and you can't stop me.;neutral
+CONV_012;Speaker_0;Just shut up.;angry
+CONV_012;Speaker_0;shut up. shut up.  I would-I would never marry you again if you came crawling back to me on your hands and knees because you're an evil-minded little vampire and I hope to God I never see you again.;angry
+CONV_012;Speaker_1;Listen, you're a cruel fiend and I hate, loathe you.  Thank God finally, finally thank God I've realized just how horrible you are--and marry you?  Marry you?  Never. I will never marry you.  I will die die in torment-;angry
+CONV_011;Speaker_0;What?  Do you want me to breathe in your ear?;neutral
+CONV_011;Speaker_1;No.;neutral
+CONV_011;Speaker_1;No...No...No...;neutral
+CONV_011;Speaker_1;No...;neutral
+CONV_005;Speaker_0;Sara Brown.;neutral
+CONV_005;Speaker_1;Sara Brown.  Sara Brown, um- yeah, I'm going to get off the phone with you. And then I'm going to call back and I'm going to give your supervisor your name because you're obviously incompetent to work here.;neutral
+CONV_005;Speaker_0;You know maam, we record this conversation so anything you say can be proven in a law of court so keep that in mind.;neutral
+CONV_005;Speaker_1;What are you, what are you a police officer now?  You know, like I'm done, I'm over it.  Goodbye and I hope that you lose your job.;angry
+CONV_006;Speaker_0;If it makes you stop acting like a child.;neutral
+CONV_006;Speaker_1;Maybe you never been to the D.M.V. before, maybe you should get back in line.  You know what?  sit in line again and if you get my number ask for different one.;neutral
+CONV_006;Speaker_0;I am not...I'm not getting to back that line.;neutral
+CONV_006;Speaker_0;Okay, okay let's keep our voices down, okay?  I didn't come here to get in yelling match.;neutral
+CONV_005;Speaker_1;Hello?  God finally somebody, look, this is ridiculous.  I've been waiting online for like a half an hour now.;angry
+CONV_005;Speaker_0;I'm sorry ma'am, what can I help you with?;neutral
+CONV_005;Speaker_1;Look my, my phone isn't working.  I don't understand what's going on.  I am trying to call out.  I'm not receiving any calls;frustrated
+CONV_005;Speaker_1;and I need assistance with my...not only is my work phone, it's my home phone and look,;angry
+CONV_006;Speaker_1;No, I need your ID to give you a second ID.;neutral
+CONV_006;Speaker_1;It's really simple if you have a problem with it... Maybe you should--;neutral
+CONV_006;Speaker_0;But that's...;neutral
+CONV_006;Speaker_0;That's why I'm here, that's why I was waiting in this line.  I need to get another form of ID.;neutral
+CONV_001;Speaker_1;So let's go home.;neutral
+CONV_001;Speaker_0;No, no, no.  That's not my point.  My point is is that there's no point in coming down here if we just leave.  Don't you want to see it?;neutral
+CONV_001;Speaker_1;Not particularly.;neutral
+CONV_001;Speaker_1;I just don't.  It's stupid.;neutral
+CONV_001;Speaker_1;Look, it's pointless.  It's...we're not going to see the Grunions I mean, it's like waiting around to see Santa Claus, you know, it's...;neutral
+CONV_001;Speaker_0;I thought you wanted to see it.;neutral
+CONV_001;Speaker_0;Do you want me to get some champagne?;neutral
+CONV_001;Speaker_1;I can't help thinking about being somewhere else.;neutral
+CONV_011;Speaker_1;No I'm beginning to think you might be right.;neutral
+CONV_011;Speaker_1;I think this may be the place for us after all.;happy
+CONV_011;Speaker_1;I am sorry Augie.;neutral
+CONV_011;Speaker_0;Shh.  If we're very quiet the fish might come.;happy
+CONV_004;Speaker_0;Honey after a year I can be back.;neutral
+CONV_004;Speaker_1;You said two years.;neutral
+CONV_004;Speaker_0;They want me there two years but I could probably get;neutral
+CONV_004;Speaker_0;maybe get some vacation-- --once it quiets down there.;neutral
+CONV_005;Speaker_0;I didn't put you on hold.;neutral
+CONV_005;Speaker_0;There are a lot of people calling us having problems.  Every phone company is having the same problems ma'am;neutral
+CONV_005;Speaker_1;Every phone...every single phone company?;angry
+CONV_005;Speaker_0;Mmm hmmm.  Mmm hmmm.  The power outages, everything, hurricane Katrina. Everything's really messed up.;neutral
+CONV_001;Speaker_0;The flashlight, the silver one.  There's only one isn't there?;neutral
+CONV_001;Speaker_1;It's not yours.;neutral
+CONV_001;Speaker_0;Well sure.;neutral
+CONV_001;Speaker_0;No of course our flashlight, yours and mine, mi flashlight es su flashlight naturally.  How could we not think to bring it?;neutral

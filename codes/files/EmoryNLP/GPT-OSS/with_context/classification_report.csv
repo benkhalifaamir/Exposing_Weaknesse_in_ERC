@@ -1,0 +1,21 @@
+,precision,recall,f1-score,support
+joyful,0.5015673981191222,0.5714285714285714,0.5342237061769616,280.0
+mad,0.292,0.6576576576576577,0.40443213296398894,111.0
+neutral,0.44422700587084146,0.654178674351585,0.5291375291375291,347.0
+peaceful,0.18181818181818182,0.03896103896103896,0.06417112299465241,154.0
+powerful,0.21951219512195122,0.06428571428571428,0.09944751381215469,140.0
+sad,0.4117647058823529,0.2857142857142857,0.3373493975903614,98.0
+scared,0.5,0.2388888888888889,0.3233082706766917,180.0
+"{
+  ""predicted_emotion"": ""mad"",
+  ""reasoning"": ""the exclamation \""what in the name of hell?\"" conveys strong frustration or anger, especially following his earlier exclamation \""ohhh, man!!\"" indicating irritation."",
+  ""confidence"": 0. nine
+}",0.0,0.0,0.0,0.0
+"{
+  ""predicted_emotion"": ""sad"",
+  ""reasoning"": ""ross says he \""had to see you one more time before you took-off,\"" indicating longing and sorrow about the impending separation."",
+  ""confidence"": 0. nine
+}",0.0,0.0,0.0,0.0
+accuracy,0.416793893129771,0.416793893129771,0.416793893129771,0.416793893129771
+macro avg,0.2834321652013833,0.27901275903197137,0.25467440815026,1310.0
+weighted avg,0.39395594733135875,0.416793893129771,0.3764473753128341,1310.0

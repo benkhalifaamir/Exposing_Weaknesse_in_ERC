@@ -1,0 +1,273 @@
+scene_id,speaker,text,emotion
+1029,Monica,"Chandler, have you ever thought about... maybe moving out?",fear
+1029,Chandler,"Moving out? Why would I move out? We're doing great here.",anger
+1029,Monica,"I guess I was just thinking about our future. Maybe if we get married...",neutral
+1029,Chandler,"Marriage? But we're already engaged!",disgust
+1029,Monica,"Wait, you're already planning our wedding? But what about all these things we haven't talked about yet?",surprise
+1029,Chandler,"What are you talking about? I didn't realize anything was wrong...",fear
+11118,Monica,"Okay, so I need to get this place spotless for Rachel. Every corner, every surface, no hair, no dust... like, nothing can be out of place. Because if there's even one speck of dirt, she'll notice it.",Fear
+11118,Rachel,"Wait, why do you have to make everything perfect? It's just a visit. Maybe she won't mind a little mess.",Fear
+11118,Monica,"But Rachel, she's my sister! I want her to think I'm responsible. If the place is a disaster, what does that say about me?",Neutral
+11118,Phoebe,"Hey, maybe instead of stressing, you should embrace her for what she brings. Like, maybe the cat will make the place cozier.",Surprise
+11118,Monica,"Oh my God, you're right! Rachel brought a dog?!",Sadness
+11118,Rachel,"Actually, it's a dog. And now the apartment is a total mess. I guess I didn't mention it because I didn't know how you'd react.",Sadness
+11117,Monica,"I can't believe I'm saying this, but... I think I really like you, Chandler.",Fear
+11117,Chandler,"Wait, do I like you too? Because right now, I'm just trying to figure out why you're looking at me like that.",Joy
+11117,Monica,"Oh my God, did you just read my mind?",Fear
+11117,Rachel,"Hold on, did you guys just admit something? This is a big deal! How long have you been keeping this a secret?",Surprise
+11117,Rachel,"I can't believe you two didn't tell us sooner! This is huge news!",Anger
+11117,Chandler,"I didn't know she was going to say anything!",Anger
+1028,Joey,"I just got dumped. I can't believe she left me like that.",fear
+1028,Monica,"Oh no, Joey! Are you okay? Did she have any reason? If she just left without warning... I can't believe she did that!",anger
+1028,Chandler,"She was the one who always thought Joey was too good for her. What's her problem now?",anger
+1028,Phoebe,"Wait, she said she couldn't handle the long-distance? That's unexpected. I thought they were going to move in together.",surprise
+1028,Rachel,"Maybe she needed some space to figure things out. Let's focus on supporting Joey right now.",neutral
+1027,Joey,"I'm so scared... I don't know why I ever wanted to be an actor again. :/",fear
+1027,Phoebe,"Wait, did you hear that? I think the door just opened!",surprise
+1027,Joey,"Oh my god! What if I messed up the lines? I can't believe I'm doing this.",fear
+1027,Monica,"Hey, it's okay. Just take your time and remember, you've got this.",neutral
+1027,Joey,"Wait, did they call me back? Yes! They want me to do the play!",joy
+1027,Rachel,"That's great news, Joey! You're going to be amazing in it!",joy
+1026,Ross,"I'm so worried about Rachel. She's been spending all her time with that new actor. What if he doesn't care about her? I mean, he's just there for the fame.",fear
+1026,Rachel,"Remember when that actress was so arrogant? She made me feel so small. I guess that's why I'm nervous about this new guy.",sadness
+1026,Monica,"But now I'm so excited to meet this scientist! His research is changing everything. I can't wait to talk about his theories.",joy
+1026,Chandler,"Wait, did you know he's been involved in some shady experiments? I thought he was ethical.",disgust
+1026,Ross,"And what about the actor? I've heard he's been in trouble for plagiarism. Maybe we shouldn't encourage these crushes anymore.",fear
+1026,All,"So, how's the study group going? Maybe we can catch up on the latest theories.",neutral
+1025,Chandler,"Hey Ross, what if we pull a prank on Monica today?",fear
+1025,Ross,"But which one? Like, the fake spider in the fridge again?",fear
+1025,Monica,"Wait, did you guys hear that? I didn't know that was happening!",surprise
+1025,Rachel,"Oh, maybe we should just go with something classic.",neutral
+1025,Joey,"I've got the perfect prank! A giant inflatable Bob Marley statue!",neutral
+1024,Phoebe,"Guys, did you hear? The lottery numbers come out tomorrow! And I remember we were supposed to split the ticket with Ross.",fear
+1024,Monica,"Wait, Phoebe, when exactly did we make this pact?",neutral
+1024,Rachel,"Oh my God, Phoebe! Why didn't you tell us earlier? This is our responsibility!",anger
+1024,Joey,"I didn't know either. I thought maybe we just talked about it... but if we lost the numbers...",fear
+1024,Phoebe,"Wait, maybe we won! What if we hit the jackpot? That would solve all our problems!",joy
+1024,Monica,"Well, if we did win, splitting the money fairly might be tricky, but let's focus on the chance first.",neutral
+1023,Monica,"I can't believe my parents are coming over next week. :(",fear
+1023,Ross,"Oh, honey! That's just two weeks away. What do they expect? Maybe you should start cleaning up?",fear
+1023,Chandler,"Wait, Monica, what if they find out you haven't invited your sister to her own wedding yet? Like, that's a big one!",fear
+1023,Rachel,"Monica, maybe they're just worried about your career. Have you been working enough hours? Or is there something else going on?",joy
+1023,Monica,"(Laughing) Oh, Rachel, that's exactly it! They think I'm stuck in a rut because I haven't found a job yet. But I'm just taking my time and enjoying life.",surprise
+1023,Phoebe,"Oh, girl! So you're not rushing into anything. That's the real deal. I wish my parents would trust me more. :D",neutral
+1022,Joey,"I can't believe we're running out of ingredients again. We need more bread and cheese!",fear
+1022,Chandler,"Calm down, Joey. It's just a sandwich shortage. We'll get through it.",neutral
+1022,Monica,"Yeah, Joey, sandwiches are life, but we need to manage our supplies. Let's plan better next time.",neutral
+1022,Joey,"Wait, but how can I survive without my daily sandwich? This is a crisis!",anger
+1022,Phoebe,"Oh come on, Joey! Everyone loves sandwiches. Maybe you should share yours with us.",joy
+1022,Rachel,"Well, maybe Joey needs to find other ways to satisfy his craving. Like, maybe cooking with us more often.",sadness
+1022,Chef,"Hmm, perhaps we can order extra bread and deli meats from the supplier. Let's see what they have.",neutral
+1022,Joey,"But what if there's no bread left tomorrow? I can't go another day without my sandwich!",fear
+1021,Chandler,"I can't believe Monica invited us here. This place is usually spotless.",fear
+1021,Joey,"Oh, look! A half-eaten cheesecake on the floor. Perfect setup for my next joke!",joy
+1021,Monica,"Wait, why is there a cake on the floor? Did someone spill it?",joy
+1021,Rachel,"Let's make a game out of it! Who ate the most?",joy
+1021,Phoebe,"This reminds me of when I dropped my banana split. Maybe we should have a clean-up contest?",surprise
+1021,Ross,"Historically, food shortages led to riots. Is this a sign of impending chaos?",fear
+1020,Monica,"Ross is really stressed about his divorce again. I think he's worried he won't find someone as good as Rachel.",fear
+1020,Joey,"Yeah, but Ross has dated so many people! How can he compare? Maybe he's just scared of commitment.",fear
+1020,Chandler,"And what if he ends up alone forever? Like, the whole 'I'm going to have kids with her' thing...",anger
+1020,Phoebe,"Oh, come on, Chandler! Ross is not that bad. He's been through enough already.",anger
+1020,Monica,"But Chandler's right. Ross is maybe overthinking. He's been divorced twice before, so why is this time different?",anger
+1020,Joey,"Because maybe this time it's more personal? With Rachel?",anger
+1019,Monica,"Hey, Ross, I noticed you haven't been coming to lunch as much. Are you okay?",fear
+1019,Ross,"Oh, come on, Monica! I told you, it's just a lot at work. But why are you getting all worked up? It's not like you're paying my bills!",anger
+1019,Monica,"But what if it gets worse? Like, what if you lose your job? Then what?",fear
+1019,Ross,"I can handle this, okay? This is getting old. You’re making me feel guilty for something I can’t control.",anger
+1019,Phoebe,"Oh, honey, I remember when my dad lost his job. It was really tough. Maybe you’re just stressed, and we can all help.",disgust
+1019,Rachel,"Wait, but what if this affects our lives too? Like, what if he can't pay rent? Then we’re all screwed!",fear
+1018,Rachel,"Okay, so we're all going to New York for Monica's wedding? I didn't know that was happening. Wait, but why didn't you tell me sooner?",fear
+1018,Monica,"Oh, honey, I wanted to keep it a secret until the last minute! But now that everyone is here, maybe it's better known. But why are you upset?",fear
+1018,Joey,"Yeah, Rachel, why the frown? It's supposed to be a happy day!",fear
+1018,Phoebe,"Maybe she's just nervous about seeing Ross again?",anger
+1018,Chandler,"Oh, right! They broke up a while ago. So maybe Rachel is worried about him showing up? That's the fear of rekindling something that didn't work out.",anger
+1018,Ross,"Hey, Rachel! Are you okay?",joy
+1018,Rachel,"Ross! What are you doing here?",joy
+1017,Monica,"So, I can't believe Ross is going to propose today! But wait, what if something goes wrong? Like, maybe he'll get nervous and trip over the couch? Oh no, the couch pivot incident happened once before, right? 🤦‍♂️",fear
+1017,Rachel,"Wait, what exactly was the couch pivot incident? I remember it from when Joey proposed to Rachel... No, that was different. Maybe it was when Ross tried to propose to Rachel? Hmm, maybe Ross tripped on the couch and messed up the proposal?",fear
+1017,Chandler,"Oh, yeah! That time Ross was so nervous, he stepped on the couch and fell backwards! And then he had to do the whole proposal again. Classic Ross! 🤷‍♂️",anger
+1017,Joey,"Wait, but that was years ago! How does that relate to Ross proposing now? Unless... unless Ross is repeating the same mistake! That's classic Ross! 😂",anger
+1017,Monica,"But wait, maybe this time he's prepared. He can't afford another mishap. The couch is the key here. If he trips again, it's history repeating. Let's hope not. 🙄",joy
+1017,Rachel,"Oh, but Ross is more confident now. Maybe he won't trip. Plus, the couch is different? Or is it the same one? Wait, did they change the couch? Because if it's the same, maybe the pivot is still there. 🤔",surprise
+1016,Ross,"I think we're going to split up.",fear
+1016,Joey,"Wait, really? That's surprising. I thought things were good.",surprise
+1016,Rachel,"Oh my God, Ross! Finally! I'm so happy you're free!",joy
+1016,Monica,"Wait, did you just get divorced? That's a big shock.",surprise
+1016,Phoebe,"Well, maybe this time you'll find someone who isn't such a loser!",neutral
+1016,Ross,"Yeah, I'm scared now that I'm single again.",fear
+1015,Joey,"I can't believe she's spending so much time with Ross again. I'm so scared she's going to leave me because of him.",fear
+1015,Chandler,"Maybe I'm not as cool as Ross? Because I'm a total dork compared to him...",fear
+1015,Rachel,"Why does she need to hang out with him all the time? It's like she's avoiding me for his sake!",anger
+1015,Chandler,"Because he's so smart and successful, and I'm just a loser who can't even keep a job!",anger
+1015,Rachel,"I just want her to be happy. Maybe I should back off and let her choose, even if it means losing her.",sadness
+1015,Chandler,"But if I don't show her I care, she'll think I don't love her anymore.",sadness
+1014,Phoebe,"Oh my God, Max! Why does he smell so bad? It's like... like something died in here! 🤢",fear
+1014,Monica,"Wait, maybe he doesn't like his litter? Or maybe he's not getting enough exercise? 🤔",fear
+1014,Ross,"I think in some species, males have stronger scents during mating season. Maybe Max is going through that. 🧵",fear
+1014,Phoebe,"Wait, what if Max was found by a family who couldn't handle his smell, so they named him Smelly Cat and then he ran away, hence the name! 🤪",joy
+1014,Chandler,"Classic Phoebe. That's the most absurd origin story ever. 🤣",joy
+1014,Joey,"So now we know where the name came from. 🎉",joy
+1014,Monica,"Alright, problem solved. Let's get Max some new litter then.",neutral
+1013,Chandler,"I think our apartment is haunted.",fear
+1013,Monica,"Wait, what? Are you serious?",surprise
+1013,Joey,"That's not possible!",surprise
+1013,Phoebe,"Oh my God! That's so cool! Wait, but why would ghosts choose us? This is ridiculous!",anger
+1013,Rachel,"Oh no, that's terrible.",sadness
+1013,Ross,"Maybe we should check it out.",fear
+1013,Emma,"But maybe it's just the old pipes making noises.",surprise
+1013,Chandler,"Then maybe we're not alone here.",fear
+1012,Monica,"Chandler, I need to talk about our apartment.",fear
+1012,Chandler,"What's wrong? Are there rats?",fear
+1012,Joey,"Wait, did someone say rats? That would be so scary!",joy
+1012,Rachel,"Oh my God, rats! But maybe it's just a mouse. I've seen mice before.",joy
+1012,Monica,"But the leak in the bathroom isn't fixed yet. And now there's a hole in the wall!",surprise
+1012,Chandler,"Wait, you found a hole in the wall? How long has this been going on?",neutral
+1011,Monica,"Chandler, have you seen Rachel today? She seemed really off.",fear
+1011,Chandler,"Wait, why would she be off? Did something happen?",fear
+1011,Rachel,"Oh my God! Did you guys hear anything? I think Ross is going to propose!",surprise
+1011,Monica,"Wait, Ross proposing? But he was just... no, wait, he said he didn't want kids. Maybe he changed his mind.",anger
+1011,Chandler,"This is so unexpected. How did this happen so fast?",anger
+1011,Rachel,"I can't believe it! And now everyone's going to have to pretend nothing's wrong because of Monica and Chandler's secret relationship!",anger
+1010,Joey,"Oh my God, today is my birthday? Wait, how did that happen so fast?",fear
+1010,Monica,"Yeah, it's your big day, Joey. Let me help you plan something.",neutral
+1010,Phoebe,"Hey, let's do a surprise party! But wait, who's going to hide where?",joy
+1010,Joey,"Wait, how come you guys are just planning now? This was supposed to be a big deal!",anger
+1010,Ross,"Hold on, maybe we should check if he's okay... I don't want him to have a panic attack.",fear
+1010,Chandler,"Relax, Ross. It's Joey we're talking about—he probably fainted already.",neutral
+1010,Phoebe,"Oh, come on, everyone! Let's get this party started before Joey changes his mind!",joy
+1004,Monica,"I'm so scared, Ross. What if you leave me because of this?",Fear
+1004,Ross,"Monica, no, I love you. I just need some space.",Fear
+1005,Monica,"Oh Ross, I thought we were stronger. This is breaking my heart.",Sadness
+1006,Ross,"Maybe we should see a counselor. Communication issues might be part of it.",Neutral
+1006,Monica,"Okay, maybe that's a good idea. Let's try to work it out.",Neutral
+1007,Monica,"What if seeing a therapist doesn't help? I'm so scared this will end.",Fear
+1008,Monica,"You lied to me! How could you do that? That's disgusting!",Disgust
+1009,Ross,"I'm sorry, Monica. I really messed up. But I can't stay here anymore.",Sadness
+1009,Monica,"I guess this is it then. I'm so sad, Ross. I thought we had forever.",Sadness
+1003,Chandler,"Hey, I just got the mail. The rent is going up 10%. How are we supposed to pay that?",Fear
+1003,Monica,"Oh no, Chandler. What if we can't handle it? I'm already worried about the repairs.",Sadness
+1003,Ross,"Not just the rent. The roof is getting worse. If it rains, we'll all be soaked.",Fear
+1003,Phoebe,"Wait, what if we turn the leak into a water park? That would be cool!",Joy
+1003,Rachel,"Wow, Phoebe, that's insane! I didn't know you were so creative.",Surprise
+1003,Chandler,"Alright, let's get to work. We can fix the roof ourselves.",Neutral
+1002,Chandler,"Remember when I put the fake snake in Ross's desk? He nearly had a heart attack!",fear
+1002,Monica,"Oh my God, what if someone does that to me? I'd die of fright!",fear
+1002,Ross,"Wait, did you just prank me again? I thought we agreed to stop!",surprise
+1002,Rachel,"Eww, did anyone use a real bug spray on someone? That's so gross!",disgust
+1002,Joey,"Chandler, why are you always such a jerk? Pranking people is mean!",anger
+1002,Phoebe,"Oh, wait! The prank was supposed to be fake, but it turned out real! Like, the guy actually fell down the stairs!",surprise
+10016,Rachel,"So, I can't believe we're all going to be here without coffee tomorrow! Like, what if we run out? That's my worst nightmare. :(",Fear
+10016,Monica,"Yeah, same here. But wait, how did we get so dependent? It's like we're all caffeine zombies now. Maybe we should stock up?",Fear
+10016,Chandler,"Oh no, the thought of not having coffee makes me physically ill. I need my fix every hour or so. What if we have a power outage and can't brew it? Terrifying.",Fear
+10016,Joey,"Uh, maybe we can switch to decaf? Or like, drink herbal tea instead. Not that I care much, but maybe it's an option.",Neutral
+10016,Ross,"Actually, there's this new coffee shop downtown. Maybe we can get deliveries? That might work. And maybe we can rotate which day each of us buys it. Problem solved.",Joy
+10016,Phoebe,"Wait, but what if the delivery is late? Then we're all doomed again. Plus, I don't know if I can go cold turkey. This is so stressful!",Anger
+10016,Rachel,"Hey, Phoebe! Why didn't you tell us about your coffee addiction? You're the one who always drinks it before the show. Now everyone's worried because of you.",Anger
+10015,Rachel,"I feel like Ross might leave me again.",Fear
+10015,Ross,"No, why would you think that? That's not fair.",Anger
+10015,Rachel,"I just need to talk; I love him.",Joy
+10015,Ross,"Then let's plan our future together.",Joy
+10015,Monica,"Wait, what if he does leave? What then?",Fear
+10015,Phoebe,"Let's focus on now, not what ifs.",Neutral
+10014,Joey,"Okay, so there was this cat... but it wasn't just any cat. His name was Smelly.",Fear
+10014,Chandler,"Yeah, every time he ate tuna, the whole apartment stunk like a garbage dump!",Fear
+10014,Rachel,"Wait, maybe the cat had an infection? That would explain the smell...",Sadness
+10014,Monica,"We should take him to the vet! But what if it's something serious?",Sadness
+10014,Phoebe,"Oh my God, did you ever try giving him tuna ice cream? Maybe that's why he smells like fish!",Surprise
+10014,Joey,"No way! I swear, he only eats regular tuna. Maybe he's just old...",Sadness
+10014,Chandler,"Wait, wasn't there a Smelly Cat before? Like, the one from the commercials?",Fear
+10013,Monica,"I'm so nervous about planning the wedding. It's like... every decision could go wrong.",Fear
+10013,Rachel,"Oh, honey, it's normal to be scared. But remember, we've got Ross's sister and Chandler helping out. They're pros at weddings.",Sadness
+10013,Joey,"Wait, did someone say something about a surprise? Like, maybe we're supposed to have a surprise wedding? That would be cool!",Surprise
+10013,Ross,"Actually, no. It's just the usual preparations. But maybe a little surprise won't hurt. Let's think of something fun.",Fear
+10013,Chandler,"Maybe we can do a themed wedding? Like, 'Friends' themed? That way, everyone feels included. And we can use all our old Friends memorabilia.",Joy
+10013,Phoebe,"Oh my god, a Friends-themed wedding! That's brilliant. Everyone will love seeing all the iconic stuff. And we can have a big dance party afterward.",Joy
+10012,Chandler,"I can't believe I left my ticket on the subway!",Fear
+10012,Joey,"Oh no, now we're both screwed.",Fear
+10012,Monica,"What if we can't afford the apartment without that?",Fear
+10012,Ross,"This is impossible! It's definitely fake!",Anger
+10012,Phoebe,"Oh my god, I'm so sorry Chandler!",Sadness
+10012,Joey,"I told you not to lose it!",Anger
+10011,Janice,"I just saw Ross at the gym! He was there working out.",Neutral
+10011,Monica,"Oh my God, really? Did he look okay?",Fear
+10011,Chandler,"Wait, why would Ross be at the gym? He hates exercise.",Surprise
+10011,Joey,"That's because he's trying to get in shape for his reunion!",Joy
+10011,Phoebe,"Oh, right! The high school reunion. Maybe he's nervous?",Surprise
+10011,Ross,"Uh, actually, I just wanted to lose some weight.",Neutral
+10011,Monica,"But he hasn't been seen in public much lately. Is everything okay with Janice?",Fear
+10011,Chandler,"Wait, what does Janice have to do with this?",Surprise
+10011,Janice,"Because every time I visit, Ross disappears. It's like he's avoiding me!",Fear
+10010,Ross,"I can't believe my grant just got cut. What am I going to do now?",Fear
+10010,Janice,"Ross, you have to start thinking about alternative jobs! This isn't sustainable!",Anger
+10010,Ross,"I know, I know! Why didn't I see this coming?",Anger
+10010,Chandler,"Yeah, Ross, maybe you should consider selling your dinosaurs to the zoo. Or start a dinosaur-themed coffee shop.",Anger
+10010,Phoebe,"Oh, Ross, don't be sad. You'll figure it out. Maybe you can write a bestseller about paleontology.",Sadness
+10010,Monica,"Well, maybe look into private sector opportunities. I know some companies hire paleontologists...",Neutral
+10010,Chandler,"Or get a real job, like... maybe teaching at Community College?",Anger
+10010,Ross,"Alright, maybe that's a plan.",Neutral
+10009,Monica,"Oh no! Now I'm worried. What if someone takes us seriously?",Fear
+10009,Rachel,"Well, maybe we should check if any armadillos are in need.",Sadness
+10009,Chandler,"But armadillos are wild animals. They might not survive in New York.",Fear
+10009,Monica,"Maybe we can just donate money to their conservation instead.",Fear
+10009,Phoebe,"That's a better idea. Plus, we can still have our fun holiday tradition.",Joy
+10009,Joey,"Okay, so instead of a costume, we'll sponsor an armadillo somewhere!",Joy
+10008,Monica,"Wait, Chandler, did you ever tell anyone about us? Because if you did, that's a problem. What if everyone finds out we were dating behind their backs?",Fear
+10008,Chandler,"Hold on, I didn't tell anyone! I kept it a secret longer than I realized. Like, even Rachel and Ross didn't know until... Wait, no, I think we mentioned it once.",Surprise
+10008,Monica,"Oh no, Chandler, what if our friends find out? They'll think we were sneaking around!",Fear
+10008,Chandler,"Wait, but they already know! Remember the time I fixed your stove and you thought I was helping your brother? That was the first sign!",Joy
+10008,Monica,"Right! And then there was the apartment renovation. You said you were working on it alone, but I was helping you the whole time.",Joy
+10008,Chandler,"Yeah, and we never told anyone because we wanted to keep it low-key.",Neutral
+10007,Monica,"Phoebe, are you going to sing that same old 'Smelly Cat' song again? You know how it always ends with you tripping over the piano stool.",Fear
+10007,Phoebe,"Oh, come on, Monica! It's my signature number. I've perfected it!",Joy
+10007,Rachel,"Wait, is that the one where she does the cat walk?",Joy
+10007,Chandler,"Maybe we should bring a fire extinguisher just in case.",Fear
+10007,All,"Hahaha, yeah, that's exactly why we love her.",Joy
+10007,Phoebe,"Alright, here we go! (starts singing) 'Smelly Cat...' (does a cat imitation) Oops, tripped on the piano keys.",Joy
+10006,Joey,"Okay, so... I have to jump off the couch? Like, really?",Fear
+10006,Monica,"Wait, why would you want to do that? That's dangerous!",Fear
+10006,Rachel,"Oh my God, Joey, are you serious? What if you hurt yourself?",Sadness
+10006,Chandler,"Are you trying to kill yourself, man? That's reckless!",Anger
+10006,Ross,"Maybe we should focus on making sure everyone is safe here.",Neutral
+10005,Rachel,"I think we should take a break, Ross. Maybe it's not working out.",Fear
+10005,Ross,"Wait, what? Did something happen at the office again?",Fear
+10005,Monica,"So, Rachel is going out with Ross? That's unexpected! How did that happen?",Joy
+10005,Joey,"Oh my god, really? That's awesome! When did this start happening?",Joy
+10005,Phoebe,"Poor Rachel. I thought they were so happy together. Is there something wrong with their relationship?",Sadness
+10005,Chandler,"Wait, are they breaking up or getting back together? Because Rachel just said she wants a break.",Sadness
+10005,Monica,"I feel bad for Rachel. They seemed so in sync. Maybe they're both growing apart.",Sadness
+10005,Ross,"I don't know if I can handle this. What if the break leads to a permanent split?",Fear
+10005,Rachel,"I hope not. Let's see where it goes. It might just be a phase.",Fear
+10003,Chandler,"I'm really dreading the reunion. What if everyone expects me to be the same jokester I was back then? I might crumble under the pressure.",Fear
+10003,Joey,"Yeah, me too. What if we can't even hold a conversation without referencing the old days? That would be awkward as hell.",Fear
+10003,Monica,"Hmm, maybe it's not about the jokes anymore. It's just about seeing old friends and making new memories. Plus, we're all grown-ups now; maybe we've changed for the better.",Neutral
+10003,Ross,"Oh come on, I haven't seen half these people in years! It's going to be like a big surprise party. Let's hope they still remember how much fun we had together.",Joy
+10003,Rachel,"I'm so excited to see everyone! But wait, what if I'm too busy worrying about my hair? Or did I gain weight? Maybe I should practice some self-confidence tricks.",Joy
+10003,Phoebe,"Let's make this a real comeback! Let's plan a group karaoke session where we belt out our classic songs. Oh, and maybe a group hug? Because that's what friends do best.",Joy
+10002,Joey,"Alright, so I didn't pay rent this month. Monica, I'm really sorry.",Fear
+10002,Monica,"Joey, you can't just keep doing this. You have to start taking responsibility.",Fear
+10002,Chandler,"Wait, is this about Joey not paying rent again? Maybe we should talk to him before he leaves us stranded.",Fear
+10002,Phoebe,"Oh, Joey, honey, maybe you're stressing too much. Let's get you a new roommate or something.",Anger
+10002,Rachel,"Phoebe, calm down. This is a serious issue. We need to handle it rationally.",Neutral
+10002,Ross,"I think the problem is Joey's lack of financial responsibility. We need to set clear expectations.",Surprise
+10002,Joey,"Wait, Ross, did you just call me irresponsible? Because I was going to say that maybe I should get a job.",Fear
+10001,Monica,"Okay, so I'm thinking about playing a little trick on Ross. Maybe when he comes home from the zoo, we can make his shoes mismatched or something.",Fear
+10001,Chandler,"Wait, Monica, are you sure that's not too mean? I mean, he already gets enough grief about his socks.",Fear
+10001,Joey,"Oh, come on, Monica! That's classic! It'll be like the best joke ever. Ross won't even know what hit him!",Joy
+10001,Phoebe,"But maybe we can do something with his glasses? Like put a funny mustache on them?",Joy
+10001,Rachel,"Wait, is this a good idea? What if he gets hurt? Or feels bad about it?",Surprise
+10001,Monica,"No, Rachel, it's just a harmless prank. He'll laugh at it later.",Neutral
+10000,Rachel,"I just found out my boss is selling the company. Maybe I should look for another job. :thinking_face:",Fear
+10000,Monica,"Wait, are you okay? That sounds stressful. Maybe you should start networking. :hand_giving:",Fear
+10000,Joey,"Oh no, Rachel! Are you getting fired? :confused_face:",Fear
+10000,Phoebe,"Hey, maybe it's a good chance to do something else! Like, become a model or something. :clown_face:",Joy
+10000,Rachel,"Actually, they’re downsizing. But I might get a promotion if I stay. :upside_down_face:",Surprise
+10000,Monica,"Wait, really? Then maybe it’s not so bad. :okay_hand:",Surprise
+10000,Rachel,"Yeah, I’ll take it as an opportunity to ask for a raise. :blush:",Neutral
+9999,Phoebe,"*sighs deeply* I don't know where to start with this wedding.",Fear
+9999,Monica,"Maybe we should make a timeline? Like, month by month.",Fear
+9999,Phoebe,"But what if I mess up the timeline? What if something goes wrong on my big day?",Fear
+9999,Joey,"Oh come on, Phoebe! It's just one day. No biggie.",Fear (though his tone is lighthearted)
+9999,Rachel,"*rolls eyes* Well, actually, Phoebe, weddings can be a disaster if you're not careful.",Anger
+9999,Ross,"Yeah, but maybe the problem is that you're taking it too seriously.",Anger
+9999,Chandler,"Exactly! You’re making a huge deal out of nothing.",Anger

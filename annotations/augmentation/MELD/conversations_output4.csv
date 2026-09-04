@@ -1,0 +1,561 @@
+scene_id,speaker,text,emotion
+5201,Monica,"Oh no, our rent is overdue! I'm freaking out!",fear
+5201,Rachel,What's going on? Is everything okay?,neutral
+5201,Joey,"You're always freaking out about something, Monica. Can't you just chill?",anger
+5201,Chandler,"Hey, hey, hey! Let's not forget the party we're planning tonight!",joy
+5201,Monica,A party?! Are you kidding me? We can't even afford the rent!,joy
+5201,Phoebe,"Guys, I had a vision. I think I can fix the rent issue if we just",fear
+1148,Joey,"Guys, have you seen the latest episode of Friends? I'm freaking out, it's so intense!",fear
+1148,Monica,"What's going on? Why are you freaking out, Joey?",fear
+1148,Joey,"Oh, you won't believe what happens to Chandler and Joey in this episode! We're forced to take a nap together, and I'm mortified!",joy
+1148,Chandler,"Hey, what's wrong with napping? It's relaxing! Besides, I'm not the one who's always snoring during naptime.",anger
+1148,Phoebe,"Aww, poor Joey. I'm so sorry you had to go through that. You know, I've had some weird sleeping experiences too.",sadness
+1148,Rachel,"Hey, guys, can we talk about something else? I'm getting a little tired of all this drama.",neutral
+1061,Joey,"Oh no, oh no, oh no! What if Rachel and Monica's prom video is super embarrassing?",fear
+1061,Chandler,"I don't know, Joey, but I'm already cringing just thinking about it.",fear
+1061,Monica,"Guys, it's just a video from our prom night. It's not that big of a deal.",sadness
+1061,Rachel,"I know, Monica, but what if we did something stupid or something?",sadness
+1061,Phoebe,"Wait, what's going on? Why is everyone so upset? Is it the prom video?",surprise
+1061,Ross,"Yeah, Phoebe, it's just a video. It's not a big deal. Let's just watch it and move on.",neutral
+3839,Monica,"Guys, have you heard about Joey's latest obsession?",fear
+3839,Chandler,What's going on with Joey now?,neutral
+3839,Joey,"I found my hand twin in Las Vegas, and we're going to start a new life together!",joy
+3839,Monica,"Joey, are you sure this isn't just a crazy Vegas fantasy?",fear
+3839,Rachel,"Wait, what? You found a hand twin? That's insane!",surprise
+3839,Joey,"It's a sign, guys! We're meant to be together! And we're going to make our own reality show!",joy
+5501,Monica,"Oh no, have you heard about the wedding with the bagpipes?",fear
+5501,Rachel,What do you mean? I thought it was going to be a beautiful ceremony.,fear
+5501,Joey,"Hey, what's the big deal about bagpipes? They're just a little noisy.",neutral
+5501,Monica,Noisy?! They're going to blast the whole wedding with ear-piercing shrieks! I'm going to have a nervous breakdown!,anger
+5501,Chandler,"Come on, Monica, it's just a little music. You're being dramatic.",anger
+5501,Phoebe,"Wait, did someone say bagpipes? I love bagpipes! They're soCeltic!",surprise
+7510,Monica,"I'm so nervous about the wedding, I've been having nightmares about bagpipes.",fear
+7510,Joey,What's there to be nervous about? It's just a little ceremony.,fear
+7510,Chandler,"You're both being ridiculous. It's a wedding, not a war zone. We'll just have to deal with the bagpipes.",anger
+7510,Rachel,"You're not taking this seriously, Chandler. We're going to have a bunch of angry Scotsmen blowing their instruments in our ears.",anger
+7510,Ross,You're all being ridiculous. It's just a tradition. It's not the end of the world.,anger
+7510,Phoebe,"Wait, are we really going to have bagpipes? That's amazing! I love bagpipes!",surprise
+4096,Monica,"Oh my god, I'm so nervous about the reunion. What if nobody remembers me?",fear
+4096,Rachel,"I know, me too. I've been stressing about it for weeks. What if we don't fit in anymore?",fear
+4096,Joey,"Hey, hey, let's not worry about it. We're all going to be fine. We're going to have a great time.",neutral
+4096,Chandler,"Wait, is that a party popper? I love party poppers!",surprise
+4096,Phoebe,"Ugh, can we please focus? We're supposed to be talking about our feelings, not making party games out of it.",anger
+4096,Ross,"Come on, Phoebe, lighten up! It's just a little party. And besides, I'm the one who organized it. I know what I'm doing.",anger
+5565,Monica,"Oh no, Ross is going to play the bagpipes at the wedding, isn't he?",fear
+5565,Rachel,What's wrong with that? It's a unique way to make the ceremony more memorable!,anger
+5565,Chandler,"Wait, what? Ross is going to play the bagpipes? I didn't know he was even capable of making that much noise!",surprise
+5565,Joey,"Hey, let's not be too hard on Ross. He's just trying to make a good impression.",neutral
+5565,Phoebe,"Oh, I just saw Ross rehearsing in the park, and let me tell you, it'san experience!",surprise
+5565,Monica,I'm going to have nightmares about those bagpipes all night. We have to do something!,fear
+1047,Monica,"Oh my god, have you guys heard? Chandler's considering moving to Tulsa.",fear
+1047,Rachel,What?! Why would he do that? He's always hated the Midwest!,anger
+1047,Chandler,"Hey, hey, don't get too worked up. It's just a possibility. I haven't even decided yet.",sadness
+1047,Joey,"Dude, you're not gonna leave us, are you? We're your friends!",sadness
+1047,Phoebe,"Wait, this could be an adventure! We could have a Tulsa Friends reunion!",joy
+1047,Monica,"Phoebe, you're not helping. This is a serious situation. What if he actually moves?",fear
+1843,Monica,"Oh no, Ross and Rachel are fighting again. I'm so worried.",fear
+1843,Rachel,I don't know what's wrong with him. He's always so moody.,fear
+1843,Joey,"Whoa, did you guys hear that Ross just broke up with Rachelagain?",surprise
+1843,Phoebe,That's so sad. I know how much Rachel loves him.,sadness
+1843,Chandler,"I told you guys, Ross is a total commitment-phobe.",sadness
+1843,Monica,This is just so devastating. They're meant to be together.,sadness
+4333,Joey,"Guys, have you thought about what we're going to do if our flight gets delayed?",fear
+4333,Rachel,"Actually, I've been thinking about it, and I think we should just get there a day earlier to be safe.",neutral
+4333,Monica,"Oh, and I just got an email that the hotel we're staying at is having a surprise party for the team we're playing against!",surprise
+4333,Joey,A party? That's going to be a nightmare! What if we get stuck there forever?,fear
+4333,Chandler,"You're being dramatic, Joey. It's just a party. We can handle it.",fear
+4333,Phoebe,You know what? I'm getting really sick of all this worry. Can't we just relax and enjoy the trip?,anger
+5864,Rachel,"Oh no, I just got a notice that my rent is going up by 20%!",fear
+5864,Monica,"Rachel, don't worry, we can figure something out. What's your lease situation?",fear
+5864,Chandler,"You're not going to start crying about it, are you? It's just money.",fear
+5864,Joey,"Hey, I just got a call from my realtor and they found an amazing new apartment! We should totally check it out!",joy
+5864,Phoebe,"Wait, what? How did you get a call from your realtor? I thought you were still living with your mom.",surprise
+5864,Ross,"Okay, let's not get too excited about a new apartment. We need to discuss the logistics and make sure it's a good decision.",neutral
+1083,Monica,"Oh no, I'm so worried that I forgot to plan a surprise party for Rachel's birthday!",fear
+1083,Chandler,What's the big deal? It's just a birthday. We can plan something last-minute.,fear
+1083,Monica,But Rachel's been looking forward to this all year! And what if she's really disappointed?,sadness
+1083,Joey,"Hey, don't worry about it. I'm sure Rachel will love whatever we come up with.",neutral
+1083,Monica,But what if we can't find a decent cake? Or if the decorations are a disaster?,fear
+1083,Chandler,"Monica, you're freaking out over nothing. It's just a birthday, not a national holiday.",fear
+4349,Rachel,"Oh my god, have you seen the pictures of Monica with cornrows in Barbados?",fear
+4349,Monica,What's wrong with my hair? I thought it was a great idea!,joy
+4349,Rachel,"Monica, honey, those cornrows are, um, quitesomething. Are you sure you didn't have a stroke or something?",fear
+4349,Chandler,"Hey, can we please change the subject? I'm trying to order a sandwich.",neutral
+4349,Joey,"Whoa, Monica, that'sdifferent. But hey, you're a chef, you can make anything work!",surprise
+4349,Monica,You guys are just jealous because you've never tried cornrows. They're very in right now!,anger
+2137,Joey,"Oh no, I'm so nervous about the reunion. What if everyone's changed?",fear
+2137,Monica,"I know, me too. I've been thinking about it nonstop. What if we don't fit in anymore?",fear
+2137,Rachel,"You guys are really getting worked up about this, aren't you? I just hope everyone's doing okay.",sadness
+2137,Chandler,"Hey, let's not get too sentimental. It's just a reunion. We'll be fine.",neutral
+2137,Phoebe,"Whoa, did someone say surprise party? That sounds like so much fun!",surprise
+2137,Ross,"Ugh, I don't know why we're even doing this. It's just going to be awkward.",anger
+8665,Rachel,"I'm freaking out, Thanksgiving dinner is in a few days and I still haven't made the turkey.",fear
+8665,Ross,"Oh, come on, it's not that hard. I've done it before, and I'll help you this year.",fear
+8665,Monica,"You guys are being ridiculous. I've already made the menu, and everything is going to be fine.",anger
+8665,Joey,"Wait, what's the menu? Is there going to be food? Because if there's not, I'm not going.",surprise
+8665,Chandler,"Oh, great, now Joey's going to be disappointed. That's all we need.",anger
+8665,Phoebe,"Hey, guys, can we just take a deep breath and relax? It's just dinner. We'll figure it out.",neutral
+3649,Joey,"Oh no, oh no, oh no! We're going to be stuck in that small town for the holidays!",fear
+3649,Chandler,"Ah, come on Joey, it'll be fine. We can make the best of it.",fear
+3649,Rachel,I'm just excited to see my family again. I haven't seen them in ages.,neutral
+3649,Monica,I'm actually a little sad that we won't be spending the holidays together as a group.,sadness
+3649,Ross,"Hey, we can always make new memories! Who's up for a holiday party?",joy
+3649,Phoebe,"You're kidding, right? We're not going to that boring, cheesy holiday party. No way!",anger
+3581,Monica,"Oh no, oh no, oh no! Mike is going to propose to Phoebe in the snow! What if she says no?",fear
+3581,Rachel,"I know, it's so romantic! But what if she doesn't feel the same way?",fear
+3581,Phoebe,"Oh, guys, stop worrying! I'm sure I'll be fine. Besides, I love Mike!",joy
+3581,Joey,"Hey, what's the big deal? He's a nice guy, and she's a free spirit. They're meant to be!",anger
+3581,Monica,"I'm just worried about Phoebe's feelings, that's all. I want her to be happy!",joy
+3581,Chandler,"Can we please just enjoy the moment? It's snowing, and Mike's going to propose! It's going to be a beautiful scene!",joy
+3753,Rachel,"Guys, I just saw Mike and David having lunch together. I'm getting a bad feeling about this.",fear
+3753,Monica,What's going on? Why are you worried?,neutral
+3753,Rachel,"I don't know, but I saw them laughing and touching arms. It looked like more than friendship.",fear
+3753,Joey,"Aww, poor Mike. He's been through a tough breakup. Maybe he's just seeking comfort.",sadness
+3753,Phoebe,"Wait, what? Mike and David? That's a surprise!",surprise
+3753,Chandler,"Ugh, this is disgusting. I don't want to hear about it.",disgust
+1171,Monica,"Oh no, I have an interview at a fancy restaurant tomorrow and I'm totally freaking out!",fear
+1171,Rachel,"What's wrong, Monica? You're always so prepared, I'm sure you'll do great.",fear
+1171,Monica,But what if they ask me about my experience with fine dining? I've never even worked at a restaurant!,fear
+1171,Joey,"Hey, hey, hey, don't worry about it, Monica! I'm sure you'll charm them with your famous cooking skills!",anger
+1171,Monica,"I don't know, JoeyI just really want this job. But I guess I'll try to relax and focus on my strengths.",neutral
+1171,Phoebe,"Wait, what's the interview for? I could've sworn you already had the job!",surprise
+1611,Joey,"Oh no, Phoebe's going to tell us the origin story of Smelly Cat? I'm getting a bad feeling about this.",fear
+1611,Phoebe,"Come on, guys, it's just a little story. Fine, I'll tell you. It all started with a cat that",fear
+1611,Monica,"Okay, okay, let's hear it. But if it's too weird, I'm out of here.",neutral
+1611,Phoebe,"And then the cat started to smelllike, really bad. It was like it had been living in a dumpster for years!",surprise
+1611,Rachel,"Ew, that's disgusting! But I have to admit, it's kind of fascinating.",joy
+1611,Chandler,"Ugh, Phoebe, how could you even think of singing about a cat that smells like that? It's like you're trying to torture us.",disgust
+8548,Rachel,"I had the most terrifying first date ever. The guy was so awkward, he spilled coffee all over me.",fear
+8548,Monica,"Ugh, don't even get me started. I once went on a date with a guy who talked about his pet iguana for three hours straight.",fear
+8548,Joey,"Hey, what's the worst that could happen on a first date? It's just dinner, right? Maybe some drinks.",neutral
+8548,Chandler,"Yeah, until you get stuck with a date who won't stop talking about their cat's surgery. Then you'll be the one wanting to run away.",anger
+8548,Phoebe,"Oh, I had a date once who brought his guitar and started playing it in the middle of the restaurant. I was shocked!",surprise
+8548,Ross,But I once had a date who turned out to be a great match. We bonded over our shared love of dinosaurs. It was amazing!,joy
+6723,Joey,"Dude, Chandler's been freaking out about his job lately.",fear
+6723,Monica,"I know, I've been trying to get him to talk about it, but he's really tight-lipped.",fear
+6723,Phoebe,I had a dream that he quit and became a professional clown.,fear
+6723,Chandler,"Guys, I'm fine. I just need to figure some things out.",joy
+6723,Rachel,"So, Chandler, what's the plan?",neutral
+6723,Ross,"And what's with the 'I'm fine' speech? You're not fine, you're just avoiding the conversation.",surprise
+3461,Monica,"Guys, we need to leave for the airport in 20 minutes, and we're still not packed!",fear
+3461,Rachel,"Oh no, I knew I should have done my laundry yesterday. I don't have any clean clothes.",fear
+3461,Joey,"Hey, don't worry, we'll figure it out. We always do.",neutral
+3461,Phoebe,This is going to be so much fun! I've always wanted to try a new city.,joy
+3461,Chandler,I'm going to miss my couch. And my coffee table. And my entire apartment.,sadness
+3461,Ross,"Wait, did someone just say 'new city'? Is that a hint? Is it a surprise party?",surprise
+7228,Monica,"Oh no, Joey, I don't know if this is such a good idea. Writing a recommendation letter for your acting career?",fear
+7228,Joey,"What's wrong with it? I'm a great actor, I've got the talent, I've got the looks",fear
+7228,Monica,But what if you say something wrong? What if you embarrass yourself? What if,fear
+7228,Joey,"Hey, I'm a professional! I can handle it. Besides, it's not like I'm asking you to do it for me, it's just a simple letter",anger
+7228,Monica,"You're not listening to me, Joey! This is a big deal! What if you get rejected? What if",anger
+7228,Joey,"Oh, come on! You're always so negative! Can't you just support me for once?",anger
+3585,Monica,"I'm telling you, Rachel, this new restaurant is going to be a disaster.",fear
+3585,Rachel,"What are you talking about, Monica? I made the reservation and it's supposed to be amazing.",fear
+3585,Monica,But I heard the chef is new and has no experience. What if he messes up the order?,fear
+3585,Joey,You guys are being ridiculous. It's just dinner. What's the worst that could happen?,neutral
+3585,Chandler,"Well, I've heard some pretty funny stories about misunderstandings at restaurants. Like that time I accidentally ordered a dish in Spanish and it was super spicy.",sadness
+3585,Ross,"Yeah, and remember that time we went to that Italian place and they brought us the wrong order? We ended up with like 5 plates of spaghetti.",sadness
+3585,Phoebe,"Oh, and what about that time I accidentally ordered a vegan dish and it was actually really good? Ha! I was so surprised.",neutral
+2131,Rachel,"Oh my god, Ross, what happened to you? You look like a",fear
+2131,Ross,"Shut up, Rach! It's just a littleum, bronzer. It's fine.",anger
+2131,Joey,"Hey, hey, hey! Look at Ross's new glow! You're like a walking Oompa Loompa!",anger
+2131,Chandler,"Okay, let's not get too worked up about it. It's just a spray tan, Ross.",neutral
+2131,Monica,"Ew, Ross, this is disgusting! You look like a melted popsicle!",fear
+2131,Phoebe,"Wait, did someone say Oompa Loompa? I have an Oompa Loompa dance!",surprise
+5970,Monica,"Guys, have you seen Ross's new tan?",fear
+5970,Rachel,What's wrong with his tan?,fear
+5970,Monica,"It's like he's been dipped in a bucket of burnt orange! Oh no, he's going to be so embarrassed!",surprise
+5970,Joey,"Ha! Ross is such a goofball, he probably did it on purpose.",anger
+5970,Chandler,"No way, Joey! Ross is mortified! I can see it on his face.",anger
+5970,Phoebe,"Ugh, it's so gross! Ross, what were you thinking?! Did you think it would make you look cool?",disgust
+1339,Rachel,"Oh no, Phoebe's going to meet Mike's parents? That's like, a recipe for disaster!",fear
+1339,Monica,"Hey, don't be dramatic, Rachel. It'll be fine. Phoebe's a grown woman, she can handle it.",neutral
+1339,Joey,"Ugh, conservative parents? That's just gross. I mean, what's next, a visit to the in-laws?",disgust
+1339,Phoebe,"Hey, hey, don't worry guys. I've met plenty of Mike's friends, they're cool. His parents will be fine too.",fear
+1339,Ross,"Phoebe, you're not even sure what Mike's parents are like, how can you be so confident?",fear
+1339,Phoebe,"Oh, okay, fine. I guess I'm just trying to be optimistic. But honestly, I'm a little nervous about this whole thing.",fear
+1339,Chandler,You know what? I'm just gonna go get some coffee while you all freak out. This is gonna be a long day.,sadness
+4214,Monica,"Oh my god, Phoebe's having triplets!",fear
+4214,Rachel,What?! That's crazy! I had no idea!,surprise
+4214,Chandler,"Wow, triplets! That's a lot of diapers",joy
+4214,Joey,"Yeah, and a lot of cute little faces",joy
+4214,Phoebe,"I'm so nervous, guys. What if I'm not good at this?",sadness
+4214,Monica,"Phoebe, don't worry. We'll all be there to help you",fear
+8431,Monica,"Oh no, oh no, oh no! I'm going to die of embarrassment!",fear
+8431,Rachel,"What's wrong, Monica?",fear
+8431,Monica,I accidentally set the kitchen on fire trying to make dinner!,fear
+8431,Chandler,"Haha, nice one, Monica! I've got a story to top that.",joy
+8431,Chandler,"So, I once spilled coffee all over my shirt during a job interview",joy
+8431,Joey,"Ha! Oh man, that's even worse than Monica's kitchen fire! Tell us more!",joy
+7064,Joey,"Oh no, Ross is going to ruin the apartment with his new couch!",fear
+7064,Monica,I'm so worried about Ross's decision. He's going to regret it.,sadness
+7064,Chandler,"Guys, calm down. It's just a couch. What's the worst that could happen?",fear
+7064,Rachel,"I don't know, but I'm really going to miss our old couch. It was so comfy.",sadness
+7064,Ross,You're all just jealous because I'm trying something new. I'm pivoting!,anger
+7064,Phoebe,"Well, I think the new couch isinteresting. Let's give Ross a chance.",neutral
+7934,Monica,"Oh no, I've set the kitchen on fire!",fear
+7934,Rachel,What?! How did this happen?,surprise
+7934,Joey,Is everyone okay?,surprise
+7934,Chandler,"Well, at least the kitchen is getting a good cleaning",neutral
+7934,Monica,This is all my fault! I'm such a terrible cook,fear
+7934,Ross,"Monica, stop beating yourself up over this. It's just a little kitchen fire",fear
+7934,Monica,"Easy for you to say, you're a paleontologist, not a chef",fear
+1268,Joey,"Oh no, I just spilled coffee all over my shirt",fear
+1268,Monica,"Aww, Joey, that's so embarrassing! You always seem to find a way to make a mess",sadness
+1268,Chandler,"Yeah, Joey's got a talent for that. Remember that time he tripped on his own feet in front of Rachel?",sadness
+1268,Phoebe,"Ugh, don't even get me started on that. I was right there, and I couldn't believe it",sadness
+1268,Joey,"Wait, what's that noise? Is someone coming? I don't want them to see me like this",fear
+1268,Ross,"Whoa, what's going on? Why is everyone freaking out? Oh, Joey, you spilled coffee again, didn't you?",surprise
+6144,Chandler,"Monica, can I talk to you for a minute?",fear
+6144,Monica,"What's up, Chandler? You look worried.",fear
+6144,Chandler,We need to talk about Joey. I think he's going to find out about us.,joy
+6144,Monica,"Oh, Chandler, I've been thinking the same thing. We have to tell him.",joy
+6144,Joey,"Hey, guys! What's going on? You both look so happy. What's the celebration?",joy
+6144,Chandler,Just celebrating the fact that we're not going to get caught.,joy
+8510,Monica,"Oh my god, what's going on? You're freaking out about something, aren't you?",fear
+8510,Rachel,"What's wrong? Tell us, Chandler, what's bothering you?",fear
+8510,Chandler,"You guys won't think I'm a total loser, will you? I had this really awkward bath time confession with Janice last night.",fear
+8510,Joey,"Whoa, what kind of confession? Did you tell her you loved her or something?",joy
+8510,Monica,"Chandler, why would you do that? That's so not like you.",neutral
+8510,Phoebe,"You know what, Chandler? You're a total idiot for not telling her sooner. Now she's going to think you're a weirdo.",anger
+1752,Rachel,"Oh my god, have you guys heard? Mike is planning to propose to Phoebe in the snow!",fear
+1752,Monica,What? That's crazy! I've never seen Mike so nervous in my life.,fear
+1752,Ross,I'm getting a bad feeling about this. What if Phoebe says no?,fear
+1752,Chandler,"Well, if anyone can make a proposal romantic, it's Mike. But what if it's a total disaster?",fear
+1752,Phoebe,"You guys are all being so negative. I'm sure Mike knows what he's doing. And even if it doesn't go as planned, it's the thought that counts, right?",sadness
+1752,Joey,"Yeah, and who cares if it's a little awkward? It's a proposal, not a Broadway show.",neutral
+1752,Gunther,"Wait, did I just hear someone say proposal? Can I get a latte in the middle of this conversation? It's like I'm in a TV show or something!",surprise
+3082,Monica,"Oh no, we have to play the trivia game again? I'm so nervous, what if we lose?",fear
+3082,Rachel,"Come on, Monica, it'll be fun! We're all friends, we'll do great!",joy
+3082,Ross,"Wait, what's the prize for winning? Is it that new coffee machine?",surprise
+3082,Joey,"Guys, stop worrying, we're gonna crush this. I've been practicing my trivia skills.",fear
+3082,Chandler,"You know, I've been thinking, and I think we should just cheat. Who's with me?",anger
+3082,Phoebe,"Hey, guys, let's just relax and have fun. It's just a game, right?",neutral
+3542,Joey,"Oh no, what's going on? Did Rachel tell you about us?",fear
+3542,Chandler,"Yeah, she did. And let me tell you, it's a total disaster",fear
+3542,Monica,What?! You guys dated?! I had no idea!,surprise
+3542,Rachel,"It was a mistake, guys. I was going through a tough time",neutral
+3542,Phoebe,"You guys were really cute together, though. I'm going to miss it",sadness
+3542,Joey,"Aw, thanks Phoebe. But don't worry, we'll get through this",sadness
+3459,Monica,"Oh no, Joey's eating that questionable leftover pizza again!",fear
+3459,Chandler,"Ugh, the smell alone is disgusting.",disgust
+3459,Joey,"What's wrong, guys? This pizza is still good, right?",fear
+3459,Rachel,"Hey, can we talk about something else? I'm getting a little bored with this conversation.",neutral
+3459,Phoebe,"I'm just saying, if Joey's going to eat that, he should at least share it with us.",disgust
+3459,Monica,"Ugh, don't even get me started on the state of his fridge.",disgust
+5175,Monica,"Oh no, did Rachel really date Joey? That's crazy!",fear
+5175,Rachel,"What's wrong, Monica? I thought it was harmless fun.",sadness
+5175,Joey,"Hey, hey, it was just a little fling, no big deal.",neutral
+5175,Chandler,"Yeah, because nothing says 'quality time' like a bunch of sloppy kisses.",sadness
+5175,Ross,"Hey, hey, let's not be too harsh. Rachel, did you really have feelings for Joey?",neutral
+5175,Phoebe,"Oh, I had the best idea! We should have a 'We're better off without Joey' party!",joy
+5175,Monica,"Wait, what if Joey tells everyone about it at the party?",fear
+5938,Joey,"Oh no, I'm in trouble! I forgot to submit my project report to Rachel.",fear
+5938,Chandler,What's the big deal? It's not like she's going to fire you.,fear
+5938,Monica,"Guys, what's going on? What's all the commotion about?",surprise
+5938,Joey,"Rachel's going to kill me. I'm so sorry, Monica.",disgust
+5938,Ross,You're all acting crazy. Can't you just talk to Rachel about it?,anger
+5938,Rachel,"Okay, let's take a deep breath. Joey, it's not the end of the world. Just submit the report tomorrow.",neutral
+6625,Joey,"Oh my god, have you guys seen Ugly Naked Guy today? I just saw him walking down the street and I almost lost my appetite for lunch.",fear
+6625,Chandler,"Ha! Yeah, I saw him too, Joey. I was laughing so hard I almost spit out my coffee. That guy's a national treasure.",joy
+6625,Monica,You guys are disgusting. I don't want to hear about Ugly Naked Guy's body. Can we please change the subject?,anger
+6625,Rachel,I'm actually kind of scared to go outside now. I don't want to run into him again. Can we please just stay inside today?,fear
+6625,Phoebe,"You know, I was thinkingmaybe we should start a support group for people who've seen Ugly Naked Guy. It could be really therapeutic.",neutral
+6625,Ross,"That's not a bad idea, Phoebe! We could call it 'UNG Anonymous'! And I'll start by sharing my own story of UNG trauma.",joy
+7465,Monica,"Oh no, I'm so worried about Rachel's coffee consumption. She's going to turn into a zombie if she doesn't cut back.",fear
+7465,Rachel,"What's wrong with you, Monica? I'm just trying to get my caffeine fix after a long night at work.",fear
+7465,Joey,"Hey, hey, hey, you guys are being too uptight about coffee. It's just a drink, relax!",anger
+7465,Monica,"Joey, you're not helping. Rachel's addiction is really affecting her health and relationships.",sadness
+7465,Phoebe,"Wait, what's going on? Did someone say addiction? That's crazy talk!",surprise
+7465,Chandler,"Ugh, you're all so dramatic. Coffee is just a crutch for people who can't handle their lives. Gross.",disgust
+7804,Joey,"Guys, we're going to be late for the party!",fear
+7804,Chandler,"Don't worry, we've got plenty of time.",neutral
+7804,Monica,But what if we get stuck in traffic? I don't want to be late for Rachel's birthday.,sadness
+7804,Ross,You're all being ridiculous! We're going to be fine. Now let's get moving!,anger
+7804,Joey,But what if the party's already started and we miss the cake?,fear
+7804,Phoebe,And what if we run into Janice and she starts singing that annoying song?,fear
+8985,Chandler,"Oh no, I just remembered that I'm supposed to make the turkey this year. I'm terrified of cooking it. What if it's dry and tasteless?",fear
+8985,Joey,"Dude, it's gonna be fine. You can't mess it up that badly. Just follow the recipe and we'll be good.",neutral
+8985,Chandler,But what if I overcook it? Or undercook it? What if it's a health hazard?! *hyperventilates*,fear
+8985,Monica,"Hey guys, let's not worry about the turkey just yet. I've got a great idea for a new side dish that's gonna knock everyone's socks off!",joy
+8985,Rachel,"Ooh, what is it? Tell us!",joy
+8985,Monica,"I was thinking of making these adorable little pumpkin muffins! They're so easy and delicious, and they'll be perfect for the holiday.",joy
+8985,Ross,Pumpkin muffins? That's my favorite! Can I help with the baking?,joy
+5473,Monica,"Oh no, Phoebe's been driving a taxi? That's so scary!",fear
+5473,Joey,"Yeah, I heard she got a job as a cabbie. That's freaky too.",fear
+5473,Chandler,I don't get it. Why would Phoebe want to drive a taxi? It's a total nightmare!,anger
+5473,Phoebe,"Hey, it's a great job! I get to meet new people and see the city. Plus, I'm really good at it!",joy
+5473,Rachel,"Wait, what? You're good at driving a taxi? How did you even learn?",surprise
+5473,Ross,"I think it's a great opportunity for Phoebe. She's always been a free spirit, so this fits her personality.",neutral
+4436,Monica,"Oh no, oh no, oh no! Did you guys see the prom video?",fear
+4436,Rachel,"What's wrong, Monica? What's going on?",surprise
+4436,Monica,I just saw it on the couch! It was so embarrassing!,surprise
+4436,Chandler,"So, what happened at prom?",neutral
+4436,Monica,"I danced with Ross, and it was so awkward!",joy
+4436,Joey,"Wait, wasn't that the year you two got in a fight?",fear
+1043,Rachel,"Oh no, we have to plan the holiday party and we still don't have a theme",fear
+1043,Monica,"I know, I'm freaking out too! We can't just leave it to the last minute",fear
+1043,Chandler,"Guys, relax. We'll figure it out. It's not the end of the world",neutral
+1043,Phoebe,I have an idea! We can have a holiday armadillo theme! It'll be so fun!,joy
+1043,Joey,"Armadillo? That's genius, Phoebe! I can already see the decorations",joy
+1043,Ross,And we can have armadillo-shaped cookies! I'll start baking them tonight,joy
+1043,Monica,This is going to be the best holiday party ever! I'm so excited,joy
+3419,Monica,"Guys, I'm freaking out. We're going to lose this house if we don't make an offer soon!",fear
+3419,Rachel,"Okay, Monica, let's not jump to conclusions. We'll make an offer, and if it's not meant to be, it's not meant to be.",neutral
+3419,Chandler,"I think we should get this one, it's got a great backyard for our future mini-Chandler!",joy
+3419,Monica,But what if the neighbors are noisy? I don't want to be woken up every morning by a bunch of screaming kids!,fear
+3419,Joey,"Dude, you're being paranoid. We'll just get some earplugs or something.",anger
+3419,Phoebe,"I don't know about this, guys. I have a bad feeling about this house. Can we just see some other options first?",anger
+5181,Phoebe,"Oh no, Mike's parents are super conservative, I'm going to freak out.",fear
+5181,Joey,"Dude, Phoebe, calm down, it's just his parents. You'll be fine.",neutral
+5181,Phoebe,"You don't understand, Mike's parents are like, totally judgmental. They're going to hate me.",anger
+5181,Rachel,"Phoebe, honey, you're being a little dramatic. It's just a meet-the-parents thing.",neutral
+5181,Monica,"I know it's scary, Phoebe, but think about all the times we've faced awkward situations. We'll get through this.",sadness
+5181,Chandler,"Yeah, and if all else fails, we can always make fun of Mike's dad's ridiculous mustache.",disgust
+5181,Phoebe,"Oh no, what if they ask me to play my guitar? I'm going to make a total fool of myself.",fear
+1669,Monica,I'm so nervous about my blind date tonight.,fear
+1669,Rachel,"What's wrong, Monica? You're always so organized.",neutral
+1669,Monica,"I don't know, I just feel like I'm going to make a total fool of myself.",surprise
+1669,Joey,"Oh, come on, Monica! You're a catch! You'll be fine.",fear
+1669,Monica,But what if he doesn't like me? What if I'm just not his type?,sadness
+1669,Chandler,"Hey, Monica! I've got a great idea. Why don't we all go out together and make it a fun night?",joy
+2054,Ross,"Oh no, what are you going to do without a job, Chandler?",fear
+2054,Joey,"Yeah, and how are you going to pay for all those coffee dates?",fear
+2054,Monica,"I'm worried about you, Chandler. What's going on?",fear
+2054,Chandler,"Guys, I'm fine. I just need a change.",neutral
+2054,Rachel,"Yay, new chapter for you, Chandler! We'll have to celebrate!",joy
+2054,Phoebe,"But what about all the good times you had in advertising? You're going to miss those, right?",sadness
+8124,Monica,"I'm so worried about meeting my parents' expectations. They always wanted me to be a chef, but I'm not sure I'm cut out for it.",fear
+8124,Rachel,"I totally get it, Monica. My parents were always pushing me to get married and have kids. But I'm not ready for that.",fear
+8124,Phoebe,"Wait, what? You're both talking about your parents' expectations? Mine were like, 'Phoebe, you're going to be a rockstar!'",surprise
+8124,Joey,"Yeah, my parents were all about me being a successful actor. But honestly, I just want to eat sandwiches all day.",surprise
+8124,Ross,"Ugh, you guys are making me sick. My parents were always so critical, I'm surprised I turned out as well as I did.",disgust
+8124,Chandler,"I don't really have parents to worry about. My dad's a bum and my mom's always been, well, my mom.",neutral
+3385,Chandler,"Monica, how many times do you have to clean this apartment before it's clean enough?",fear
+3385,Monica,What's wrong with a little extra cleaning? It's not like I'm going to let it get out of hand,fear
+3385,Phoebe,"Whoa, did you guys hear that noise? What's going on with the pipes?",surprise
+3385,Joey,"Ew, is that a new cleaning product? It smells disgusting",disgust
+3385,Rachel,"Wait, did we just hear a mouse? Oh no, it's in the walls!",surprise
+3385,Ross,"Alright, let's not freak out. We'll call an exterminator and get this taken care of",neutral
+9864,Monica,"Oh no, Joey's going to be out of commission for weeks!",fear
+9864,Rachel,"That's not so bad, he can just watch TV and eat ice cream.",neutral
+9864,Joey,"Hey, I'm not just going to sit around and do nothing! I'm going to sue the doctor for malpractice!",anger
+9864,Monica,"Joey, calm down, it's just a hernia. You'll be fine.",fear
+9864,Chandler,"I don't know, guys, but I'm more worried about the coffee shop's new 'Friends' themed latte than Joey's hernia.",fear
+9864,Joey,"That's it, I've had enough of your jokes, Chandler! You're going down!",anger
+1721,Joey,"What's going on, guys? Why is Monica acting so weird lately?",fear
+1721,Rachel,"I know, I've noticed it too. She's been really secretive and jumpy.",fear
+1721,Monica,"I'm fine, I'm juststressed with work. That's all.",sadness
+1721,Chandler,"Yeah, because your constant mood swings and evasiveness aren't suspicious at all, Monica.",anger
+1721,Joey,"Whoa, calm down, Chandler. Let's not jump to conclusions.",anger
+1721,Ross,"Wait, what's going on? Did I miss something?!",surprise
+1066,Monica,"Oh my god, have you guys heard? Chandler's moving to Tulsa!",fear
+1066,Joey,"What's going on, Mon? Why's Chandler leaving?",neutral
+1066,Chandler,"Hey, guys, I'm actually really excited about this opportunity! I'm going to be working for a huge advertising firm.",joy
+1066,Rachel,"That's amazing, Chandler! You'll be the king of advertising in Tulsa!",joy
+1066,Phoebe,"Wait, how can you do this to us? You're abandoning us!",anger
+1066,Monica,"Oh no, Phoebe, calm down. We'll still keep in touch with Chandler.",fear
+6199,Monica,"Guys, have you seen Rachel's latest Instagram posts? She's been flirting with Joshua left and right!",fear
+6199,Joey,"Aww, poor Rachel. She's been through a lot lately. I hope she's okay.",sadness
+6199,Chandler,"Yeah, and now she's got her eyes on Joshua. That's just great. Another guy who's gonna break her heart.",sadness
+6199,Phoebe,"Wait, what? Joshua?! That's the guy from the coffee shop, right? I had no idea Rachel even knew him!",surprise
+6199,Rachel,"Hey guys, can we please not make a big deal about this? I just met Joshua and we're just getting to know each other.",joy
+6199,Monica,"Rachel, are you sure you're ready for this? You've been hurt so badly beforeWhat if Joshua ends up being another Ross?",fear
+3222,Rachel,I had the craziest dream last night. I was being chased by a giant chicken!,fear
+3222,Monica,What? That's ridiculous! You're just stressed about the fashion show.,anger
+3222,Joey,"Whoa, a giant chicken? That's insane! Did you see any other weird stuff?",surprise
+3222,Chandler,"Actually, I had a pretty cool dream. I was flying over the city with my cat.",joy
+3222,Phoebe,"That sounds amazing, Chandler! I had a dream I was a mermaid, but it was super scary.",fear
+3222,Ross,"Wait, Phoebe, you're a mermaid? How did you evennever mind. Can we talk about my dream? I was being attacked by a swarm of bees!",surprise
+6861,Monica,"Guys, have you seen Joey and Chandler's new pets? I'm getting a little nervous, I've never seen a chick and duck together before.",fear
+6861,Rachel,"What's the big deal? They're just pets, Monica.",neutral
+6861,Phoebe,"Wait, what? Joey and Chandler have a chick and a duck?! That's insane!",surprise
+6861,Chandler,"Yeah, we got them for Christmas. They're actually pretty cool once you get used to them.",sadness
+6861,Joey,"Dude, we're totally going to name them 'Eggberta' and 'Duckie'! Can you believe it?",fear
+6861,Monica,"Oh no, what if they escape?! We can't have them running around the apartment!",surprise
+8645,Monica,"Oh no, Joey, what happened to your stomach? You look like you're going to pass out!",fear
+8645,Joey,"Ugh, I don't know, it just started hurting really bad. And now I'm going to have to get a hernia surgery! This is a nightmare!",anger
+8645,Chandler,"Well, at least you won't have to worry about getting fat anymore, Joey. Silver linings, right?",anger
+8645,Rachel,"Aww, Joey, I'm so sorry. But we're all here for you, and you'll get through this. We'll even come visit you in the hospital!",joy
+8645,Phoebe,I'm just going to go get some tea. This is all so sad. Poor Joey.,sadness
+8645,Monica,"Joey, don't worry, we'll take care of you. And I'll make sure to cook you all your favorite foods while you're recovering.",fear
+6558,Joey,"Dude, I've never seen Ross so excited about anything.",fear
+6558,Chandler,What's going on? Is it a party or something?,joy
+6558,Monica,Ross is having a margarita night! We have to go!,joy
+6558,Phoebe,"Wait, is this a surprise party for Ross?",surprise
+6558,Rachel,"Guys, let's not make a big deal out of it. It's just a margarita night.",neutral
+6558,Ross,What's going on? Why is everyone staring at me?,fear
+9749,Rachel,"Oh no, I have a job interview today and I'm so nervous, I don't know what to say!",fear
+9749,Monica,"Honey, you'll be fine. Just be yourself and show them your skills. I'm sure you'll get the job.",sadness
+9749,Joey,"Whoa, a job interview? That's crazy! I didn't know you were looking for a new job, Rach.",surprise
+9749,Rachel,"Yeah, I'm really anxious about it. What if I mess up or forget something important?",fear
+9749,Chandler,"Hey, Rachel, don't worry about it. It's just an interview. You'll be fine. And if you're not, well, there's always more coffee.",neutral
+9749,Phoebe,"Oh, I know! I had the craziest interview once. I wore a suit and everything! And then I found out it was a prank call from my friend.",surprise
+9153,Rachel,"Oh my god, did you see that cheesecake on the floor?",fear
+9153,Monica,What are you talking about? I just cleaned the whole apartment!,fear
+9153,Joey,"Whoa, that cheesecake looks amazing! Can I have a slice?",joy
+9153,Chandler,I'm surprised it didn't attract any rodents. We should really clean this up.,joy
+9153,Phoebe,I love cheesecake! Can we keep it and have a midnight snack?,joy
+9153,Ross,What the?! How did that even get there?!,surprise
+1836,Joey,"Oh no, I just saw the gift my sister gave me. It's a stupid cat figurine!",fear
+1836,Chandler,"Ha! That's not so bad, Joey. You can always return it or give it to someone else.",anger
+1836,Monica,"I'm so sorry, Joey. I know how much you hate getting gifts from your sister. Maybe we can get you something nice to make up for it.",sadness
+1836,Phoebe,"Hey, guys! I have an idea! Let's have a 'Sibling Rivalry' party and invite all our siblings! It'll be fun!",joy
+1836,Ross,"Hmm, I'm not sure about that, Phoebe. It might be a bit awkward.",neutral
+1836,Rachel,"Oh no, I just thought of something. What if my sister brings her new boyfriend? I don't want to deal with that drama.",fear
+2488,Joey,"Phoebe's songs are so weird, I'm actually getting scared just thinking about it!",fear
+2488,Monica,"Oh, come on, Joey! Phoebe's songs are hilarious! I love her quirky performances!",joy
+2488,Chandler,"I don't know about you guys, but I'm just neutral on this whole thing. Phoebe's music isinteresting.",neutral
+2488,Ross,"I'm telling you, Phoebe's songs are an affront to all that is good and decent! Someone needs to put a stop to this nonsense!",anger
+2488,Rachel,"Ross, calm down! It's just Phoebe's music, it's not that serious. Besides, I kind of like her weird songs.",anger
+2488,Phoebe,"Oh, you guys are just not getting it! My songs are art! They're going to change the world!",fear
+2915,Joey,"Guys, I'm supposed to write a recommendation letter for this guy who's applying to culinary school, but I'm freaking out. What if I mess it up?",fear
+2915,Chandler,"Oh, Joey, it's just a letter. You're not going to mess it up. Just tell them how great he is in the kitchen.",sadness
+2915,Monica,"Actually, Joey, I think you should focus on his strengths and weaknesses as a chef. It'll make the letter more believable.",anger
+2915,Joey,"Believable? You're not helping, Monica! I'm trying to make this guy sound like a culinary genius, not a total disaster!",anger
+2915,Phoebe,"Hey, guys, calm down. Let's just take a step back and think about this. What's the worst that could happen?",fear
+2915,Rachel,I think Phoebe's right. It's just a letter. It's not the end of the world. We can always edit it later.,sadness
+9582,Monica,"Phoebe's singing is starting to freak me out, I don't know how much more I can take!",fear
+9582,Monica,"I mean, what's with her obsession with making up songs about everyday things? It's just sounusual.",fear
+9582,Joey,"Ugh, don't even get me started on that weird song she sang at the coffee shop last week. It was disgusting!",disgust
+9582,Rachel,"Hey, guys, can we just focus on the food here? I'm starving!",neutral
+9582,Chandler,"Wait, did I just hear Phoebe mention she's writing a musical about her cat? That's insane!",surprise
+9582,Chandler,"And then she starts singing this ridiculous song about Mr. Bigglesworth's adventures, and I just can't even",surprise
+6074,Monica,I'm so nervous about this trip to London. What if our flight gets delayed?,fear
+6074,Rachel,"Whoa, what's wrong? You're freaking me out!",surprise
+6074,Monica,"I just don't want anything to go wrong. But at least we're going to see the Tate Modern, right?",joy
+6074,Joey,"Yeah, and we can hit up some pubs too. I heard the beer is amazing.",neutral
+6074,Chandler,"You guys are really freaking me out with this 'what if' nonsense. Let's just focus on the food, okay?",fear
+6074,Phoebe,"I'm just going to sit here and think about all the things that could go wrong. Like, what if we get lost in the Tube?",sadness
+5882,Joey,"Guys, I'm freaking out! I just saw the scale and I've gained 10 pounds over the summer",fear
+5882,Chandler,"What's the big deal? You're still a stud, Joey",fear
+5882,Monica,"Wait, did someone say'stud'? Because I just saw a picture of myself from college and I'm mortified",surprise
+5882,Rachel,"Oh my god, girls, we need to get fit for the wedding! I've already started taking yoga classes",joy
+5882,Phoebe,"That's amazing, Rachel! I've been meaning to try that too. Hey, does anyone know where we can find a good running route?",surprise
+5882,Ross,I've got just the thing! I've been mapping out a route along the Schuylkill River. And we can even join a fitness class together!,joy
+1366,Joey,"Janice is back, and I have a feeling she's going to make a scene",fear
+1366,Chandler,"Ah, Janice, she's like a bad rash, you know? Infectious and annoying",joy
+1366,Monica,"Oh no, Janice is here, I just spilled coffee all over my shirt",sadness
+1366,Rachel,"Well, at least she's not as loud as usual",neutral
+1366,Phoebe,I think I just heard her singing in the shower,fear
+1366,Ross,"Whoa, did she just pull out a kazoo?",surprise
+9573,Joey,"Oh no, Ross! What's happened to your skin? You look like a freakin' Oompa Loompa!",fear
+9573,Chandler,"Yeah, Ross, you're starting to make me nervous. Is thatis that a tan?",fear
+9573,Phoebe,"Wait a minute, did Ross justdid he just get a spray tan?! Oh my god, this is gonna be good!",surprise
+9573,Monica,"Ross, what were you thinking?! You know you're not supposed to get a spray tan!",surprise
+9573,Rachel,"Ugh, Ross, it's like you're trying to attract every mosquito within a 5-mile radius!",surprise
+9573,Ross,You guys are not helping! I just wanted to look good for a night out and now you're all making fun of me!,anger
+1132,Rachel,"Oh my god, we're only a week away from the new year! I'm so nervous about making New Year's resolutions.",fear
+1132,Monica,"Come on, Rach! It's going to be fun! We should make a list of things we want to achieve in the new year.",joy
+1132,Joey,"Wait, what's the deal with resolutions, guys? Do we have to promise to eat less pizza?",surprise
+1132,Chandler,"Oh, great. Because nothing says 'fun' like giving up pizza.",sadness
+1132,Phoebe,"Hey, don't be down, guys. We can make resolutions that are fun, like learning a new skill or volunteering.",neutral
+1132,Ross,"I'm worried that if I make a resolution, I'll just end up failing and feeling worse than before.",fear
+6141,Joey,"Oh no, Monica's going to kill us all if we don't win at Pictionary!",fear
+6141,Joey,"I don't know how we're going to beat her, she's like a ninja with a pen!",fear
+6141,Chandler,"Wait, what's Monica drawing? It looks like a chicken riding a unicorn!",surprise
+6141,Monica,"It's aumaRenaissance-era chicken-unicorn hybrid. It's a real thing, I swear.",neutral
+6141,Ross,"Ugh, this game is disgusting. Monica's competitiveness is so gross.",disgust
+6141,Chandler,"Oh man, Monica just threw the pen across the room! I think we're in trouble!",surprise
+3645,Monica,"Oh my god, Joey, what are you doing?! You're not actually getting married, are you?",fear
+3645,Joey,"Yeah, yeah, I'm totally serious! I've been thinking about it, and I really want to spend the rest of my life withwithyou know, whoever's willing to marry me!",fear
+3645,Rachel,"Uh, guys, can we talk about this? I think we need to get some perspective here.",neutral
+3645,Monica,"This is ridiculous, Joey. You're not even in a relationship. Who's going to marry you?",sadness
+3645,Joey,"Oh, come on, Monica! You're just not used to my free spirit. I'm a romantic at heart!",sadness
+3645,Chandler,"Ugh, this is disgusting. You're not even taking it seriously. Can we please just stop talking about this?",disgust
+6654,Monica,"Oh no, I just saw the state of the apartment! We need to have a talk.",fear
+6654,Joey,What's the big deal? It's just a little messy.,fear
+6654,Monica,A little messy? We're talking about a biohazard! You're going to get us all sick.,anger
+6654,Joey,"Whoa, calm down Monica. It's not that bad.",anger
+6654,Chandler,"Wait, wait, wait. Let's take a step back. We're all friends here, right? Can't we just clean up together?",joy
+6654,Rachel,Exactly! And we can make it a game. Whoever cleans the most gets to pick the movie tonight.,joy
+4445,Joey,"Oh no, Phoebe's driving a taxi? I'm so scared she's gonna crash and we'll all be killed!",fear
+4445,Joey,"I'm telling you, it's a disaster waiting to happen! What if she gets lost in the city?",fear
+4445,Monica,"You guys are being ridiculous, Phoebe's a great driver! She's been practicing for weeks.",anger
+4445,Monica,"And even if she did get lost, we could just use Google Maps or something. It's not the end of the world!",anger
+4445,Rachel,"Wait, what's going on? Why is everyone so upset about Phoebe driving a taxi?",surprise
+4445,Phoebe,"I'm so excited to start driving a taxi! I've always loved the freedom of being on the road, and I get to meet new people every day!",joy
+9005,Chandler,"Guys, have you seen the latest prank Joey pulled on Monica?",fear
+9005,Monica,What did he do now? I'm worried it's going to be something really embarrassing.,fear
+9005,Joey,"Hey, hey, hey! It's just a little harmless fun! Don't be so uptight, Monica!",anger
+9005,Chandler,"Yeah, and it's not like it's the first time Joey's pulled a stunt like that. We're all just waiting for the other shoe to drop.",anger
+9005,Rachel,"I'm so sorry, Monica. I know how much you hate being the butt of Joey's jokes.",sadness
+9005,Monica,"It's not just that, Rachel. It's the principle of the thing. I feel like I'm always the one getting pranked, never the one doing the pranking.",sadness
+8261,Joey,"Guys, have you seen the latest name suggestions for Emma's baby? I'm freaking out, I don't like any of them!",fear
+8261,Monica,"What's wrong with them? I think they're all great options. You're just being dramatic, Joey.",fear
+8261,Rachel,"I know what you mean, Joey. I've been thinking about it too, and I'm really worried we'll pick the wrong one.",fear
+8261,Phoebe,"You guys are being so negative. Can't you just focus on the joy of having a new baby? We'll figure it out, okay?",sadness
+8261,Chandler,"Yeah, Phoebe's right. Let's not get too worked up about it. We'll choose something, and it'll be fine.",sadness
+8261,Ross,"Actually, I think we should focus on the positives. We're having a baby, and that's amazing. Let's just enjoy the process.",neutral
+4463,Monica,"Oh my god, have you guys seen that Ugly Naked Guy again?",fear
+4463,Rachel,What's going on? I thought we talked about this already.,neutral
+4463,Chandler,"Surprise, surprise! Ugly Naked Guy's still got his thing going on.",surprise
+4463,Phoebe,Yay! I love seeing him! He's like a little present for everyone!,joy
+4463,Phoebe,Can we take a picture? I want to send it to my mom!,joy
+4463,Monica,This is insane! What if he sees us staring?!,fear
+3928,Monica,I'm freaking out because I'm going on a date tonight and I have no idea what to wear!,fear
+3928,Rachel,"Oh girl, I feel the same way! I've been on so many bad dates lately, I'm starting to think I'm allergic to relationships.",fear
+3928,Monica,"But then I met this guy, and he's really cute and funny, and I think I might actually have a chance!",joy
+3928,Chandler,"Wait, what's going on here? I thought you were all about the food, Monica, not romance!",surprise
+3928,Monica,"Shut up, Chandler! I can have multiple interests, you know. And besides, love is in the air!",joy
+3928,Joey,"Yeah, and I'm happy for you, Monica. But can we please change the subject? I'm trying to focus on my own dating life.",neutral
+2905,Joey,"Oh man, Phoebe's getting married? That's crazy! What's the deal with the wedding planning?",fear
+2905,Rachel,"I know, I'm freaking out too! I don't want her to be stressed out on her special day. What if something goes wrong?",fear
+2905,Monica,"Guys, let's not think about the worst-case scenario. Phoebe's a free spirit, she'll figure it out. But we should start making a plan, for her sake.",sadness
+2905,Chandler,"Ugh, wedding planning is a nightmare. I'm already dreading the whole thing. Can we just elope like Phoebe wants?",anger
+2905,Ross,"Come on, Chandler, it's Phoebe's special day. We should support her. And Monica's right, we should start planning. I'll take charge of the guest list.",anger
+2905,Phoebe,"Hey guys, sorry to interrupt, but can we please just focus on the love and joy of the wedding? Let's not stress too much about the details.",neutral
+1710,Monica,"Oh my god, you guys, have you heard the latest about Chandler?",fear
+1710,Rachel,What's going on with Chandler?,fear
+1710,Monica,He confessed to his friends at a bath time gathering that he has a fear ofget thisclowns!,anger
+1710,Chandler,"Hey, hey, it's not that big of a deal, guys. I just have a phobia.",neutral
+1710,Ross,"A phobia? You're a big shot lawyer, Chandler, and you're afraid of clowns?",anger
+1710,Joey,"Yeah, and what's next? Are you gonna be afraid of balloons too?",anger
+9715,Monica,I'm freaking out about this job interview tomorrow.,fear
+9715,Rachel,What's wrong? You'll be fine!,surprise
+9715,Monica,I just know I'm going to mess it up. I've been preparing for weeks and I'm still not sure what to expect.,joy
+9715,Joey,"Hey, Monica, did I tell you I just landed a role in that new TV show?",surprise
+9715,Monica,"Wait, what? That's amazing! But, uh, doesn't that mean you're going to be away for a while?",fear
+9715,Chandler,"Hey guys, can we please just focus on Monica's interview for now?",neutral
+4821,Joey,"Oh no, Rachel's hiring someone as her assistant? I'm worried she's gonna replace me!",fear
+4821,Monica,"Guys, it's just an assistant, not a replacement for any of us! We're still the core team.",joy
+4821,Chandler,"Yeah, and who knows, maybe this Tag guy will be the one to finally get Rachel's coffee order right.",joy
+4821,Phoebe,"I had a tarot card reading yesterday, and it said I'd meet someone new who would bring joy into my life. Maybe Tag is the answer!",joy
+4821,Ross,"I'm not sure about thisI mean, what if Tag is just a yes-man who agrees with everything Rachel says?",sadness
+4821,Monica,"Ross, come on! We don't know anything about Tag yet. Let's just give him a chance.",fear
+8715,Monica,"Oh no, what's going on?",fear
+8715,Rachel,I think Chandler just got out of the shower and is standing in his underwear,fear
+8715,Joey,"Dude, what's going on? Why are you standing there?",neutral
+8715,Chandler,"Hey guys, I just wanted to confess that I had a really weird dream last night",joy
+8715,Phoebe,A weird dream? What kind of weird dream?,surprise
+8715,Monica,"Oh my god, did you have a nightmare about me?",fear
+9509,Monica,"Oh no, Joey's not sharing his sandwich again!",fear
+9509,Joey,What's the big deal? I'm hungry!,fear
+9509,Monica,"But we're trying to save for that new restaurant, and your snacking is killing us!",sadness
+9509,Joey,"Aww, come on! I'm just trying to enjoy my lunch!",sadness
+9509,Chandler,"Hey, hey, let's not fight about food. Joey, why don't you just share your sandwich?",joy
+9509,Monica,"Yeah, and we can all have a bite. It's not a big deal.",neutral
+8507,Monica,"Oh no, Ross and Rachel are on again. I'm so worried it's going to end badly.",fear
+8507,Chandler,"Hey, don't worry about it. They'll figure it out. It's not like they're going to get married or anything.",neutral
+8507,Phoebe,Yay! Ross and Rachel are back together! This means we can have more fun at Central Perk!,joy
+8507,Joey,"Uh, guys, have you seen the way Ross looks at Rachel? It's like he's going to propose or something. I'm getting the creeps.",fear
+8507,Monica,"Wait, what's that? Is Ross getting down on one knee?!",surprise
+8507,Rachel,"Ugh, Ross just spilled his coffee all over my new dress. Gross.",disgust
+3068,Chandler,"Guys, I just saw the most ridiculous thing on YouTube.",fear
+3068,Joey,What is it? Is it a cat playing the piano again?,fear
+3068,Chandler,"No, it's Rachel and Monica's prom video from high school.",fear
+3068,Ross,"Oh, man, that's gonna be a blast from the past. I'm curious.",neutral
+3068,Monica,"Ugh, I had no idea that was going to be online. I look so ugly.",disgust
+3068,Rachel,"And I had no idea you were going to make fun of me, Monica.",anger
+1062,Rachel,"Oh my god, Phoebe is trying to teach Joey how to play guitar? I'm a little worried about this.",fear
+1062,Monica,What? That's crazy! I didn't know Phoebe played guitar.,surprise
+1062,Joey,"Yeah, Phoebe's teaching me and I'm really picking it up! I can already play 'Smelly Cat'!",joy
+1062,Chandler,"That's amazing, Joey! I never knew you had a hidden talent.",joy
+1062,Phoebe,"Hey, it's all about the vibe, guys. I'm just happy to see Joey having fun.",neutral
+1062,Ross,"You know, I've always been afraid of Phoebe's unorthodox teaching methods. What if Joey ends up with a guitar with three strings?",fear
+2302,Chandler,"Guys, I have some terrible news. I quit my job in advertising.",fear
+2302,Joey,"What? Why? You were doing great, Chandler!",fear
+2302,Monica,"Oh, Chandler, this is fantastic news! You're free to pursue your passion for comedy!",joy
+2302,Rachel,"I'm so proud of you, Chandler! You deserve this change.",joy
+2302,Ross,"I have to admit, I'm a little worried about your future, buddy. But I'm also excited to see what's next.",joy
+2302,Phoebe,"Yay, Chandler! This is amazing! We're all going to miss you at the office, but we'll come visit you at the comedy club.",joy

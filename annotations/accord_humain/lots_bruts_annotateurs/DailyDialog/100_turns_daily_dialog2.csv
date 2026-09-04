@@ -1,0 +1,101 @@
+dialog_id;speaker;utterance;Annotated_Emotion
+dailydialog-test-804;system;They are moving today. Tom's taken the day off. He's rented a truck, and they should have all their furniture in the house tonight.;neutral
+dailydialog-test-804;user;When are they going to have the party?;neutral
+dailydialog-test-804;system;Next Saturday night. You should get your invitation today or tomorrow.;neutral
+dailydialog-test-804;user;Wow, that would be something to look forward to.;happiness 
+dailydialog-test-598;user;Nice to meet you! My name is Grace Williams.;happiness 
+dailydialog-test-598;system;Nice to meet you too! I am Peter Smith.;happiness 
+dailydialog-test-598;user;Today is my first day at work!;happiness 
+dailydialog-test-598;system;Well, hope you will enjoy your first day! Just ask me if you need any help.;happiness 
+dailydialog-test-932;user;How do you research your books?;neutral
+dailydialog-test-932;system;I always visit the places that I use as setting for stories. Readers like things to be as factually correct as possible-even in fiction! I usually base my characters on people I have met. Most character are a mixture of the characters of two or more people.;happiness 
+dailydialog-test-932;user;I really like your books. I'Ve just finished this one. I read it from cover to cover in a single day. Congratulation on making the bestseller list yet again!;happiness 
+dailydialog-test-932;system;Thank you. Let met sign it for you... there you go.;happiness 
+dailydialog-test-790;user;Next Monday is my birthday, and I would like you to attend my party.;happiness 
+dailydialog-test-790;system;Wow. I'd love to.;happiness 
+dailydialog-test-790;user;Great!;happiness 
+dailydialog-test-790;system;When and where?;neutral
+dailydialog-test-793;system;The seaside.;neutral
+dailydialog-test-793;user;That's really a good idea. Taking a walk on the beach and lying in the sun are pretty good. I recommend you Qingdao or Dalian.;neutral
+dailydialog-test-793;system;I'Ve been to Qingdao before, so I'll choose Dalian. I've heard that the environment there is very good.;neutral
+dailydialog-test-793;user;Yes, that's a good place to spend a holiday. Last year I went there. It's really.;neutral
+dailydialog-test-842;user;John, my father isn't there at all. Are you kidding?;surprise
+dailydialog-test-842;system;Cool, fellow, what's the date today, buddy?;neutral
+dailydialog-test-842;user;It's... oh it's the 1st April, April Fool's Day.;surprise
+dailydialog-test-842;system;You forgot all of about it, didn't you?;neutral
+dailydialog-test-354;system;Hi there, everyone. We hope you're having a good night!;happiness 
+dailydialog-test-354;user;Wasn't that football game great! I just knew we'd win!;happiness 
+dailydialog-test-354;system;The night is young, folks. Get some food and mingle with those faces from yesterday.;happiness 
+dailydialog-test-354;user;Later we'll let you know who the King and Queen of the Reunion will be.;neutral
+dailydialog-test-804;system;There's also a garden.;neutral
+dailydialog-test-804;user;Well, that does sound nice. Have they moved in yet?;happiness 
+dailydialog-test-804;system;They are moving today. Tom's taken the day off. He's rented a truck, and they should have all their furniture in the house tonight.;neutral
+dailydialog-test-804;user;When are they going to have the party?;neutral
+dailydialog-test-924;system;Actually, we bought the ring together after I got the watch.;neutral
+dailydialog-test-924;user;You did a fabulous job with the selection. It's gorgeous.;happiness 
+dailydialog-test-924;system;Thank you so much.;happiness 
+dailydialog-test-924;user;What kind of watch is it?;neutral
+dailydialog-test-546;user;How's the bride-to-be?;neutral
+dailydialog-test-546;system;Tired and stressed. This wedding is giving me a headache.;neutral
+dailydialog-test-546;user;Just relax. With me as your maid of honor, everything will be fine!;happiness 
+dailydialog-test-546;system;I'm worried that everything will be chaotic!;fear 
+dailydialog-test-627;system;You can have a bird view of Guiling City from the top of the mountain.;neutral
+dailydialog-test-627;user;Wonderful! I'll often come here for mountain climbing.;happiness 
+dailydialog-test-627;system;You should. Many Guiliners, especially the old and the young, will climb mountains here in the morning.;neutral
+dailydialog-test-627;user;No wonder people say;neutral
+dailydialog-test-587;user;Yeah, yeah, I know what I selected. Just gimme my money!;anger 
+dailydialog-test-587;system;Please type the amount you would like to withdraw. Thank you, you want to transfer 10000 USD to the World Wildlife Foundation. If this is correct please press 1.;neutral
+dailydialog-test-587;user;No, no! Stupid machine, what are you doing! No!;anger 
+dailydialog-test-587;system;Confirmed. Thank you for using our bank! Please remove your card from the slot. Goodbye!;neutral
+dailydialog-test-189;system;Accessories? Do you carry polarizing filters?;neutral
+dailydialog-test-189;user;Polarizing filter um we should! I'm sorry, ma'am. It looks like we're sold out.;neutral
+dailydialog-test-189;system;No you're not! There are some right here!;anger 
+dailydialog-test-189;user;Oh, well, would you look at that! Polarizing filters.;surprise
+dailydialog-test-951;user;What's wrong with her.;neutral
+dailydialog-test-951;system;She is expecting.;neutral
+dailydialog-test-951;user;Congratulations to you.;happiness 
+dailydialog-test-951;system;Thank you.;happiness 
+dailydialog-test-623;user;I am so glad that you decided to stop by!;happiness 
+dailydialog-test-623;system;Yes, it has been a long time since we have seen you.;neutral
+dailydialog-test-623;user;Mary, can I get Josh or you something to drink?;neutral
+dailydialog-test-623;system;Oh no, thank you. We aren't all that thirsty.;neutral
+dailydialog-test-847;system;They are. The only reason they didn't disqualify him until after the race is because the results from the text only came back afterwards.;neutral
+dailydialog-test-847;user;That's so disappointing. I don't know why top athletes would feel the need to take drugs.;disgust
+dailydialog-test-847;system;I don't think it's right, but I can understand why they might. Imagine how much pressure there would be to win for your country!;disgust
+dailydialog-test-847;user;Regardless of how much pressure you're under, there's never a good reason to take drugs.;sadness 
+dailydialog-test-819;system;How in the world! Who came up with seats like that from your company?;surprise
+dailydialog-test-819;user;Some guy in the accounting department has a brother on the team!;happiness 
+dailydialog-test-819;system;Can't beat that! Thank you accounting guy!;happiness 
+dailydialog-test-819;user;The game starts at seven so we'd better hustle, it's already five.;neutral
+dailydialog-test-982;user;All right!;happiness 
+dailydialog-test-982;system;Here comes Jordan, though.;neutral
+dailydialog-test-982;user;Wow, Michael Jordan's slam-dunks are beautiful things to watch.;happiness 
+dailydialog-test-982;system;Yeah. He's older, so he doesn't slam as much as he did when he was younger, but when he does, it's still amazing.;neutral
+dailydialog-test-101;user;That's a nice discount.;surprise
+dailydialog-test-101;system;Here. Let me give you an application form.;neutral
+dailydialog-test-101;user;Thank you, but I'm just browsing today.;neutral
+dailydialog-test-101;system;Okay. Enjoy your browsing.;neutral
+dailydialog-test-469;system;It's kind of you to meet me at the airport.;happiness 
+dailydialog-test-469;user;Welcome to Beijing. Is this your first time in China?;neutral
+dailydialog-test-469;system;No, I have visited China several times, but it's my first visit to Beijing and I think it's a great honor to be invited to your beautiful city.;happiness 
+dailydialog-test-469;user;It's our pleasure to have you here. I hope you will have a pleasant stay here.;happiness 
+dailydialog-test-958;user;I also know you must still have strong feelings for her, but try to think of all the bad things. You know she didn't treat you that well. Is that the person you want to spend the rest of your life with?;neutral
+dailydialog-test-958;system;Yeah. Thanks for the talk.;sadness 
+dailydialog-test-958;user;I'll give you a call later. We should hang out. It's good to be around people.;happiness 
+dailydialog-test-958;system;Ok. I'll talk to you later.;neutral
+dailydialog-test-894;user;Good afternoon!;happiness 
+dailydialog-test-894;system;Good afternoon! Sit down, please. How are you?;neutral
+dailydialog-test-894;user;I'm very well, thank you. How are you?;happiness 
+dailydialog-test-894;system;Very well too, thank you very much. Isn' t it a lovely day?;happiness 
+dailydialog-test-942;system;Yes. I'Ve won the first prize in the math contest.;happiness 
+dailydialog-test-942;user;Really? Congratulations!;surprise
+dailydialog-test-942;system;Thank you, Paul.;happiness 
+dailydialog-test-942;user;By the way, would you like to have dinner with me tomorrow evening? Tomorrow is my birthday.;happiness 
+dailydialog-test-864;system;Well, maybe I can help. Remember my neighbor?;neutral
+dailydialog-test-864;user;Mrs. Thou?;neutral
+dailydialog-test-864;system;Yes, her daughter's having a baby, so she's moving in with her to help out. I think if you are interested, you can come over and have a look.;neutral
+dailydialog-test-864;user;Great. It's a lovely neighborhood. And it would be nice to be neighbors again. It would be just like the old days!;happiness 
+dailydialog-test-819;user;Some guy in the accounting department has a brother on the team!;happiness 
+dailydialog-test-819;system;Can't beat that! Thank you accounting guy!;happiness 
+dailydialog-test-819;user;The game starts at seven so we'd better hustle, it's already five.;neutral
+dailydialog-test-819;system;What are we waiting for? Let's go!;neutral

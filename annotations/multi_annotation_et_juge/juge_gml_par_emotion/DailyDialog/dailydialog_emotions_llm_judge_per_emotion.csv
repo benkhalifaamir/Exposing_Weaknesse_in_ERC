@@ -1,0 +1,101 @@
+dialog_id,speaker,utterance,turn_id,emotion_original,Annotated_Emotion_1,Annotated_Emotion_3,Annotated_Emotion_2,LLM_anger,LLM_disgust,LLM_fear,LLM_happiness,LLM_sadness,LLM_surprise,LLM_neutral
+dailydialog-test-101,user,That's a nice discount.,1,happiness,happiness, neutral ,surprise,0,0,0,1,0,1,1
+dailydialog-test-101,system,Here. Let me give you an application form.,2,neutral,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-101,user,"Thank you, but I'm just browsing today.",3,happiness,neutral, happiness ,neutral,1,0,0,0,0,0,1
+dailydialog-test-101,system,Okay. Enjoy your browsing.,4,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-189,system,Accessories? Do you carry polarizing filters?,1,neutral,anger, neutral ,neutral,0,0,0,0,0,0,1
+dailydialog-test-189,user,"Polarizing filter um we should! I'm sorry, ma'am. It looks like we're sold out.",2,happiness,neutral, sadness ,neutral,1,0,0,0,1,1,1
+dailydialog-test-189,system,No you're not! There are some right here!,3,happiness,anger, sadness ,anger ,1,1,0,1,0,1,1
+dailydialog-test-189,user,"Oh, well, would you look at that! Polarizing filters.",4,happiness,surprise, neutral ,surprise,1,0,0,1,0,1,1
+dailydialog-test-354,system,"Hi there, everyone. We hope you're having a good night!",1,happiness,neutral , happiness ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-354,user,Wasn't that football game great! I just knew we'd win!,2,happiness,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-354,system,"The night is young, folks. Get some food and mingle with those faces from yesterday.",3,happiness,happiness, neutral ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-354,user,Later we'll let you know who the King and Queen of the Reunion will be.,4,neutral,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-469,system,It's kind of you to meet me at the airport.,1,happiness,happiness, sadness ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-469,user,Welcome to Beijing. Is this your first time in China?,2,neutral,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-469,system,"No, I have visited China several times, but it's my first visit to Beijing and I think it's a great honor to be invited to your beautiful city.",3,happiness,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-469,user,It's our pleasure to have you here. I hope you will have a pleasant stay here.,4,happiness,happiness, neutral ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-546,user,How's the bride-to-be?,1,neutral,happiness, anger ,neutral,0,0,0,1,0,1,1
+dailydialog-test-546,system,Tired and stressed. This wedding is giving me a headache.,2,sadness,sadness, neutral ,neutral,1,0,0,0,1,0,0
+dailydialog-test-546,user,"Just relax. With me as your maid of honor, everything will be fine!",3,happiness,neutral, anger ,happiness ,0,0,0,1,1,0,1
+dailydialog-test-546,system,I'm worried that everything will be chaotic!,4,fear,fear, neutral ,fear ,1,0,1,0,1,1,1
+dailydialog-test-587,user,"Yeah, yeah, I know what I selected. Just gimme my money!",1,anger,anger, happiness ,anger ,1,1,0,0,0,0,0
+dailydialog-test-587,system,"Please type the amount you would like to withdraw. Thank you, you want to transfer 10000 USD to the World Wildlife Foundation. If this is correct please press 1.",2,happiness,neutral, anger ,neutral,1,0,0,0,0,1,1
+dailydialog-test-587,user,"No, no! Stupid machine, what are you doing! No!",3,anger,anger, neutral ,anger ,1,1,1,0,1,1,1
+dailydialog-test-587,system,Confirmed. Thank you for using our bank! Please remove your card from the slot. Goodbye!,4,happiness,neutral, neutral ,neutral,1,1,1,0,0,1,1
+dailydialog-test-598,user,Nice to meet you! My name is Grace Williams.,1,happiness,neutral, neutral ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-598,system,Nice to meet you too! I am Peter Smith.,2,happiness,neutral, neutral ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-598,user,Today is my first day at work!,3,happiness,happiness, happiness ,happiness ,0,0,1,1,0,1,1
+dailydialog-test-598,system,"Well, hope you will enjoy your first day! Just ask me if you need any help.",4,happiness,neutral, happiness ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-623,user,I am so glad that you decided to stop by!,1,happiness,happiness, happiness ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-623,system,"Yes, it has been a long time since we have seen you.",2,happiness,happiness, neutral ,neutral,0,0,0,1,1,1,1
+dailydialog-test-623,user,"Mary, can I get Josh or you something to drink?",3,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-623,system,"Oh no, thank you. We aren't all that thirsty.",4,neutral,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-627,system,You can have a bird view of Guiling City from the top of the mountain.,1,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-627,user,Wonderful! I'll often come here for mountain climbing.,2,happiness,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-627,system,"You should. Many Guiliners, especially the old and the young, will climb mountains here in the morning.",3,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-627,user,No wonder people say,4,happiness,neutral, neutral ,neutral,0,0,0,1,0,1,1
+dailydialog-test-790,user,"Next Monday is my birthday, and I would like you to attend my party.",1,happiness,happiness, happiness ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-790,system,Wow. I'd love to.,2,happiness,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-790,user,Great!,3,happiness,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-790,system,When and where?,4,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-793,system,The seaside.,1,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-793,user,That's really a good idea. Taking a walk on the beach and lying in the sun are pretty good. I recommend you Qingdao or Dalian.,2,happiness,neutral, happiness ,neutral,0,0,0,1,0,0,1
+dailydialog-test-793,system,"I'Ve been to Qingdao before, so I'll choose Dalian. I've heard that the environment there is very good.",3,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-793,user,"Yes, that's a good place to spend a holiday. Last year I went there. It's really.",4,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-804,system,"They are moving today. Tom's taken the day off. He's rented a truck, and they should have all their furniture in the house tonight.",1,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-804,user,When are they going to have the party?,2,happiness,neutral, neutral ,neutral,0,0,0,1,0,1,1
+dailydialog-test-804,system,Next Saturday night. You should get your invitation today or tomorrow.,3,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-804,user,"Wow, that would be something to look forward to.",4,happiness,happiness, happiness ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-804,system,There's also a garden.,5,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-804,user,"Well, that does sound nice. Have they moved in yet?",6,happiness,surprise, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-804,system,"They are moving today. Tom's taken the day off. He's rented a truck, and they should have all their furniture in the house tonight.",7,happiness,neutral, happiness ,neutral,0,0,0,1,0,0,1
+dailydialog-test-804,user,When are they going to have the party?,8,happiness,neutral, neutral ,neutral,0,0,0,1,0,1,1
+dailydialog-test-819,system,How in the world! Who came up with seats like that from your company?,1,happiness,surprise, neutral ,surprise,1,1,0,0,0,1,1
+dailydialog-test-819,user,Some guy in the accounting department has a brother on the team!,2,happiness,surprise, neutral ,happiness ,1,1,0,0,0,1,1
+dailydialog-test-819,system,Can't beat that! Thank you accounting guy!,3,happiness,sadness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-819,user,"The game starts at seven so we'd better hustle, it's already five.",4,happiness,sadness, happiness ,neutral,0,0,0,1,0,0,1
+dailydialog-test-819,user,Some guy in the accounting department has a brother on the team!,5,happiness,surprise, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-819,system,Can't beat that! Thank you accounting guy!,6,happiness,happiness, neutral,happiness ,0,0,0,1,0,1,1
+dailydialog-test-819,user,"The game starts at seven so we'd better hustle, it's already five.",7,happiness,neutral, neutral,neutral,0,0,0,1,0,0,1
+dailydialog-test-819,system,What are we waiting for? Let's go!,8,happiness,neutral, neutral,neutral,1,0,0,1,0,1,1
+dailydialog-test-842,user,"John, my father isn't there at all. Are you kidding?",1,neutral,surprise, surprise ,surprise,1,1,1,0,1,1,0
+dailydialog-test-842,system,"Cool, fellow, what's the date today, buddy?",2,happiness,happiness, neutral ,neutral,1,1,0,0,0,0,1
+dailydialog-test-842,user,"It's... oh it's the 1st April, April Fool's Day.",3,surprise,neutral, neutral ,surprise,1,1,0,1,1,1,1
+dailydialog-test-842,system,"You forgot all of about it, didn't you?",4,happiness,neutral, happiness ,neutral,1,0,0,1,0,1,1
+dailydialog-test-847,system,They are. The only reason they didn't disqualify him until after the race is because the results from the text only came back afterwards.,1,disgust,neutral, happiness ,neutral,0,0,0,0,0,0,1
+dailydialog-test-847,user,That's so disappointing. I don't know why top athletes would feel the need to take drugs.,2,disgust,sadness, neutral ,disgust,1,1,0,0,1,1,1
+dailydialog-test-847,system,"I don't think it's right, but I can understand why they might. Imagine how much pressure there would be to win for your country!",3,disgust,neutral, neutral ,disgust,1,1,1,0,1,1,1
+dailydialog-test-847,user,"Regardless of how much pressure you're under, there's never a good reason to take drugs.",4,neutral,anger, happiness ,sadness ,1,1,0,0,1,0,1
+dailydialog-test-864,system,"Well, maybe I can help. Remember my neighbor?",1,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-864,user,Mrs. Thou?,2,neutral,neutral, neutral ,neutral,0,0,0,0,0,1,1
+dailydialog-test-864,system,"Yes, her daughter's having a baby, so she's moving in with her to help out. I think if you are interested, you can come over and have a look.",3,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-864,user,Great. It's a lovely neighborhood. And it would be nice to be neighbors again. It would be just like the old days!,4,happiness,happiness, neutral ,happiness ,0,0,0,1,1,1,1
+dailydialog-test-894,user,Good afternoon!,1,happiness,neutral, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-894,system,"Good afternoon! Sit down, please. How are you?",2,happiness,neutral, neutral ,neutral,0,0,0,1,0,0,1
+dailydialog-test-894,user,"I'm very well, thank you. How are you?",3,happiness,neutral, neutral ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-894,system,"Very well too, thank you very much. Isn' t it a lovely day?",4,happiness,neutral, neutral ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-924,system,"Actually, we bought the ring together after I got the watch.",1,happiness,neutral, sadness ,neutral,0,0,0,1,0,0,1
+dailydialog-test-924,user,You did a fabulous job with the selection. It's gorgeous.,2,happiness,happiness, happiness ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-924,system,Thank you so much.,3,happiness,happiness, fear ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-924,user,What kind of watch is it?,4,neutral,neutral, neutral ,neutral,0,0,0,1,0,1,1
+dailydialog-test-932,user,How do you research your books?,1,happiness,neutral, neutral ,neutral,0,0,0,0,0,0,1
+dailydialog-test-932,system,I always visit the places that I use as setting for stories. Readers like things to be as factually correct as possible-even in fiction! I usually base my characters on people I have met. Most character are a mixture of the characters of two or more people.,2,happiness,neutral, neutral ,happiness ,0,0,0,1,0,0,1
+dailydialog-test-932,user,I really like your books. I'Ve just finished this one. I read it from cover to cover in a single day. Congratulation on making the bestseller list yet again!,3,happiness,neutral , happiness ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-932,system,Thank you. Let met sign it for you... there you go.,4,happiness,neutral, happiness ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-942,system,Yes. I'Ve won the first prize in the math contest.,1,happiness,happiness, sadness ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-942,user,Really? Congratulations!,2,happiness,happiness, happiness ,surprise,0,0,0,1,0,1,1
+dailydialog-test-942,system,"Thank you, Paul.",3,happiness,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-942,user,"By the way, would you like to have dinner with me tomorrow evening? Tomorrow is my birthday.",4,neutral,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-951,user,What's wrong with her.,1,neutral,neutral, anger ,neutral,1,1,1,0,1,1,1
+dailydialog-test-951,system,She is expecting.,2,happiness,happiness, neutral ,neutral,0,0,0,1,0,1,1
+dailydialog-test-951,user,Congratulations to you.,3,happiness,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-951,system,Thank you.,4,happiness,happiness, neutral ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-958,user,"I also know you must still have strong feelings for her, but try to think of all the bad things. You know she didn't treat you that well. Is that the person you want to spend the rest of your life with?",1,happiness,neutral, happiness ,neutral,1,1,0,0,1,0,1
+dailydialog-test-958,system,Yeah. Thanks for the talk.,2,happiness,sadness, neutral ,sadness ,0,0,0,0,1,0,1
+dailydialog-test-958,user,I'll give you a call later. We should hang out. It's good to be around people.,3,happiness,neutral, neutral ,happiness ,0,0,0,1,1,0,1
+dailydialog-test-958,system,Ok. I'll talk to you later.,4,happiness,neutral, happiness ,neutral,0,0,0,0,1,0,1
+dailydialog-test-982,user,All right!,1,surprise,neutral, neutral ,happiness ,1,0,0,1,0,1,1
+dailydialog-test-982,system,"Here comes Jordan, though.",2,happiness,neutral, neutral ,neutral,0,0,0,0,0,1,1
+dailydialog-test-982,user,"Wow, Michael Jordan's slam-dunks are beautiful things to watch.",3,happiness,happiness, happiness ,happiness ,0,0,0,1,0,1,1
+dailydialog-test-982,system,"Yeah. He's older, so he doesn't slam as much as he did when he was younger, but when he does, it's still amazing.",4,happiness,happiness, neutral ,neutral,0,0,0,1,0,0,1

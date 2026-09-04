@@ -1,0 +1,71 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="hero" style="margin-bottom: 2rem; text-align: center;">
+    <h2 style="font-size: 1.875rem; margin-bottom: 0.5rem; color: #fff;">
+        Annotation – analyse.xlsx
+    </h2>
+    <p style="color: #94a3b8;">
+        Annotate pragmatic intent, lexical cues, punctuation, and context clarity.
+    </p>
+</div>
+
+<form method="POST" action="{{ url_for('save') }}">
+
+<div style="overflow-x:auto;">
+<table class="table">
+    <thead>
+        <tr>
+            {% for col in data[0].keys() %}
+                <th>{{ col }}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+
+    <tbody>
+    {% for i, row in enumerate(data) %}
+        <tr>
+        {% for col, value in row.items() %}
+            <td>
+                {% if col in annotation_schema %}
+                    
+                    {% if annotation_schema[col] is none %}
+                        <!-- Free text field -->
+                        <input
+                            type="text"
+                            name="{{ col }}_{{ i }}"
+                            value="{{ value }}"
+                            style="width: 100%;"
+                        >
+                    {% else %}
+                        <!-- Controlled vocabulary -->
+                        <select name="{{ col }}_{{ i }}" style="width: 100%;">
+                            <option value=""></option>
+                            {% for option in annotation_schema[col] %}
+                                <option value="{{ option }}"
+                                    {% if option == value %}selected{% endif %}>
+                                    {{ option }}
+                                </option>
+                            {% endfor %}
+                        </select>
+                    {% endif %}
+
+                {% else %}
+                    {{ value }}
+                {% endif %}
+            </td>
+        {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+
+<div style="margin-top: 1.5rem; text-align: center;">
+    <button type="submit" class="btn">
+        Save annotations
+    </button>
+</div>
+
+</form>
+{% endblock %}

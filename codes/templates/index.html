@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="hero" style="margin-bottom: 3rem; text-align: center;">
+    <h2 style="font-size: 2.5rem; margin-bottom: 1rem; color: #fff;">
+        Annotation Platform
+    </h2>
+    <p style="color: #94a3b8; font-size: 1.125rem;">
+        Annotate pragmatic intent, lexical cues, punctuation, and context clarity.
+    </p>
+</div>
+
+<div class="card-grid" style="justify-content: center;">
+    <div class="card">
+        <h2>analyse.xlsx</h2>
+        <p>
+            Annotate conversation turns using a structured, scientifically grounded schema.
+        </p>
+        <div style="margin-top: 1.5rem;">
+            <a href="{{ url_for('annotate') }}" class="btn btn-block">
+                Start Annotating →
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}
